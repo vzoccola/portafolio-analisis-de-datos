@@ -25,13 +25,6 @@
   <li align="justify">Detecté brechas de asignación y trazabilidad mediante análisis de procesos (<strong>BPM</strong>).</li>
   <li align="justify">Depuré y normalicé datos desde <strong>Tenant de Microsoft</strong>.</li>
   <li align="justify">Realicé análisis exploratorio de datos en <strong>Python</strong> y diseñé reportes dinámicos en <strong>Power BI</strong>.</li>
-  <li align="justify">Implementé una solución integral para:
-    <ul>
-      <li align="justify">Monitorear en tiempo real licencias adquiridas y asignadas.</li>
-      <li align="justify">Detectar ineficiencias y liberar recursos no utilizados.</li>
-      <li align="justify">Facilitar reasignaciones proactivas de licencias.</li>
-      <li align="justify">Reforzar el cumplimiento normativo en auditorías internas y externas.</li>
-    </ul>
 </ul>
 
 <!-- Herramientas -->
