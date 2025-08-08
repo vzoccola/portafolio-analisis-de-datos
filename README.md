@@ -11,19 +11,18 @@ Soy Ingeniero Industrial y Analista de Datos en el área Gobierno de Datos de Li
 - <strong>Integración de diversas bases de datos</strong> del tenant de Microsoft vía <strong>Microsoft Graph API</strong> y bases de datos internas para ubicar a cada colaborador dentro de la empresa, según unidad de negocio 
 -  <strong>Visualización de resultados</strong> a traves de tableros en <strong>Power BI</strong> aplicanado conceptos de storytelling
 
-**Resultado:** <mark>monitoreo en tiempo real</mark> de licencias adquiridas vs. asignadas, <strong>detección temprana</strong> de ineficiencias/inactividad, <strong>reasignación proactiva</strong> y <strong>mejor preparación para auditorías</strong>.
+## 📈 Resultado
 
-<details>
-<summary>📊 Ver stack, prácticas y habilidades</summary>
+Monitoreo en tiempo real de licencias compradas y licencias asignadas, detectando diferencias y generando alertas al estar fuera de compliance (cantidad de licencias sobreasignadas). Permite detección de inactividad de usuarios, reasignación de licencias y optimizar recursos de la compañía.
 
-### 🛠️ Stack
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Graph%20API-0078D4?logo=microsoft&logoColor=white" />
+## 🛠️ Stack y habilidades
+
+- 🧭 Análisis de procesos / BPM
+- 📊 Excel
+- 🇬🇧 Inglés B2+
+- 📈 Power BI
+- 💻 Python
+- 🗄️ SQL
 
 ### 📐 Prácticas
 SAM · FinOps · BPM · Control de gestión
