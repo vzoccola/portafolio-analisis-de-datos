@@ -7,7 +7,7 @@
 </p>
 
 <!-- Presentación de portafolio -->
-  Bienvenido a mi portafolio, donde muestro cómo transformo datos en <strong>insights accionables</strong> usando <strong>Python</strong>, <strong>Power BI</strong>, <strong>SQL</strong> y <strong>Excel avanzado</strong>. A través de proyectos como <em>reportes financieros con storytelling visual</em>, <em>análisis exploratorios</em> y <em>optimización de recursos</em> mediante automatización y limpieza de datos, reflejo mi capacidad para unir <strong>análisis profundo</strong>, <strong>dominio técnico</strong> y <strong>visión de negocio</strong>.
+  Bienvenido a mi portafolio, donde muestro cómo transformo datos en insights accionables usando <strong>Python</strong>, <strong>Power BI</strong>, <strong>SQL</strong> y <strong>Excel avanzado</strong>. A través de proyectos como <strong>reportes financieros con storytelling visual</strong>, <strong>análisis exploratorios</em> y <strong>optimización de recursos</em> mediante automatización y limpieza de datos, reflejo mi capacidad para unir análisis profundo, dominio técnico y visión de negocio.
 </p>
 
 <!-- Contacto -->
@@ -15,4 +15,5 @@
 
 <!-- Detalle contacto -->
 <p>
+aaa
 <a href="https://www.linkedin.com/in/vicente-zoccola-057098211">LinkedIn</a> · <a href="mailto:v.zoccolad@gmail.com">v.zoccolad@gmail.com</a>
