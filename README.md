@@ -8,7 +8,7 @@
 
 <!-- Presentación de portafolio -->
 <p align="justify">
-  Bienvenido a mi portafolio, donde muestro cómo transformo datos en insights accionables usando <strong>Python</strong>, <strong>Power BI</strong>, <strong>SQL</strong> y <strong>Excel avanzado</strong>. A través de proyectos como <strong>reportes financieros con storytelling visual</strong>, <strong>análisis exploratorios</strong> y <strong>optimización de recursos</strong> mediante automatización y limpieza de datos, reflejo mi capacidad para unir análisis profundo, dominio técnico y visión de negocio.
+  Bienvenido a mi <strong>Portafolio de Análsis de Datos</strong>, donde muestro cómo transformo datos en insights accionables usando <strong>Python</strong>, <strong>Power BI</strong>, <strong>SQL</strong> y <strong>Excel avanzado</strong>. A través de proyectos como <strong>reportes financieros con storytelling visual</strong>, <strong>análisis exploratorios</strong> y <strong>optimización de recursos</strong> mediante automatización y limpieza de datos, reflejo mi capacidad para unir análisis profundo, dominio técnico y visión de negocio.
 </p>
 
 <!-- Caso aplicado (plantilla) -->
