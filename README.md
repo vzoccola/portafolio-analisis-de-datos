@@ -1,43 +1,59 @@
 # 👋 Soy Vicente Zóccola Domínguez
 
-Soy Ingeniero Industrial y Analista de Datos en el área Gobierno de Datos de Licenciamiento en Cencosud. Garantizo el cumplimiento normativo (compliance) de software y eficiencia de costos con proveedores como Microsoft, SAP, Oracle y Blue Prism. Conecto diversas áreas como compras y desarrollo a través del análisis de datos, automatización de procesos y visualización de métricas para alinear datos, procesos y objetivos del negocio. Me motiva contribuir desde el aprendizaje continuo y una mirada sistémica, impulsando decisiones basadas en datos.
+Ingeniero Industrial y Analista de equipo de Gobierno de Datos en área de Licenciamiento en Cencosud. Cuento con experiencia en FinOps, optimización de procesos y uso de herramientas como Python y Power BI para transformar datos en información estratégica. He liderado iniciativas de optimización de licencias de software mediante análisis avanzado y visualización dinámica, logrando maximizar el aprovechamiento de recursos y generar eficiencias operativas a escala corporativa. Me motiva conectar datos, tecnología y equipos para diseñar soluciones innovadoras que impulsen la toma de decisiones y generen un impacto tangible en el negocio.
 
 ---
+Bienvenido a mi portafolio, donde muestro cómo transformo datos en insights accionables usando Python, Power BI, SQL y Excel avanzado. A través de proyectos como reportes financieros con storytelling visual, análisis exploratorios y optimización de recursos mediante automatización y limpieza de datos, reflejo mi capacidad para unir análisis profundo, dominio técnico y visión de negocio. Cada proyecto está diseñado para evidenciar un perfil técnico sólido y estratégico, preparado para dar el salto a un rol senior en análisis y gestión de datos.
 
-## 🧩 Caso destacado — Optimización integral de licencias Microsoft
-- <strong>Análisis BPM</strong> para mapear problema, detectar asignaciones y definir futuras acciones
-- <strong>Análisis exploratorio</strong> en <strong>Python</strong> y conocer estado de la información
-- <strong>Depuración y normalización</strong> de fuente de datos desde <strong>Tenant de Microsoft</strong> para obtener asignacion de licencias por producto de cada usuario dentro de la compañía 
-- <strong>Integración de diversas bases de datos</strong> del tenant de Microsoft vía <strong>Microsoft Graph API</strong> y bases de datos internas para ubicar a cada colaborador dentro de la empresa, según unidad de negocio 
--  <strong>Visualización de resultados</strong> a traves de tableros en <strong>Power BI</strong> aplicanado conceptos de storytelling
+---
+## 🧩 Caso de Negocio — Optimización integral de licencias Microsoft en Cencosud
+<!-- Título -->
+<h1 align="center">Optimización del uso de licencias de Microsoft Office – Caso aplicado</h1>
+
+<!-- Subtítulo -->
+<p align="center">
+  Evidencia de un proyecto real orientado a eficiencia operativa y control de costos.
+</p>
+
+<hr/>
+
+<!-- Introducción breve -->
+<p>
+  <strong>Lideré</strong> un proyecto corporativo para optimizar el uso de licencias de Microsoft Office.
+</p>
+
+<!-- Hallazgos / Enfoque -->
+<ul>
+  <li>Detecté brechas de asignación y trazabilidad mediante <strong>análisis de procesos (BPM)</strong>.</li>
+  <li>Depuré y normalicé datos de <strong>Active Directory</strong> para asegurar consistencia.</li>
+  <li>Integré datos con el inquilino de Microsoft mediante <strong>API Graph</strong>.</li>
+  <li>Realicé <strong>análisis exploratorio de datos en Python</strong> y diseñé <strong>reportes dinámicos en Power BI</strong>.</li>
+</ul>
+
+<!-- Solución -->
+<h3>Implementé una solución integral para:</h3>
+<ul>
+  <li>Monitorear en tiempo real licencias adquiridas y asignadas.</li>
+  <li>Detectar ineficiencias y liberar recursos no utilizados.</li>
+  <li>Facilitar reasignaciones proactivas de licencias.</li>
+  <li>Reforzar el cumplimiento normativo en auditorías internas y externas.</li>
+</ul>
+
+<!-- Cierre / Propuesta de valor -->
+<p>
+  Ejemplo concreto de cómo <strong>combino datos, tecnología y visión de negocio</strong> para impulsar la <strong>mejora continua</strong>.
+</p>
+
+<!-- (Opcional) Etiquetas rápidas -->
+<p>
+  <em>Stack clave:</em> BPM · Active Directory · Microsoft Graph API · Python · Power BI
+</p>
+
 
 ## 📈 Resultado
 
-Monitoreo en tiempo real de licencias compradas y licencias asignadas, detectando diferencias y generando alertas al estar fuera de compliance (cantidad de licencias sobreasignadas). Permite detección de inactividad de usuarios, reasignación de licencias y optimizar recursos de la compañía.
-
-## 🛠️ Stack y habilidades
-
-- 🧭 Análisis de procesos / BPM
-- 📊 Excel
-- 🇬🇧 Inglés B2+
-- 📈 Power BI
-- 💻 Python
-- 🗄️ SQL
-
-### 📐 Prácticas
-SAM · FinOps · BPM · Control de gestión
-
-### 🧠 Habilidades
-Traducir necesidades del negocio en <strong>insights accionables</strong> · Diseño de <strong>pipelines auditables</strong> · <strong>Storytelling</strong> con datos · Comunicación interáreas · Gestión de stakeholders
-
-### 🌐 Idiomas
-Español nativo · Inglés B2+
-</details>
-
----
-
-## 🚀 Portafolio
-Te invito a explorar este portafolio (análisis en Python, reportería y tableros) y a conversar cómo puedo aportar a tus objetivos de TI y finanzas.
+Monitoreo en tiempo real de licencias compradas y asignadas, detectando diferencias y generando alertas al estar fuera de compliance (cantidad de licencias sobreasignadas). Permite detección de inactividad de usuarios, reasignación de licencias y optimizar recursos de la compañía.
+ 
 
 ## 🤝 Contacto
 <a href="https://www.linkedin.com/in/vicente-zoccola-057098211">LinkedIn</a> · <a href="mailto:v.zoccolad@gmail.com">v.zoccolad@gmail.com</a>
