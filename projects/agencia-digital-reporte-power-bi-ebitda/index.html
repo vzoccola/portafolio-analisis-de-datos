@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Agencia Digital – Reporte EBITDA (Power BI)</title>
+  <meta name="description" content="Reporte interactivo de EBITDA en Power BI – Portafolio de Datos" />
+  <style>
+    :root { --maxw: 1200px; }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color: #111; }
+    header { border-bottom: 1px solid #eee; background: #fff; position: sticky; top: 0; z-index: 10; }
+    .bar { max-width: var(--maxw); margin: 0 auto; padding: 12px 16px; display: flex; gap: 12px; align-items: center; justify-content: space-between; }
+    .brand { font-weight: 700; }
+    a.btn, button.btn { appearance: none; background: #fff; border: 1px solid #bbb; border-radius: 10px; padding: 8px 12px; cursor: pointer; text-decoration: none; color: inherit; }
+    a.btn:hover, button.btn:hover { background:#f6f6f6; }
+    main { max-width: var(--maxw); margin: 0 auto; padding: 14px 16px 26px; }
+    .frame-wrap { position: relative; width: 100%; height: 72vh; border: 1px solid #e6e6e6; border-radius: 12px; overflow: hidden; background: #fafafa; }
+    iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+    .note { color: #666; font-size: 0.95rem; margin: 8px 0 0; }
+    h2 { margin: 20px 0 8px; }
+    h3 { margin: 14px 0 6px; }
+    ul { line-height: 1.65; padding-left: 18px; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    @media (max-width: 860px){ .grid { grid-template-columns: 1fr; } .frame-wrap { height: 68vh; } }
+    footer { max-width: var(--maxw); margin: 0 auto; padding: 18px 16px 30px; color: #666; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="bar">
+      <div class="brand">Agencia Digital – Reporte EBITDA</div>
+      <nav>
+        <a class="btn" href="../index.html">← Portafolio</a>
+        <a class="btn" id="openDirect" target="_blank" rel="noopener">Abrir en Power BI</a>
+        <button class="btn" id="openWindow">Pantalla completa</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- Reporte interactivo -->
+    <div class="frame-wrap" id="frameWrap" role="region" aria-label="Visualización interactiva Power BI">
+      <iframe
+        id="pbiFrame"
+        title="EBITDA Agencia Digital"
+        src="https://app.powerbi.com/view?r=eyJrIjoiZjM3ZmI4MjktZDU5YS00NTE4LWFmMmUtOGZmZWZhYTk1MWNiIiwidCI6IjQ5ZWM5ZjUyLThlMjgtNGIyMC1hNDQxLTkyZWJmMjZjNTQ0YyIsImMiOjR9"
+        allowfullscreen="true">
+      </iframe>
+    </div>
+    <p class="note">
+      Si tu navegador bloquea el embed, usa el
+      <a id="directLink" href="#" target="_blank" rel="noopener">enlace directo</a>.
+    </p>
+
+    <!-- Caso de negocio (edítalo con tu detalle real) -->
+    <h2>🧭 Caso de negocio</h2>
+    <p>
+      Seguimiento mensual del <strong>EBITDA</strong> vs. presupuesto/forecast para la Agencia Digital.
+      El tablero permite analizar drivers: Venta Neta, Costo, Gasto Op., Resultado Operacional y márgenes.
+    </p>
+
+    <div class="grid">
+      <div>
+        <h3>Objetivos</h3>
+        <ul>
+          <li>Monitorear EBITDA y su variación vs. Budget/Forecast.</li>
+          <li>Identificar marcas/segmentos con mayor contribución o desviación.</li>
+          <li>Explicar movimientos por precio, volumen, mix y gasto.</li>
+        </ul>
+
+        <h3>Usuarios</h3>
+        <ul>
+          <li>Gerencia: visión ejecutiva y decisiones de alto nivel.</li>
+          <li>Comercial: mix, descuentos y rentabilidad por marca/canal.</li>
+          <li>Finanzas: consistencia de costos y provisiones.</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Datos & Metodología</h3>
+        <ul>
+          <li>Fuentes: Ventas (ERP), Costos y Gastos (Contabilidad/FP&A), Budget/Forecast.</li>
+          <li>Definiciones: Venta Neta, Margen Bruto, Resultado Op., <strong>EBITDA</strong>.</li>
+          <li>Métricas útiles: YTD, R12, Var y Var% vs. Budget/Forecast.</li>
+        </ul>
+
+        <h3>Hallazgos & Recomendaciones</h3>
+        <ul>
+          <li>Completa aquí tus insights clave y acciones sugeridas.</li>
+        </ul>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <small>© Tu Nombre – Portafolio de Datos.</small>
+  </footer>
+
+  <script>
+    const VIEW_URL = "https://app.powerbi.com/view?r=eyJrIjoiZjM3ZmI4MjktZDU5YS00NTE4LWFmMmUtOGZmZWZhYTk1MWNiIiwidCI6IjQ5ZWM5ZjUyLThlMjgtNGIyMC1hNDQxLTkyZWJmMjZjNTQ0YyIsImMiOjR9";
+    document.getElementById('openDirect').href = VIEW_URL;
+    document.getElementById('directLink').href = VIEW_URL;
+    document.getElementById('openWindow').addEventListener('click', () => window.open(VIEW_URL, '_blank', 'noopener'));
+
+    // Ajuste responsivo de alto
+    const frameWrap = document.getElementById('frameWrap');
+    const headerEl = document.querySelector('header');
+    function adjustFrameHeight(){
+      const vh = window.innerHeight || document.documentElement.clientHeight;
+      const headerH = headerEl.getBoundingClientRect().height;
+      frameWrap.style.height = Math.max(360, vh - headerH - 110) + 'px';
+    }
+    window.addEventListener('resize', adjustFrameHeight);
+    window.addEventListener('load', adjustFrameHeight);
+  </script>
+</body>
+</html>
