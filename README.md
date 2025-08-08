@@ -6,8 +6,6 @@
   <strong>Ingeniero Civil Industrial</strong> y <strong>Analista de Datos</strong> en equipo de Gobierno de Datos para el área de Licenciamiento en <strong>Cencosud</strong>. He impulsado mejoras en la eficiencia operativa y la toma de decisiones mediante soluciones FinOps, automatización de procesos y reportería estratégica basada en indicadores clave del negocio. Me motiva conectar datos, tecnología y equipos para diseñar soluciones innovadoras que impulsen la toma de decisiones y generen un impacto tangible en el negocio.
 </p>
 
-<hr/>
-
 <!-- Presentación de portafolio -->
 <p>
   Bienvenido a mi portafolio, donde muestro cómo transformo datos en <strong>insights accionables</strong> usando <strong>Python</strong>, <strong>Power BI</strong>, <strong>SQL</strong> y <strong>Excel avanzado</strong>.  
