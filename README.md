@@ -3,7 +3,7 @@
 
 <!-- Resumen profesional -->
 <p>
-  <strong>Ingeniero Civil Industrial</strong> y <strong>Analista de Datos</strong> en equipo de Gobierno de Datos para el área de Licenciamiento en <strong>Cencosud</strong>. Cuento con experiencia en FinOps, optimización de procesos y uso de herramientas como Python y Power BI para transformar datos en información estratégica. He impulsado mejoras en la eficiencia operativa y la toma de decisiones mediante soluciones FinOps, automatización de procesos y reportería estratégica basada en indicadores clave del negocio. Me motiva conectar datos, tecnología y equipos para diseñar soluciones innovadoras que impulsen la toma de decisiones y generen un impacto tangible en el negocio.
+  <strong>Ingeniero Civil Industrial</strong> y <strong>Analista de Datos</strong> en equipo de Gobierno de Datos para el área de Licenciamiento en <strong>Cencosud</strong>. He impulsado mejoras en la eficiencia operativa y la toma de decisiones mediante soluciones FinOps, automatización de procesos y reportería estratégica basada en indicadores clave del negocio. Me motiva conectar datos, tecnología y equipos para diseñar soluciones innovadoras que impulsen la toma de decisiones y generen un impacto tangible en el negocio.
 </p>
 
 <hr/>
