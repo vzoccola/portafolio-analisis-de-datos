@@ -12,7 +12,7 @@ El presente análisis evalúa el desempeño financiero de la compañía en el pe
 
 <!-- Enlace al reporte -->
 <p align="center">
-<a href="https://tureporte.com" target="_blank" style="font-size: 18px; text-decoration: none; color: #0056b3; font-weight: bold;">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjM3ZmI4MjktZDU5YS00NTE4LWFmMmUtOGZmZWZhYTk1MWNiIiwidCI6IjQ5ZWM5ZjUyLThlMjgtNGIyMC1hNDQxLTkyZWJmMjZjNTQ0YyIsImMiOjR9" style="font-size: 18px; text-decoration: none; color: #0056b3; font-weight: bold;">
 📄 Ver Reporte Financiero Completo
 </a>
 </p>
