@@ -3,19 +3,11 @@
 
 <!-- Contexto narrativo -->
 <p align="justify">
-<strong>Agencia Digital</strong> es una empresa especializada en marketing y relaciones públicas que ofrece un servicio integral 360°, combinando comunicación corporativa, gestión de reputación, marketing de influencia, creatividad en nuevos medios y análisis de datos. Esta propuesta de valor le permite a la agencia maximizar el impacto de las marcas que gestiona, integrando estrategias innovadoras con un sólido respaldo analítico.
+<strong>Agencia Digital</strong> es una empresa especializada en marketing y relaciones públicas que ofrece un servicio integral 360°, combinando comunicación corporativa, gestión de reputación, marketing de influencia, creatividad en nuevos medios y análisis de datos. Esta propuesta de valor le permite a la agencia maximizar el impacto de las marcas que gestiona, integrando estrategias innovadoras con un sólido respaldo analítico. El modelo de ingresos se compone principalmente de un <em>Fee mensual</em>, que representa el 74% del total, seguido de proyectos puntuales y servicios tercerizados bajo la modalidad de <em>Costo Cliente</em>, que aportan un margen adicional. Esta estructura le otorga estabilidad financiera, al tiempo que permite flexibilidad para asumir oportunidades específicas del mercado.
 </p>
 
 <p align="justify">
-El modelo de ingresos se compone principalmente de un <em>Fee mensual</em>, que representa el 74% del total, seguido de proyectos puntuales y servicios tercerizados bajo la modalidad de <em>Costo Cliente</em>, que aportan un margen adicional. Esta estructura le otorga estabilidad financiera, al tiempo que permite flexibilidad para asumir oportunidades específicas del mercado.
-</p>
-
-<p align="justify">
-El presente análisis evalúa el desempeño financiero de la compañía en el periodo comprendido entre enero y agosto de 2024. La revisión contempla variables clave como ventas, salarios y gastos operacionales, comparándolas con el presupuesto establecido, con el fin de calcular el <strong>EBITDA</strong> y determinar la rentabilidad por área. Este enfoque permite identificar tendencias, detectar desviaciones significativas y proponer acciones concretas para optimizar recursos y mejorar el margen operativo.
-</p>
-
-<p align="justify">
-En este contexto, resulta fundamental comprender no solo los números, sino también las dinámicas internas y externas que impactan la operación. La capacidad de adaptarse a un entorno cambiante, mantener la eficiencia en el uso de recursos y potenciar las unidades de negocio más rentables son factores decisivos para sostener y aumentar la competitividad en el mercado.
+El presente análisis evalúa el desempeño financiero de la compañía en el periodo comprendido entre enero y agosto de 2024. La revisión contempla variables clave como ventas, salarios y gastos operacionales, comparándolas con el presupuesto establecido, con el fin de calcular el <strong>EBITDA</strong> y determinar la rentabilidad por área. Este enfoque permite identificar tendencias, detectar desviaciones significativas y proponer acciones concretas para optimizar recursos y mejorar el margen operativo. En este contexto, resulta fundamental comprender no solo los números, sino también las dinámicas internas y externas que impactan la operación. La capacidad de adaptarse a un entorno cambiante, mantener la eficiencia en el uso de recursos y potenciar las unidades de negocio más rentables son factores decisivos para sostener y aumentar la competitividad en el mercado.
 </p>
 
 <!-- Enlace al reporte -->
