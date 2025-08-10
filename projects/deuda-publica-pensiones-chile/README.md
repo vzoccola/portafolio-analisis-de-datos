@@ -1,39 +1,43 @@
-<!-- Encabezado principal -->
-<h1 align="center">👋 Soy Vicente Zóccola Domínguez</h1>
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>README</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      line-height: 1.6;
+      padding: 2rem;
+      background: #fff;
+      color: #111;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .justificado {
+      text-align: justify;
+      text-justify: inter-word;
+      white-space: pre-wrap;
+    }
+    p {
+      margin: 1rem 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="justificado">
+<p>Estimación de la deuda implícita en pensiones en Chile
+Este proyecto analiza la sostenibilidad del sistema de pensiones chileno mediante la estimación de la deuda implícita en pensiones, entendida como el valor presente de las obligaciones que el Estado mantiene con los pensionados actuales y futuros. El estudio se enmarca en un contexto de aumento sostenido en la esperanza de vida y disminución de las tasas de mortalidad, lo que genera presiones sobre el gasto fiscal y plantea desafíos para el financiamiento de las pensiones. La metodología empleada permite cuantificar estas obligaciones y proyectar su evolución en el tiempo.</p>
 
-<!-- Resumen profesional -->
-<p align="justify">
-  <strong>Ingeniero Civil Industrial</strong> y <strong>Analista de Datos</strong> en equipo de Gobierno de Datos para el área de Licenciamiento en <strong>Cencosud</strong>. He impulsado mejoras en la eficiencia operativa y la toma de decisiones mediante soluciones FinOps, automatización de procesos y reportería estratégica basada en indicadores clave del negocio. Me motiva conectar datos, tecnología y equipos para diseñar soluciones innovadoras que impulsen la toma de decisiones y generen un impacto tangible en el negocio.
-</p>
+<p>El desarrollo del trabajo se basa en la proyección de tasas de mortalidad utilizando el modelo de Lee-Carter, ajustado a datos chilenos obtenidos de la Human Mortality Database (HMD), que provee tasas centrales de mortalidad específicas por edad para el período 1992-2019. Las proyecciones de población por edad y sexo provienen del World Population Prospects (ONU), aplicando el método de componentes de cohorte. Las tasas de interés reales se obtienen de la Comisión para el Mercado Financiero (CMF), usando el promedio de rentas vitalicias de vejez, vejez anticipada e invalidez. El gasto público en pensiones como porcentaje del PIB se extrae de las estadísticas de la OECD. Con estos insumos, se calcula el Capital Necesario Unitario (CNU) y, posteriormente, la deuda implícita en pensiones como porcentaje del PIB para distintos años.</p>
 
-<!-- Presentación de portafolio -->
-<p align="justify">
-  Bienvenido a mi <strong>Portafolio de Análsis de Datos</strong>, donde muestro cómo transformo datos en insights accionables usando <strong>Python</strong>, <strong>Power BI</strong>, <strong>SQL</strong> y <strong>Excel avanzado</strong>. A través de proyectos como <strong>reportes financieros con storytelling visual</strong>, <strong>análisis exploratorios</strong> y <strong>optimización de recursos</strong> mediante automatización y limpieza de datos, reflejo mi capacidad para unir análisis profundo, dominio técnico y visión de negocio.
-</p>
+<p>Los resultados muestran que en Chile la deuda implícita en pensiones para 2019 equivale aproximadamente al 20% del PIB, con variaciones asociadas a cambios en la mortalidad y tasas de interés. Se observa que las mujeres presentan una deuda mayor que los hombres, debido a su mayor esperanza de vida, lo que eleva el CNU en comparación con el de los varones. Además, el análisis revela que el CNU tenderá a aumentar en las próximas décadas, impulsado por bajas tasas de mortalidad y de interés, encareciendo así el costo de financiar las pensiones.</p>
 
-<!-- Caso aplicado (plantilla) -->
-<!-- Título -->
-<h2>📌 Caso Aplicado - Optimización licencias Microsoft Office</h2>
-
-<!-- Contexto del problema (edita este párrafo) -->
-<p align="justify">
-  En Licenciamiento existía la dificultad de controlar el uso de licencias de Office, generando asignaciones sin uso efectivo. Esto afectaba a toda la compañía, ya que el número de licencias es limitado y debe garantizarse su disponibilidad. Se definió como uso activo el empleo de Microsoft Teams o Outlook. Si no hay actividad en un periodo determinado, se considera “no uso” y la licencia se revoca. Con este método aseguramos el cumplimiento (sin exceder las licencias adquiridas) y optimizamos recursos a través del constante monitoreo y comportamineto de usuarios y licencias office.
-</p>
-
-<!-- Paso a paso (punteo) -->
-<ul>
-  <li align="justify">Detecté brechas de asignación y trazabilidad mediante análisis de procesos (<strong>BPM</strong>).</li>
-  <li align="justify">Depuré y normalicé datos desde <strong>Tenant de Microsoft</strong>.</li>
-  <li align="justify">Realicé análisis exploratorio de datos en <strong>Python</strong> y diseñé reportes dinámicos en <strong>Power BI</strong>.</li>
-</ul>
-
-<!-- Herramientas -->
-<p><em>BPM · Microsoft Graph API · Python · Power BI</em></p>
-
-
-<!-- Contacto -->
-<h1 align="center">🤝 Contacto</h1>
-
-<!-- Detalle contacto -->
-<p>
-Si te interesa conocer más sobre mi experiencia y explorar cómo puedo aportar valor a tu equipo, estaré encantado de conversar. Puedes contactarme directamente a través de <a href="https://www.linkedin.com/in/vicente-zoccola-057098211">LinkedIn</a> o enviarme un correo a <a href="mailto:v.zoccolad@gmail.com">v.zoccolad@gmail.com</a>. Estoy abierto a nuevas oportunidades donde los datos, la tecnología y la estrategia se unan para generar impacto real!
+<p>En conclusión, el estudio evidencia que el sistema chileno enfrenta un reto creciente de sostenibilidad financiera debido al envejecimiento poblacional y la prolongación de la vida post-jubilación. Medir y proyectar la deuda implícita permite anticipar escenarios y diseñar políticas públicas más efectivas, como ajustes en la edad de jubilación, promoción de ahorro previsional complementario y optimización en la gestión de fondos. El código en R incluido en este repositorio implementa todo el proceso: desde la limpieza y modelación de datos hasta la obtención de los indicadores y gráficos presentados.</p>
+    </div>
+  </div>
+</body>
+</html>
