@@ -1,39 +1,66 @@
 <!-- Encabezado principal -->
-<h1 align="center">👋 Soy Vicente Zóccola Domínguez</h1>
+<h1 align="center">📌 Predicción de Precios de Autos Usados en el Reino Unido</h1>
 
-<!-- Resumen profesional -->
-<p align="justify">
-  <strong>Ingeniero Civil Industrial</strong> y <strong>Analista de Datos</strong> en equipo de Gobierno de Datos para el área de Licenciamiento en <strong>Cencosud</strong>. He impulsado mejoras en la eficiencia operativa y la toma de decisiones mediante soluciones FinOps, automatización de procesos y reportería estratégica basada en indicadores clave del negocio. Me motiva conectar datos, tecnología y equipos para diseñar soluciones innovadoras que impulsen la toma de decisiones y generen un impacto tangible en el negocio.
+<p style="text-align: justify;">
+El objetivo del proyecto es desarrollar un modelo de machine learning capaz de predecir el precio de autos usados en el Reino Unido, utilizando datos históricos de publicaciones reales.
 </p>
 
-<!-- Presentación de portafolio -->
-<p align="justify">
-  Bienvenido a mi <strong>Portafolio de Análsis de Datos</strong>, donde muestro cómo transformo datos en insights accionables usando <strong>Python</strong>, <strong>Power BI</strong>, <strong>SQL</strong> y <strong>Excel avanzado</strong>. A través de proyectos como <strong>reportes financieros con storytelling visual</strong>, <strong>análisis exploratorios</strong> y <strong>optimización de recursos</strong> mediante automatización y limpieza de datos, reflejo mi capacidad para unir análisis profundo, dominio técnico y visión de negocio.
+<p style="text-align: justify;">
+En el mercado automotriz de segunda mano, estimar de forma precisa el valor de un vehículo permite:
 </p>
 
-<!-- Caso aplicado (plantilla) -->
-<!-- Título -->
-<h2>📌 Caso Aplicado - Optimización licencias Microsoft Office</h2>
-
-<!-- Contexto del problema (edita este párrafo) -->
-<p align="justify">
-  En Licenciamiento existía la dificultad de controlar el uso de licencias de Office, generando asignaciones sin uso efectivo. Esto afectaba a toda la compañía, ya que el número de licencias es limitado y debe garantizarse su disponibilidad. Se definió como uso activo el empleo de Microsoft Teams o Outlook. Si no hay actividad en un periodo determinado, se considera “no uso” y la licencia se revoca. Con este método aseguramos el cumplimiento (sin exceder las licencias adquiridas) y optimizamos recursos a través del constante monitoreo y comportamineto de usuarios y licencias office.
-</p>
-
-<!-- Paso a paso (punteo) -->
-<ul>
-  <li align="justify">Detecté brechas de asignación y trazabilidad mediante análisis de procesos (<strong>BPM</strong>).</li>
-  <li align="justify">Depuré y normalicé datos desde <strong>Tenant de Microsoft</strong>.</li>
-  <li align="justify">Realicé análisis exploratorio de datos en <strong>Python</strong> y diseñé reportes dinámicos en <strong>Power BI</strong>.</li>
+<ul style="text-align: justify;">
+    <li>Optimizar la fijación de precios por parte de concesionarios y vendedores.</li>
+    <li>Ayudar a compradores a identificar ofertas justas.</li>
+    <li>Mejorar la competitividad de plataformas de venta online.</li>
 </ul>
 
-<!-- Herramientas -->
-<p><em>BPM · Microsoft Graph API · Python · Power BI</em></p>
+<p style="text-align: justify;">
+El dataset utilizado fue extraído de 
+<a href="https://www.kaggle.com/datasets/muhammadawaistayyab/used-cars-prices-in-uk/data" target="_blank">Kaggle</a>
+y contiene <strong>3.685 registros</strong> con <strong>13 características</strong> por vehículo, incluyendo marca, modelo, año, kilometraje, tipo de combustible, transmisión, entre otros.
+</p>
 
+<h2>🔍 Metodología</h2>
+<ol style="text-align: justify;">
+    <li>
+        <strong>Exploración y limpieza de datos</strong>
+        <ul>
+            <li>Eliminación de valores nulos e inconsistencias.</li>
+            <li>Conversión de tipos de datos.</li>
+            <li>Tratamiento de outliers.</li>
+        </ul>
+    </li>
+    <li>
+        <strong>Transformación de variables</strong>
+        <ul>
+            <li>Codificación de variables categóricas.</li>
+            <li>Escalado y normalización de datos numéricos.</li>
+        </ul>
+    </li>
+    <li>
+        <strong>Entrenamiento del modelo</strong>
+        <ul>
+            <li>Algoritmo: Regresión Lineal.</li>
+            <li>Separación en conjunto de entrenamiento y prueba.</li>
+        </ul>
+    </li>
+    <li>
+        <strong>Evaluación</strong>
+        <ul>
+            <li>Métricas: R², MAE, MSE, RMSE.</li>
+        </ul>
+    </li>
+</ol>
 
-<!-- Contacto -->
-<h1 align="center">🤝 Contacto</h1>
+<h2>📊 Resultados</h2>
+<ul style="text-align: justify;">
+    <li><strong>R²</strong> = 0,67 → El modelo explica un 67% de la variabilidad de los precios.</li>
+    <li><strong>MAE</strong> ≈ £1.880 → Error absoluto medio.</li>
+    <li><strong>RMSE</strong> ≈ £2.710 → Desviación típica del error.</li>
+</ul>
 
-<!-- Detalle contacto -->
-<p>
-Si te interesa conocer más sobre mi experiencia y explorar cómo puedo aportar valor a tu equipo, estaré encantado de conversar. Puedes contactarme directamente a través de <a href="https://www.linkedin.com/in/vicente-zoccola-057098211">LinkedIn</a> o enviarme un correo a <a href="mailto:v.zoccolad@gmail.com">v.zoccolad@gmail.com</a>. Estoy abierto a nuevas oportunidades donde los datos, la tecnología y la estrategia se unan para generar impacto real!
+<h2>🏁 Conclusión</h2>
+<p style="text-align: justify;">
+El modelo entrega predicciones razonablemente cercanas al valor real, con un margen de error que lo hace útil como herramienta de referencia para estimaciones rápidas. La ejecución de este proyecto demuestra competencias clave en limpieza de datos, transformación de variables, selección y aplicación de modelos, así como en la interpretación de métricas de rendimiento, asegurando un proceso de análisis reproducible y escalable para entornos de negocio reales.
+</p>
