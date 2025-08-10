@@ -1,6 +1,6 @@
 <div style="text-align: justify; text-justify: inter-word;">
 
-## 📊 Estimación de la deuda implícita en pensiones en Chile
+## 📊 Estimación de la Deuda de Pensiones para Chile
 <p>Este proyecto analiza la sostenibilidad del sistema de pensiones chileno mediante la estimación de la deuda implícita en pensiones, entendida como el valor presente de las obligaciones que el Estado mantiene con los pensionados actuales y futuros. El estudio se enmarca en un contexto de aumento sostenido en la esperanza de vida y disminución de las tasas de mortalidad, lo que genera presiones sobre el gasto fiscal y plantea desafíos para el financiamiento de las pensiones. La metodología empleada permite cuantificar estas obligaciones y proyectar su evolución en el tiempo.</p>
 
 ## 🛠️ Metodología y fuentes de datos
