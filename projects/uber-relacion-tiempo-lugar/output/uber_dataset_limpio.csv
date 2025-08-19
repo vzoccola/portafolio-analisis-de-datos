@@ -1,0 +1,1151 @@
+﻿START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE,DURACION_MIN,AÑO,MES,DIA,MES_AÑO,DIA_SEMANA,FRANJA_HORARIA,INTERVALO_MINUTOS,COINCIDENCIA_TIEMPO_LUGAR,STOP_PREV
+2016-01-01 21:11:00,2016-01-01 21:17:00,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain,6.0,2016,1,1,01-2016,Friday,Noche,,No,
+2016-01-02 01:25:00,2016-01-02 01:37:00,Business,Fort Pierce,Fort Pierce,5.0,,12.0,2016,1,2,01-2016,Saturday,Madrugada,248.0,No,Fort Pierce
+2016-01-02 20:25:00,2016-01-02 20:38:00,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies,13.0,2016,1,2,01-2016,Saturday,Noche,1128.0,No,Fort Pierce
+2016-01-05 17:31:00,2016-01-05 17:45:00,Business,Fort Pierce,Fort Pierce,4.7,Meeting,14.0,2016,1,5,01-2016,Tuesday,Tarde,4133.0,No,Fort Pierce
+2016-01-06 14:42:00,2016-01-06 15:49:00,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit,67.0,2016,1,6,01-2016,Wednesday,Tarde,1257.0,No,Fort Pierce
+2016-01-06 17:15:00,2016-01-06 17:19:00,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain,4.0,2016,1,6,01-2016,Wednesday,Tarde,86.0,No,West Palm Beach
+2016-01-06 17:30:00,2016-01-06 17:35:00,Business,West Palm Beach,Palm Beach,7.1,Meeting,5.0,2016,1,6,01-2016,Wednesday,Tarde,11.0,Sí,West Palm Beach
+2016-01-07 13:27:00,2016-01-07 13:33:00,Business,Cary,Cary,0.8,Meeting,6.0,2016,1,7,01-2016,Thursday,Tarde,1192.0,No,Palm Beach
+2016-01-10 08:05:00,2016-01-10 08:25:00,Business,Cary,Morrisville,8.3,Meeting,20.0,2016,1,10,01-2016,Sunday,Mañana,3992.0,No,Cary
+2016-01-10 12:17:00,2016-01-10 12:44:00,Business,Jamaica,New York,16.5,Customer Visit,27.0,2016,1,10,01-2016,Sunday,Tarde,232.0,No,Morrisville
+2016-01-10 15:08:00,2016-01-10 15:51:00,Business,New York,Queens,10.8,Meeting,43.0,2016,1,10,01-2016,Sunday,Tarde,144.0,No,New York
+2016-01-10 18:18:00,2016-01-10 18:53:00,Business,Elmhurst,New York,7.5,Meeting,35.0,2016,1,10,01-2016,Sunday,Noche,147.0,No,Queens
+2016-01-10 19:12:00,2016-01-10 19:32:00,Business,Midtown,East Harlem,6.2,Meeting,20.0,2016,1,10,01-2016,Sunday,Noche,19.0,No,New York
+2016-01-11 08:55:00,2016-01-11 09:21:00,Business,East Harlem,Nomad,6.4,Temporary Site,26.0,2016,1,11,01-2016,Monday,Mañana,803.0,No,East Harlem
+2016-01-11 11:56:00,2016-01-11 12:03:00,Business,Flatiron District,Midtown,1.6,Errand/Supplies,7.0,2016,1,11,01-2016,Monday,Mañana,155.0,No,Nomad
+2016-01-11 13:32:00,2016-01-11 13:46:00,Business,Midtown,Midtown East,1.7,Meal/Entertain,14.0,2016,1,11,01-2016,Monday,Tarde,89.0,No,Midtown
+2016-01-11 14:30:00,2016-01-11 14:43:00,Business,Midtown East,Midtown,1.9,Meal/Entertain,13.0,2016,1,11,01-2016,Monday,Tarde,44.0,No,Midtown East
+2016-01-12 12:33:00,2016-01-12 12:49:00,Business,Midtown,Hudson Square,1.9,Meal/Entertain,16.0,2016,1,12,01-2016,Tuesday,Tarde,1310.0,No,Midtown
+2016-01-12 12:53:00,2016-01-12 13:09:00,Business,Hudson Square,Lower Manhattan,4.0,Meal/Entertain,16.0,2016,1,12,01-2016,Tuesday,Tarde,4.0,Sí,Hudson Square
+2016-01-12 14:42:00,2016-01-12 14:56:00,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies,14.0,2016,1,12,01-2016,Tuesday,Tarde,93.0,No,Lower Manhattan
+2016-01-12 15:13:00,2016-01-12 15:28:00,Business,Hudson Square,Hell'S Kitchen,2.4,Customer Visit,15.0,2016,1,12,01-2016,Tuesday,Tarde,17.0,Sí,Hudson Square
+2016-01-12 15:42:00,2016-01-12 15:54:00,Business,Hell'S Kitchen,Midtown,2.0,Errand/Supplies,12.0,2016,1,12,01-2016,Tuesday,Tarde,14.0,Sí,Hell'S Kitchen
+2016-01-12 16:02:00,2016-01-12 17:00:00,Business,New York,Queens County,15.1,Meeting,58.0,2016,1,12,01-2016,Tuesday,Tarde,8.0,No,Midtown
+2016-01-13 13:54:00,2016-01-13 14:07:00,Business,Downtown,Gulfton,11.2,Meeting,13.0,2016,1,13,01-2016,Wednesday,Tarde,1254.0,No,Queens County
+2016-01-13 15:00:00,2016-01-13 15:28:00,Business,Gulfton,Downtown,11.8,Meeting,28.0,2016,1,13,01-2016,Wednesday,Tarde,53.0,No,Gulfton
+2016-01-14 16:29:00,2016-01-14 17:05:00,Business,Houston,Houston,21.9,Customer Visit,36.0,2016,1,14,01-2016,Thursday,Tarde,1501.0,No,Downtown
+2016-01-14 21:39:00,2016-01-14 21:45:00,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies,6.0,2016,1,14,01-2016,Thursday,Noche,274.0,No,Houston
+2016-01-15 00:41:00,2016-01-15 01:01:00,Business,Morrisville,Cary,8.0,Errand/Supplies,20.0,2016,1,15,01-2016,Friday,Madrugada,176.0,No,Jamestown Court
+2016-01-15 11:43:00,2016-01-15 12:03:00,Business,Cary,Durham,10.4,Meal/Entertain,20.0,2016,1,15,01-2016,Friday,Mañana,642.0,No,Cary
+2016-01-15 13:26:00,2016-01-15 13:44:00,Business,Durham,Cary,10.4,Meal/Entertain,18.0,2016,1,15,01-2016,Friday,Tarde,83.0,No,Durham
+2016-01-18 14:55:00,2016-01-18 15:06:00,Business,Cary,Cary,4.8,Meal/Entertain,11.0,2016,1,18,01-2016,Monday,Tarde,4391.0,No,Cary
+2016-01-18 16:13:00,2016-01-18 16:24:00,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain,11.0,2016,1,18,01-2016,Monday,Tarde,67.0,No,Cary
+2016-01-19 09:09:00,2016-01-19 09:23:00,Business,Whitebridge,Lake Wellingborough,7.2,,14.0,2016,1,19,01-2016,Tuesday,Mañana,1005.0,No,Whitebridge
+2016-01-19 10:55:00,2016-01-19 11:09:00,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site,14.0,2016,1,19,01-2016,Tuesday,Mañana,92.0,No,Lake Wellingborough
+2016-01-20 10:36:00,2016-01-20 11:11:00,Business,Cary,Raleigh,17.1,Meeting,35.0,2016,1,20,01-2016,Wednesday,Mañana,1407.0,No,Whitebridge
+2016-01-20 11:48:00,2016-01-20 12:19:00,Business,Fayetteville Street,Umstead,15.1,Meeting,31.0,2016,1,20,01-2016,Wednesday,Mañana,37.0,No,Raleigh
+2016-01-20 13:25:00,2016-01-20 14:19:00,Business,Raleigh,Cary,40.2,Customer Visit,54.0,2016,1,20,01-2016,Wednesday,Tarde,66.0,No,Umstead
+2016-01-21 14:25:00,2016-01-21 14:29:00,Business,Cary,Cary,1.6,Errand/Supplies,4.0,2016,1,21,01-2016,Thursday,Tarde,1446.0,No,Cary
+2016-01-21 14:43:00,2016-01-21 14:51:00,Business,Cary,Cary,2.4,Meal/Entertain,8.0,2016,1,21,01-2016,Thursday,Tarde,14.0,Sí,Cary
+2016-01-21 16:01:00,2016-01-21 16:06:00,Business,Cary,Cary,1.0,Meal/Entertain,5.0,2016,1,21,01-2016,Thursday,Tarde,70.0,No,Cary
+2016-01-26 10:41:00,2016-01-26 10:50:00,Business,Whitebridge,Hazelwood,2.0,Meal/Entertain,9.0,2016,1,26,01-2016,Tuesday,Mañana,6875.0,No,Cary
+2016-01-26 12:33:00,2016-01-26 12:41:00,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies,8.0,2016,1,26,01-2016,Tuesday,Tarde,103.0,No,Hazelwood
+2016-01-26 16:24:00,2016-01-26 16:32:00,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies,8.0,2016,1,26,01-2016,Tuesday,Tarde,223.0,No,Whitebridge
+2016-01-26 17:17:00,2016-01-26 17:22:00,Business,Cary,Cary,1.4,Errand/Supplies,5.0,2016,1,26,01-2016,Tuesday,Tarde,45.0,No,Westpark Place
+2016-01-26 17:27:00,2016-01-26 17:29:00,Business,Cary,Cary,0.5,Errand/Supplies,2.0,2016,1,26,01-2016,Tuesday,Tarde,5.0,Sí,Cary
+2016-01-27 09:24:00,2016-01-27 09:31:00,Business,Cary,Cary,1.8,Meeting,7.0,2016,1,27,01-2016,Wednesday,Mañana,955.0,No,Cary
+2016-01-27 10:19:00,2016-01-27 10:48:00,Business,Cary,Raleigh,18.7,Customer Visit,29.0,2016,1,27,01-2016,Wednesday,Mañana,48.0,No,Cary
+2016-01-27 12:34:00,2016-01-27 12:44:00,Business,Fairmont,Meredith Townes,3.4,Customer Visit,10.0,2016,1,27,01-2016,Wednesday,Tarde,106.0,No,Raleigh
+2016-01-27 14:05:00,2016-01-27 14:13:00,Business,Raleigh,Raleigh,2.7,Customer Visit,8.0,2016,1,27,01-2016,Wednesday,Tarde,81.0,No,Meredith Townes
+2016-01-27 14:46:00,2016-01-27 15:08:00,Business,Raleigh,Cary,12.9,Customer Visit,22.0,2016,1,27,01-2016,Wednesday,Tarde,33.0,No,Raleigh
+2016-01-28 12:28:00,2016-01-28 13:00:00,Business,Cary,Raleigh,19.0,Temporary Site,32.0,2016,1,28,01-2016,Thursday,Tarde,1280.0,No,Cary
+2016-01-28 15:11:00,2016-01-28 15:31:00,Business,Meredith Townes,Leesville Hollow,14.7,Meeting,20.0,2016,1,28,01-2016,Thursday,Tarde,131.0,No,Raleigh
+2016-01-28 16:21:00,2016-01-28 16:51:00,Business,Raleigh,Cary,15.7,Meeting,30.0,2016,1,28,01-2016,Thursday,Tarde,50.0,No,Leesville Hollow
+2016-01-29 09:31:00,2016-01-29 09:45:00,Business,Cary,Cary,4.6,Customer Visit,14.0,2016,1,29,01-2016,Friday,Mañana,1000.0,No,Cary
+2016-01-29 10:56:00,2016-01-29 11:07:00,Business,Cary,Cary,5.2,Meeting,11.0,2016,1,29,01-2016,Friday,Mañana,71.0,No,Cary
+2016-01-29 11:43:00,2016-01-29 12:03:00,Business,Cary,Durham,10.4,Meeting,20.0,2016,1,29,01-2016,Friday,Mañana,36.0,No,Cary
+2016-01-29 13:24:00,2016-01-29 13:47:00,Business,Durham,Cary,10.1,Meeting,23.0,2016,1,29,01-2016,Friday,Tarde,81.0,No,Durham
+2016-01-29 18:31:00,2016-01-29 18:52:00,Business,Cary,Apex,5.8,Errand/Supplies,21.0,2016,1,29,01-2016,Friday,Noche,284.0,No,Cary
+2016-01-29 21:21:00,2016-01-29 21:40:00,Business,Apex,Cary,5.5,Meal/Entertain,19.0,2016,1,29,01-2016,Friday,Noche,149.0,No,Apex
+2016-01-30 16:21:00,2016-01-30 16:33:00,Business,Cary,Apex,5.7,Errand/Supplies,12.0,2016,1,30,01-2016,Saturday,Tarde,1121.0,No,Cary
+2016-01-30 18:09:00,2016-01-30 18:24:00,Business,Apex,Cary,5.7,Customer Visit,15.0,2016,1,30,01-2016,Saturday,Noche,96.0,No,Apex
+2016-02-01 10:35:00,2016-02-01 11:15:00,Business,Cary,Chapel Hill,19.4,Customer Visit,40.0,2016,2,1,02-2016,Monday,Mañana,2411.0,No,Cary
+2016-02-01 12:10:00,2016-02-01 12:43:00,Business,Chapel Hill,Cary,23.3,Customer Visit,33.0,2016,2,1,02-2016,Monday,Tarde,55.0,No,Chapel Hill
+2016-02-01 12:56:00,2016-02-01 13:07:00,Business,Northwoods,Whitebridge,3.9,Meal/Entertain,11.0,2016,2,1,02-2016,Monday,Tarde,13.0,No,Cary
+2016-02-02 13:04:00,2016-02-02 13:23:00,Business,Whitebridge,Williamsburg Manor,8.3,Meeting,19.0,2016,2,2,02-2016,Tuesday,Tarde,1437.0,No,Whitebridge
+2016-02-02 13:51:00,2016-02-02 14:06:00,Business,Cary,Cary,6.0,Errand/Supplies,15.0,2016,2,2,02-2016,Tuesday,Tarde,28.0,No,Williamsburg Manor
+2016-02-02 14:38:00,2016-02-02 14:42:00,Business,Cary,Cary,1.6,Errand/Supplies,4.0,2016,2,2,02-2016,Tuesday,Tarde,32.0,No,Cary
+2016-02-04 08:40:00,2016-02-04 09:01:00,Business,Cary,Morrisville,5.2,Errand/Supplies,21.0,2016,2,4,02-2016,Thursday,Mañana,2518.0,No,Cary
+2016-02-04 09:37:00,2016-02-04 10:09:00,Business,Morrisville,Cary,9.7,Meal/Entertain,32.0,2016,2,4,02-2016,Thursday,Mañana,36.0,No,Morrisville
+2016-02-04 10:26:00,2016-02-04 10:32:00,Business,Cary,Cary,1.6,Meal/Entertain,6.0,2016,2,4,02-2016,Thursday,Mañana,17.0,Sí,Cary
+2016-02-04 15:59:00,2016-02-04 16:03:00,Business,Cary,Cary,1.1,Meal/Entertain,4.0,2016,2,4,02-2016,Thursday,Tarde,327.0,No,Cary
+2016-02-04 16:35:00,2016-02-04 16:39:00,Business,Cary,Cary,1.6,Meal/Entertain,4.0,2016,2,4,02-2016,Thursday,Tarde,32.0,No,Cary
+2016-02-04 18:04:00,2016-02-04 18:31:00,Business,Whitebridge,Macgregor Downs,9.0,Meeting,27.0,2016,2,4,02-2016,Thursday,Noche,85.0,No,Cary
+2016-02-04 20:36:00,2016-02-04 20:55:00,Business,Cary,Cary,7.7,Meeting,19.0,2016,2,4,02-2016,Thursday,Noche,125.0,No,Macgregor Downs
+2016-02-05 11:47:00,2016-02-05 12:07:00,Business,Cary,Durham,10.4,Meeting,20.0,2016,2,5,02-2016,Friday,Mañana,892.0,No,Cary
+2016-02-05 13:22:00,2016-02-05 13:41:00,Business,Durham,Cary,10.4,Meeting,19.0,2016,2,5,02-2016,Friday,Tarde,75.0,No,Durham
+2016-02-06 16:20:00,2016-02-06 16:53:00,Business,Cary,Raleigh,11.4,Between Offices,33.0,2016,2,6,02-2016,Saturday,Tarde,1599.0,No,Cary
+2016-02-06 18:57:00,2016-02-06 19:21:00,Business,Raleigh,Cary,9.0,Errand/Supplies,24.0,2016,2,6,02-2016,Saturday,Noche,124.0,No,Raleigh
+2016-02-06 19:28:00,2016-02-06 19:37:00,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain,9.0,2016,2,6,02-2016,Saturday,Noche,7.0,No,Cary
+2016-02-07 16:49:00,2016-02-07 17:01:00,Business,Cary,Apex,5.6,Errand/Supplies,12.0,2016,2,7,02-2016,Sunday,Tarde,1272.0,No,Whitebridge
+2016-02-07 18:03:00,2016-02-07 18:17:00,Business,Apex,Cary,5.7,Customer Visit,14.0,2016,2,7,02-2016,Sunday,Noche,62.0,No,Apex
+2016-02-07 18:39:00,2016-02-07 18:53:00,Business,Cary,Morrisville,6.1,Temporary Site,14.0,2016,2,7,02-2016,Sunday,Noche,22.0,Sí,Cary
+2016-02-07 20:22:00,2016-02-07 20:40:00,Business,Morrisville,Cary,6.1,Meeting,18.0,2016,2,7,02-2016,Sunday,Noche,89.0,No,Morrisville
+2016-02-08 12:57:00,2016-02-08 13:08:00,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain,11.0,2016,2,8,02-2016,Monday,Tarde,977.0,No,Cary
+2016-02-08 14:00:00,2016-02-08 14:10:00,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain,10.0,2016,2,8,02-2016,Monday,Tarde,52.0,No,Edgehill Farms
+2016-02-09 10:54:00,2016-02-09 11:07:00,Personal,Whitebridge,Northwoods,5.3,,13.0,2016,2,9,02-2016,Tuesday,Mañana,1244.0,No,Whitebridge
+2016-02-09 11:43:00,2016-02-09 11:50:00,Personal,Northwoods,Tanglewood,3.0,,7.0,2016,2,9,02-2016,Tuesday,Mañana,36.0,No,Northwoods
+2016-02-09 13:36:00,2016-02-09 13:52:00,Personal,Tanglewood,Preston,5.1,,16.0,2016,2,9,02-2016,Tuesday,Tarde,106.0,No,Tanglewood
+2016-02-09 13:58:00,2016-02-09 14:02:00,Personal,Preston,Whitebridge,1.5,,4.0,2016,2,9,02-2016,Tuesday,Tarde,6.0,Sí,Preston
+2016-02-09 18:55:00,2016-02-09 19:11:00,Business,Cary,Morrisville,6.1,,16.0,2016,2,9,02-2016,Tuesday,Noche,293.0,No,Whitebridge
+2016-02-09 20:24:00,2016-02-09 20:40:00,Business,Morrisville,Cary,6.1,Meal/Entertain,16.0,2016,2,9,02-2016,Tuesday,Noche,73.0,No,Morrisville
+2016-02-11 16:28:00,2016-02-11 17:10:00,Business,Cary,Raleigh,17.3,Meal/Entertain,42.0,2016,2,11,02-2016,Thursday,Tarde,2628.0,No,Cary
+2016-02-11 17:49:00,2016-02-11 18:10:00,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain,21.0,2016,2,11,02-2016,Thursday,Tarde,39.0,No,Raleigh
+2016-02-11 18:24:00,2016-02-11 18:46:00,Business,Raleigh,Morrisville,13.5,Temporary Site,22.0,2016,2,11,02-2016,Thursday,Noche,14.0,No,Walnut Terrace
+2016-02-11 20:36:00,2016-02-11 20:51:00,Business,Morrisville,Cary,6.1,Temporary Site,15.0,2016,2,11,02-2016,Thursday,Noche,110.0,No,Morrisville
+2016-02-12 08:21:00,2016-02-12 08:42:00,Business,Cary,Durham,8.5,Temporary Site,21.0,2016,2,12,02-2016,Friday,Mañana,690.0,No,Cary
+2016-02-12 10:45:00,2016-02-12 10:52:00,Business,Durham,Morrisville,2.6,Temporary Site,7.0,2016,2,12,02-2016,Friday,Mañana,123.0,No,Durham
+2016-02-12 11:14:00,2016-02-12 11:35:00,Business,Morrisville,Raleigh,17.0,Customer Visit,21.0,2016,2,12,02-2016,Friday,Mañana,22.0,Sí,Morrisville
+2016-02-12 13:02:00,2016-02-12 13:36:00,Business,Raleigh,Cary,18.0,Meeting,34.0,2016,2,12,02-2016,Friday,Tarde,87.0,No,Raleigh
+2016-02-12 14:49:00,2016-02-12 15:06:00,Business,Cary,Morrisville,8.4,Meeting,17.0,2016,2,12,02-2016,Friday,Tarde,73.0,No,Cary
+2016-02-12 15:33:00,2016-02-12 16:06:00,Business,Morrisville,Cary,11.5,Customer Visit,33.0,2016,2,12,02-2016,Friday,Tarde,27.0,Sí,Morrisville
+2016-02-13 14:21:00,2016-02-13 14:41:00,Business,Cary,Morrisville,8.9,Meeting,20.0,2016,2,13,02-2016,Saturday,Tarde,1335.0,No,Cary
+2016-02-13 23:45:00,2016-02-14 00:01:00,Personal,East Elmhurst,Jackson Heights,2.7,,16.0,2016,2,13,02-2016,Saturday,Madrugada,544.0,No,Morrisville
+2016-02-14 00:50:00,2016-02-14 01:00:00,Personal,Jackson Heights,East Elmhurst,1.8,,10.0,2016,2,14,02-2016,Sunday,Madrugada,49.0,No,Jackson Heights
+2016-02-14 14:07:00,2016-02-14 14:40:00,Business,East Elmhurst,New York,8.1,Meeting,33.0,2016,2,14,02-2016,Sunday,Tarde,787.0,No,East Elmhurst
+2016-02-14 14:46:00,2016-02-14 15:03:00,Business,Midtown,Midtown West,2.0,Meeting,17.0,2016,2,14,02-2016,Sunday,Tarde,6.0,No,New York
+2016-02-14 16:35:00,2016-02-14 17:02:00,Business,New York,Long Island City,13.0,Meeting,27.0,2016,2,14,02-2016,Sunday,Tarde,92.0,No,Midtown West
+2016-02-14 17:06:00,2016-02-14 17:29:00,Business,Long Island City,Jamaica,13.9,Meeting,23.0,2016,2,14,02-2016,Sunday,Tarde,4.0,Sí,Long Island City
+2016-02-16 03:21:00,2016-02-16 04:13:00,Business,Katunayaka,Unknown Location,43.7,Customer Visit,52.0,2016,2,16,02-2016,Tuesday,Madrugada,2032.0,No,Jamaica
+2016-02-16 08:29:00,2016-02-16 09:34:00,Business,Unknown Location,Colombo,14.1,,65.0,2016,2,16,02-2016,Tuesday,Mañana,256.0,No,Unknown Location
+2016-02-16 10:31:00,2016-02-16 10:41:00,Business,Colombo,Colombo,2.6,,10.0,2016,2,16,02-2016,Tuesday,Mañana,57.0,No,Colombo
+2016-02-16 11:32:00,2016-02-16 12:02:00,Business,Colombo,Colombo,4.5,,30.0,2016,2,16,02-2016,Tuesday,Mañana,51.0,No,Colombo
+2016-02-16 12:39:00,2016-02-16 12:42:00,Business,Colombo,Colombo,1.7,,3.0,2016,2,16,02-2016,Tuesday,Tarde,37.0,No,Colombo
+2016-02-16 13:43:00,2016-02-16 13:55:00,Business,Colombo,Colombo,1.8,Temporary Site,12.0,2016,2,16,02-2016,Tuesday,Tarde,61.0,No,Colombo
+2016-02-16 16:34:00,2016-02-16 17:10:00,Business,Colombo,Colombo,6.0,,36.0,2016,2,16,02-2016,Tuesday,Tarde,159.0,No,Colombo
+2016-02-16 17:17:00,2016-02-16 17:26:00,Business,Colombo,Nugegoda,1.1,Meal/Entertain,9.0,2016,2,16,02-2016,Tuesday,Tarde,7.0,Sí,Colombo
+2016-02-16 17:40:00,2016-02-16 17:44:00,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies,4.0,2016,2,16,02-2016,Tuesday,Tarde,14.0,Sí,Nugegoda
+2016-02-17 13:18:00,2016-02-17 14:04:00,Business,Unknown Location,Colombo,14.7,Temporary Site,46.0,2016,2,17,02-2016,Wednesday,Tarde,1174.0,No,Unknown Location
+2016-02-17 15:17:00,2016-02-17 15:22:00,Business,Colombo,Colombo,1.7,Meal/Entertain,5.0,2016,2,17,02-2016,Wednesday,Tarde,73.0,No,Colombo
+2016-02-17 15:33:00,2016-02-17 16:17:00,Business,Colombo,Katunayaka,21.4,Temporary Site,44.0,2016,2,17,02-2016,Wednesday,Tarde,11.0,Sí,Colombo
+2016-02-17 16:38:00,2016-02-17 16:43:00,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies,5.0,2016,2,17,02-2016,Wednesday,Tarde,21.0,Sí,Katunayaka
+2016-02-18 08:19:00,2016-02-18 08:27:00,Business,Unknown Location,Unknown Location,23.5,Temporary Site,8.0,2016,2,18,02-2016,Thursday,Mañana,936.0,No,Katunayaka
+2016-02-18 14:03:00,2016-02-18 14:45:00,Business,Unknown Location,Islamabad,12.7,Temporary Site,42.0,2016,2,18,02-2016,Thursday,Tarde,336.0,No,Unknown Location
+2016-02-18 15:16:00,2016-02-18 15:31:00,Business,Islamabad,Unknown Location,6.0,Temporary Site,15.0,2016,2,18,02-2016,Thursday,Tarde,31.0,No,Islamabad
+2016-02-18 18:44:00,2016-02-18 18:58:00,Business,Unknown Location,Islamabad,5.2,Customer Visit,14.0,2016,2,18,02-2016,Thursday,Noche,193.0,No,Unknown Location
+2016-02-18 19:27:00,2016-02-18 20:08:00,Business,Islamabad,Unknown Location,10.0,Meeting,41.0,2016,2,18,02-2016,Thursday,Noche,29.0,Sí,Islamabad
+2016-02-19 09:02:00,2016-02-19 09:14:00,Business,Unknown Location,Unknown Location,18.3,Meeting,12.0,2016,2,19,02-2016,Friday,Mañana,774.0,No,Unknown Location
+2016-02-19 09:21:00,2016-02-19 09:51:00,Business,Unknown Location,Unknown Location,11.2,Meeting,30.0,2016,2,19,02-2016,Friday,Mañana,7.0,Sí,Unknown Location
+2016-02-19 10:21:00,2016-02-19 10:48:00,Business,Unknown Location,Islamabad,7.6,Meeting,27.0,2016,2,19,02-2016,Friday,Mañana,30.0,Sí,Unknown Location
+2016-02-19 11:20:00,2016-02-19 11:26:00,Personal,Islamabad,Islamabad,1.5,,6.0,2016,2,19,02-2016,Friday,Mañana,32.0,No,Islamabad
+2016-02-19 11:45:00,2016-02-19 11:50:00,Personal,Islamabad,Islamabad,1.0,,5.0,2016,2,19,02-2016,Friday,Mañana,19.0,Sí,Islamabad
+2016-02-19 12:09:00,2016-02-19 12:27:00,Business,Islamabad,Unknown Location,7.3,Temporary Site,18.0,2016,2,19,02-2016,Friday,Tarde,19.0,Sí,Islamabad
+2016-02-19 16:26:00,2016-02-19 16:45:00,Business,Unknown Location,Islamabad,3.5,,19.0,2016,2,19,02-2016,Friday,Tarde,239.0,No,Unknown Location
+2016-02-19 17:09:00,2016-02-19 17:20:00,Business,Islamabad,Islamabad,4.2,,11.0,2016,2,19,02-2016,Friday,Tarde,24.0,Sí,Islamabad
+2016-02-19 20:08:00,2016-02-19 20:30:00,Personal,Islamabad,Unknown Location,13.6,,22.0,2016,2,19,02-2016,Friday,Noche,168.0,No,Islamabad
+2016-02-19 20:34:00,2016-02-19 20:51:00,Personal,Unknown Location,Unknown Location,2.5,,17.0,2016,2,19,02-2016,Friday,Noche,4.0,Sí,Unknown Location
+2016-02-20 07:59:00,2016-02-20 08:32:00,Personal,Unknown Location,Islamabad,14.4,,33.0,2016,2,20,02-2016,Saturday,Mañana,668.0,No,Unknown Location
+2016-02-20 10:48:00,2016-02-20 10:56:00,Personal,Islamabad,Islamabad,3.0,,8.0,2016,2,20,02-2016,Saturday,Mañana,136.0,No,Islamabad
+2016-02-20 11:45:00,2016-02-20 11:53:00,Personal,Islamabad,Islamabad,1.5,,8.0,2016,2,20,02-2016,Saturday,Mañana,49.0,No,Islamabad
+2016-02-20 12:41:00,2016-02-20 13:17:00,Business,Islamabad,R?Walpindi,18.4,,36.0,2016,2,20,02-2016,Saturday,Tarde,48.0,No,Islamabad
+2016-02-20 14:50:00,2016-02-20 15:54:00,Business,R?Walpindi,R?Walpindi,23.1,Meeting,64.0,2016,2,20,02-2016,Saturday,Tarde,93.0,No,R?Walpindi
+2016-02-20 16:59:00,2016-02-20 17:54:00,Personal,R?Walpindi,Unknown Location,16.5,,55.0,2016,2,20,02-2016,Saturday,Tarde,65.0,No,R?Walpindi
+2016-02-20 18:00:00,2016-02-20 18:03:00,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,3.0,2016,2,20,02-2016,Saturday,Noche,6.0,Sí,Unknown Location
+2016-02-20 19:28:00,2016-02-20 19:49:00,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies,21.0,2016,2,20,02-2016,Saturday,Noche,85.0,No,Unknown Location
+2016-02-21 09:07:00,2016-02-21 09:46:00,Business,Unknown Location,Islamabad,14.5,,39.0,2016,2,21,02-2016,Sunday,Mañana,798.0,No,Unknown Location
+2016-02-21 11:39:00,2016-02-21 11:43:00,Business,Unknown Location,Islamabad,2.4,Errand/Supplies,4.0,2016,2,21,02-2016,Sunday,Mañana,113.0,No,Islamabad
+2016-02-21 11:47:00,2016-02-21 12:01:00,Business,Islamabad,Islamabad,4.6,Errand/Supplies,14.0,2016,2,21,02-2016,Sunday,Mañana,4.0,Sí,Islamabad
+2016-02-21 12:13:00,2016-02-21 12:35:00,Business,Islamabad,Unknown Location,8.8,Meal/Entertain,22.0,2016,2,21,02-2016,Sunday,Tarde,12.0,Sí,Islamabad
+2016-02-21 12:51:00,2016-02-21 13:12:00,Business,Unknown Location,Unknown Location,8.3,Temporary Site,21.0,2016,2,21,02-2016,Sunday,Tarde,16.0,Sí,Unknown Location
+2016-02-21 13:33:00,2016-02-21 14:30:00,Business,Unknown Location,Unknown Location,22.7,Temporary Site,57.0,2016,2,21,02-2016,Sunday,Tarde,21.0,Sí,Unknown Location
+2016-02-21 14:36:00,2016-02-21 15:03:00,Business,Unknown Location,Islamabad,13.0,Temporary Site,27.0,2016,2,21,02-2016,Sunday,Tarde,6.0,Sí,Unknown Location
+2016-02-21 15:14:00,2016-02-21 15:31:00,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site,17.0,2016,2,21,02-2016,Sunday,Tarde,11.0,Sí,Islamabad
+2016-02-21 15:36:00,2016-02-21 15:41:00,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain,5.0,2016,2,21,02-2016,Sunday,Tarde,5.0,Sí,Noorpur Shahan
+2016-02-21 16:04:00,2016-02-21 16:32:00,Business,Unknown Location,Unknown Location,9.7,,28.0,2016,2,21,02-2016,Sunday,Tarde,23.0,Sí,Unknown Location
+2016-02-21 23:15:00,2016-02-21 23:52:00,Business,Unknown Location,R?Walpindi,20.0,Meeting,37.0,2016,2,21,02-2016,Sunday,Madrugada,403.0,No,Unknown Location
+2016-02-22 21:54:00,2016-02-22 22:09:00,Business,Morrisville,Cary,8.1,Customer Visit,15.0,2016,2,22,02-2016,Monday,Noche,1322.0,No,R?Walpindi
+2016-02-24 14:30:00,2016-02-24 14:35:00,Business,Whitebridge,Preston,1.5,,5.0,2016,2,24,02-2016,Wednesday,Tarde,2421.0,No,Cary
+2016-02-24 15:19:00,2016-02-24 15:25:00,Business,Preston,Whitebridge,1.7,Errand/Supplies,6.0,2016,2,24,02-2016,Wednesday,Tarde,44.0,No,Preston
+2016-02-25 16:27:00,2016-02-25 16:35:00,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies,8.0,2016,2,25,02-2016,Thursday,Tarde,1502.0,No,Whitebridge
+2016-02-25 16:47:00,2016-02-25 17:02:00,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies,15.0,2016,2,25,02-2016,Thursday,Tarde,12.0,Sí,Heritage Pines
+2016-02-25 17:16:00,2016-02-25 17:36:00,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,20.0,2016,2,25,02-2016,Thursday,Tarde,14.0,Sí,Whitebridge
+2016-02-25 18:22:00,2016-02-25 18:39:00,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain,17.0,2016,2,25,02-2016,Thursday,Noche,46.0,No,Tanglewood
+2016-02-26 09:06:00,2016-02-26 09:29:00,Business,Whitebridge,Westpark Place,6.3,,23.0,2016,2,26,02-2016,Friday,Mañana,867.0,No,Whitebridge
+2016-02-26 11:05:00,2016-02-26 11:11:00,Personal,Westpark Place,Whitebridge,1.7,,6.0,2016,2,26,02-2016,Friday,Mañana,96.0,No,Westpark Place
+2016-02-26 11:35:00,2016-02-26 11:59:00,Business,Cary,Durham,10.6,Meeting,24.0,2016,2,26,02-2016,Friday,Mañana,24.0,No,Whitebridge
+2016-02-26 13:01:00,2016-02-26 13:24:00,Business,Durham,Cary,9.9,Meeting,23.0,2016,2,26,02-2016,Friday,Tarde,62.0,No,Durham
+2016-02-26 14:38:00,2016-02-26 14:46:00,Personal,Whitebridge,Westpark Place,1.9,,8.0,2016,2,26,02-2016,Friday,Tarde,74.0,No,Cary
+2016-02-26 15:00:00,2016-02-26 15:18:00,Personal,Westpark Place,Hazelwood,4.2,,18.0,2016,2,26,02-2016,Friday,Tarde,14.0,Sí,Westpark Place
+2016-02-26 17:01:00,2016-02-26 17:12:00,Personal,Hazelwood,Whitebridge,2.0,,11.0,2016,2,26,02-2016,Friday,Tarde,103.0,No,Hazelwood
+2016-02-28 05:22:00,2016-02-28 05:38:00,Business,Whitebridge,Waverly Place,7.7,Meeting,16.0,2016,2,28,02-2016,Sunday,Mañana,2170.0,No,Whitebridge
+2016-02-28 09:26:00,2016-02-28 09:42:00,Business,Waverly Place,Whitebridge,6.8,Meeting,16.0,2016,2,28,02-2016,Sunday,Mañana,228.0,No,Waverly Place
+2016-02-29 11:07:00,2016-02-29 11:14:00,Personal,Whitebridge,Westpark Place,2.1,,7.0,2016,2,29,02-2016,Monday,Mañana,1525.0,No,Whitebridge
+2016-02-29 11:30:00,2016-02-29 11:40:00,Business,Cary,Apex,3.8,Meeting,10.0,2016,2,29,02-2016,Monday,Mañana,16.0,No,Westpark Place
+2016-02-29 12:36:00,2016-02-29 12:48:00,Business,Apex,Cary,5.6,Meeting,12.0,2016,2,29,02-2016,Monday,Tarde,56.0,No,Apex
+2016-02-29 14:55:00,2016-02-29 15:03:00,Business,Whitebridge,Hazelwood,2.6,,8.0,2016,2,29,02-2016,Monday,Tarde,127.0,No,Cary
+2016-02-29 16:40:00,2016-02-29 17:00:00,Business,Hazelwood,Whitebridge,6.6,Customer Visit,20.0,2016,2,29,02-2016,Monday,Tarde,97.0,No,Hazelwood
+2016-03-01 18:47:00,2016-03-01 19:10:00,Business,Whitebridge,Wayne Ridge,8.0,Meal/Entertain,23.0,2016,3,1,03-2016,Tuesday,Noche,1547.0,No,Whitebridge
+2016-03-01 21:27:00,2016-03-01 21:45:00,Business,Wayne Ridge,Whitebridge,8.0,Meeting,18.0,2016,3,1,03-2016,Tuesday,Noche,137.0,No,Wayne Ridge
+2016-03-03 09:45:00,2016-03-03 09:52:00,Personal,Whitebridge,Westpark Place,2.2,,7.0,2016,3,3,03-2016,Thursday,Mañana,2160.0,No,Whitebridge
+2016-03-03 11:04:00,2016-03-03 11:10:00,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies,6.0,2016,3,3,03-2016,Thursday,Mañana,72.0,No,Westpark Place
+2016-03-03 14:44:00,2016-03-03 14:58:00,Business,Whitebridge,Northwoods,5.2,Meal/Entertain,14.0,2016,3,3,03-2016,Thursday,Tarde,214.0,No,Whitebridge
+2016-03-03 15:27:00,2016-03-03 15:48:00,Business,Cary,Raleigh,7.6,Customer Visit,21.0,2016,3,3,03-2016,Thursday,Tarde,29.0,No,Northwoods
+2016-03-03 16:02:00,2016-03-03 16:42:00,Business,Raleigh,Cary,17.3,Meeting,40.0,2016,3,3,03-2016,Thursday,Tarde,14.0,Sí,Raleigh
+2016-03-04 07:47:00,2016-03-04 08:06:00,Business,Cary,Durham,9.9,Meeting,19.0,2016,3,4,03-2016,Friday,Mañana,905.0,No,Cary
+2016-03-04 09:46:00,2016-03-04 10:03:00,Business,Durham,Cary,9.9,Customer Visit,17.0,2016,3,4,03-2016,Friday,Mañana,100.0,No,Durham
+2016-03-04 11:46:00,2016-03-04 12:06:00,Business,Cary,Durham,10.4,Meeting,20.0,2016,3,4,03-2016,Friday,Mañana,103.0,No,Cary
+2016-03-04 13:03:00,2016-03-04 13:25:00,Business,Durham,Cary,10.9,Meeting,22.0,2016,3,4,03-2016,Friday,Tarde,57.0,No,Durham
+2016-03-04 13:40:00,2016-03-04 14:09:00,Business,Cary,Raleigh,15.7,Customer Visit,29.0,2016,3,4,03-2016,Friday,Tarde,15.0,Sí,Cary
+2016-03-04 15:56:00,2016-03-04 16:08:00,Business,Raleigh,Raleigh,4.9,Meal/Entertain,12.0,2016,3,4,03-2016,Friday,Tarde,107.0,No,Raleigh
+2016-03-04 16:16:00,2016-03-04 16:22:00,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies,6.0,2016,3,4,03-2016,Friday,Tarde,8.0,No,Raleigh
+2016-03-04 16:43:00,2016-03-04 17:12:00,Business,Raleigh,Cary,13.5,Meeting,29.0,2016,3,4,03-2016,Friday,Tarde,21.0,No,Depot Historic District
+2016-03-04 19:02:00,2016-03-04 19:08:00,Business,Cary,Morrisville,1.9,Temporary Site,6.0,2016,3,4,03-2016,Friday,Noche,110.0,No,Cary
+2016-03-04 19:16:00,2016-03-04 19:25:00,Business,Morrisville,Cary,2.0,Meal/Entertain,9.0,2016,3,4,03-2016,Friday,Noche,8.0,Sí,Morrisville
+2016-03-05 11:44:00,2016-03-05 11:59:00,Business,Cary,Morrisville,6.5,Meal/Entertain,15.0,2016,3,5,03-2016,Saturday,Mañana,979.0,No,Cary
+2016-03-05 12:57:00,2016-03-05 13:12:00,Personal,Weston,Weston,4.2,,15.0,2016,3,5,03-2016,Saturday,Tarde,58.0,No,Morrisville
+2016-03-05 14:08:00,2016-03-05 14:18:00,Personal,Morrisville,Cary,3.5,,10.0,2016,3,5,03-2016,Saturday,Tarde,56.0,No,Weston
+2016-03-05 14:39:00,2016-03-05 15:01:00,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain,22.0,2016,3,5,03-2016,Saturday,Tarde,21.0,No,Cary
+2016-03-05 16:52:00,2016-03-05 17:13:00,Business,Cary,Morrisville,7.8,Meal/Entertain,21.0,2016,3,5,03-2016,Saturday,Tarde,111.0,No,Wayne Ridge
+2016-03-05 17:23:00,2016-03-05 17:34:00,Business,Morrisville,Cary,3.9,Meal/Entertain,11.0,2016,3,5,03-2016,Saturday,Tarde,10.0,Sí,Morrisville
+2016-03-07 09:10:00,2016-03-07 09:20:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,10.0,2016,3,7,03-2016,Monday,Mañana,2376.0,No,Cary
+2016-03-07 09:23:00,2016-03-07 09:47:00,Business,Cary,Raleigh,12.4,Customer Visit,24.0,2016,3,7,03-2016,Monday,Mañana,3.0,No,Edgehill Farms
+2016-03-07 12:10:00,2016-03-07 12:26:00,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit,16.0,2016,3,7,03-2016,Monday,Tarde,143.0,No,Raleigh
+2016-03-07 13:57:00,2016-03-07 14:18:00,Business,Meredith Townes,Leesville Hollow,9.4,Meeting,21.0,2016,3,7,03-2016,Monday,Tarde,91.0,No,Meredith Townes
+2016-03-07 15:19:00,2016-03-07 15:45:00,Business,Raleigh,Cary,11.9,Between Offices,26.0,2016,3,7,03-2016,Monday,Tarde,61.0,No,Leesville Hollow
+2016-03-08 14:38:00,2016-03-08 14:55:00,Business,Whitebridge,Waverly Place,7.2,Between Offices,17.0,2016,3,8,03-2016,Tuesday,Tarde,1373.0,No,Cary
+2016-03-08 15:35:00,2016-03-08 16:00:00,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain,25.0,2016,3,8,03-2016,Tuesday,Tarde,40.0,No,Waverly Place
+2016-03-08 16:13:00,2016-03-08 16:25:00,Personal,Whitebridge,Whitebridge,1.6,,12.0,2016,3,8,03-2016,Tuesday,Tarde,13.0,Sí,Whitebridge
+2016-03-10 03:36:00,2016-03-10 03:53:00,Business,Cary,Morrisville,8.4,Meeting,17.0,2016,3,10,03-2016,Thursday,Madrugada,2111.0,No,Whitebridge
+2016-03-10 10:08:00,2016-03-10 10:37:00,Business,East Austin,West University,12.8,Meeting,29.0,2016,3,10,03-2016,Thursday,Mañana,375.0,No,Morrisville
+2016-03-10 14:39:00,2016-03-10 14:55:00,Business,West University,South Congress,2.3,,16.0,2016,3,10,03-2016,Thursday,Tarde,242.0,No,West University
+2016-03-10 16:18:00,2016-03-10 16:28:00,Business,South Congress,Arts District,1.6,,10.0,2016,3,10,03-2016,Thursday,Tarde,83.0,No,South Congress
+2016-03-11 09:47:00,2016-03-11 09:59:00,Business,The Drag,Congress Ave District,2.0,Meal/Entertain,12.0,2016,3,11,03-2016,Friday,Mañana,1039.0,No,Arts District
+2016-03-11 10:29:00,2016-03-11 10:36:00,Business,Congress Ave District,Downtown,0.8,,7.0,2016,3,11,03-2016,Friday,Mañana,30.0,Sí,Congress Ave District
+2016-03-11 11:57:00,2016-03-11 12:04:00,Business,Downtown,Red River District,1.2,,7.0,2016,3,11,03-2016,Friday,Mañana,81.0,No,Downtown
+2016-03-11 13:43:00,2016-03-11 13:51:00,Business,Red River District,Downtown,1.0,,8.0,2016,3,11,03-2016,Friday,Tarde,99.0,No,Red River District
+2016-03-11 19:21:00,2016-03-11 19:35:00,Business,South Congress,The Drag,2.1,,14.0,2016,3,11,03-2016,Friday,Noche,330.0,No,Downtown
+2016-03-12 09:13:00,2016-03-12 09:22:00,Business,The Drag,South Congress,2.2,,9.0,2016,3,12,03-2016,Saturday,Mañana,818.0,No,The Drag
+2016-03-12 18:27:00,2016-03-12 18:37:00,Personal,South Congress,The Drag,1.9,,10.0,2016,3,12,03-2016,Saturday,Noche,545.0,No,South Congress
+2016-03-13 09:07:00,2016-03-13 09:37:00,Business,The Drag,Convention Center District,5.7,Meal/Entertain,30.0,2016,3,13,03-2016,Sunday,Mañana,870.0,No,The Drag
+2016-03-13 18:23:00,2016-03-13 18:43:00,Business,South Congress,North Austin,8.4,Meal/Entertain,20.0,2016,3,13,03-2016,Sunday,Noche,526.0,No,Convention Center District
+2016-03-13 20:07:00,2016-03-13 20:28:00,Business,Georgian Acres,The Drag,6.2,Meal/Entertain,21.0,2016,3,13,03-2016,Sunday,Noche,84.0,No,North Austin
+2016-03-13 20:39:00,2016-03-13 20:58:00,Business,The Drag,North Austin,10.5,Meal/Entertain,19.0,2016,3,13,03-2016,Sunday,Noche,11.0,Sí,The Drag
+2016-03-13 21:11:00,2016-03-13 21:23:00,Business,North Austin,Coxville,7.2,Meal/Entertain,12.0,2016,3,13,03-2016,Sunday,Noche,13.0,Sí,North Austin
+2016-03-13 22:19:00,2016-03-13 22:39:00,Business,Coxville,The Drag,12.5,,20.0,2016,3,13,03-2016,Sunday,Noche,56.0,No,Coxville
+2016-03-14 08:34:00,2016-03-14 08:49:00,Business,The Drag,South Congress,2.0,Errand/Supplies,15.0,2016,3,14,03-2016,Monday,Mañana,595.0,No,The Drag
+2016-03-14 18:39:00,2016-03-14 18:55:00,Business,South Congress,The Drag,2.7,,16.0,2016,3,14,03-2016,Monday,Noche,590.0,No,South Congress
+2016-03-15 08:45:00,2016-03-15 08:57:00,Business,The Drag,Convention Center District,2.0,Meal/Entertain,12.0,2016,3,15,03-2016,Tuesday,Mañana,830.0,No,The Drag
+2016-03-15 20:48:00,2016-03-15 21:01:00,Business,Downtown,The Drag,2.8,Meal/Entertain,13.0,2016,3,15,03-2016,Tuesday,Noche,711.0,No,Convention Center District
+2016-03-16 11:34:00,2016-03-16 11:45:00,Business,The Drag,Congress Ave District,1.7,Meal/Entertain,11.0,2016,3,16,03-2016,Wednesday,Mañana,873.0,No,The Drag
+2016-03-16 14:44:00,2016-03-16 14:55:00,Business,Convention Center District,West University,2.0,,11.0,2016,3,16,03-2016,Wednesday,Tarde,179.0,No,Congress Ave District
+2016-03-16 18:43:00,2016-03-16 18:56:00,Business,West University,Congress Ave District,2.1,Meal/Entertain,13.0,2016,3,16,03-2016,Wednesday,Noche,228.0,No,West University
+2016-03-17 00:33:00,2016-03-17 00:44:00,Personal,Downtown,The Drag,1.7,,11.0,2016,3,17,03-2016,Thursday,Madrugada,337.0,No,Congress Ave District
+2016-03-17 12:52:00,2016-03-17 15:11:00,Business,Austin,Katy,136.0,Customer Visit,139.0,2016,3,17,03-2016,Thursday,Tarde,728.0,No,The Drag
+2016-03-17 15:16:00,2016-03-17 15:58:00,Business,Katy,Houston,30.2,Meeting,42.0,2016,3,17,03-2016,Thursday,Tarde,5.0,Sí,Katy
+2016-03-17 17:20:00,2016-03-17 18:02:00,Business,Midtown,Alief,15.5,Meal/Entertain,42.0,2016,3,17,03-2016,Thursday,Tarde,82.0,No,Houston
+2016-03-17 18:47:00,2016-03-17 19:09:00,Personal,Houston,Houston,4.9,,22.0,2016,3,17,03-2016,Thursday,Noche,45.0,No,Alief
+2016-03-17 20:57:00,2016-03-17 21:28:00,Personal,Houston,Houston,12.6,,31.0,2016,3,17,03-2016,Thursday,Noche,108.0,No,Houston
+2016-03-17 21:48:00,2016-03-17 22:04:00,Personal,Sharpstown,Midtown,10.4,,16.0,2016,3,17,03-2016,Thursday,Noche,20.0,No,Houston
+2016-03-18 07:15:00,2016-03-18 07:21:00,Business,Midtown,Midtown,1.1,Meal/Entertain,6.0,2016,3,18,03-2016,Friday,Mañana,551.0,No,Midtown
+2016-03-18 08:35:00,2016-03-18 08:43:00,Business,Midtown,Midtown,1.1,Meal/Entertain,8.0,2016,3,18,03-2016,Friday,Mañana,74.0,No,Midtown
+2016-03-18 18:24:00,2016-03-18 19:08:00,Business,Midtown,Sharpstown,13.2,Meeting,44.0,2016,3,18,03-2016,Friday,Noche,581.0,No,Midtown
+2016-03-18 19:23:00,2016-03-18 19:29:00,Business,Sharpstown,Sharpstown,1.0,Errand/Supplies,6.0,2016,3,18,03-2016,Friday,Noche,15.0,Sí,Sharpstown
+2016-03-18 21:01:00,2016-03-18 21:15:00,Business,Sharpstown,Midtown,9.2,Customer Visit,14.0,2016,3,18,03-2016,Friday,Noche,92.0,No,Sharpstown
+2016-03-19 09:10:00,2016-03-19 09:25:00,Business,Midtown,Sharpstown,9.4,Meal/Entertain,15.0,2016,3,19,03-2016,Saturday,Mañana,715.0,No,Midtown
+2016-03-19 12:50:00,2016-03-19 13:13:00,Business,Houston,Sugar Land,12.0,Customer Visit,23.0,2016,3,19,03-2016,Saturday,Tarde,205.0,No,Sharpstown
+2016-03-19 14:01:00,2016-03-19 14:57:00,Business,Sugar Land,Houston,35.1,Customer Visit,56.0,2016,3,19,03-2016,Saturday,Tarde,48.0,No,Sugar Land
+2016-03-19 15:34:00,2016-03-19 16:38:00,Business,Houston,Galveston,36.5,Meal/Entertain,64.0,2016,3,19,03-2016,Saturday,Tarde,37.0,No,Houston
+2016-03-19 17:17:00,2016-03-19 17:32:00,Business,Galveston,Port Bolivar,3.1,Meal/Entertain,15.0,2016,3,19,03-2016,Saturday,Tarde,39.0,No,Galveston
+2016-03-19 17:37:00,2016-03-19 17:47:00,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies,10.0,2016,3,19,03-2016,Saturday,Tarde,5.0,Sí,Port Bolivar
+2016-03-19 17:52:00,2016-03-19 18:00:00,Business,Port Bolivar,Port Bolivar,1.2,,8.0,2016,3,19,03-2016,Saturday,Tarde,5.0,Sí,Port Bolivar
+2016-03-19 18:53:00,2016-03-19 19:29:00,Business,Port Bolivar,Galveston,7.5,Meeting,36.0,2016,3,19,03-2016,Saturday,Noche,53.0,No,Port Bolivar
+2016-03-19 19:33:00,2016-03-19 20:39:00,Business,Galveston,Houston,57.0,Customer Visit,66.0,2016,3,19,03-2016,Saturday,Noche,4.0,Sí,Galveston
+2016-03-20 07:37:00,2016-03-20 07:48:00,Business,Midtown,Washington Avenue,5.9,Meeting,11.0,2016,3,20,03-2016,Sunday,Mañana,658.0,No,Houston
+2016-03-20 11:42:00,2016-03-20 11:56:00,Business,Washington Avenue,Midtown,6.2,Meeting,14.0,2016,3,20,03-2016,Sunday,Mañana,234.0,No,Washington Avenue
+2016-03-20 17:08:00,2016-03-20 17:34:00,Business,Midtown,Sharpstown,10.4,,26.0,2016,3,20,03-2016,Sunday,Tarde,312.0,No,Midtown
+2016-03-20 18:34:00,2016-03-20 18:40:00,Personal,Sharpstown,Briar Meadow,1.2,,6.0,2016,3,20,03-2016,Sunday,Noche,60.0,No,Sharpstown
+2016-03-20 18:45:00,2016-03-20 19:06:00,Business,Briar Meadow,Midtown,9.6,Customer Visit,21.0,2016,3,20,03-2016,Sunday,Noche,5.0,Sí,Briar Meadow
+2016-03-21 10:21:00,2016-03-21 10:26:00,Personal,Midtown,Downtown,1.0,,5.0,2016,3,21,03-2016,Monday,Mañana,915.0,No,Midtown
+2016-03-21 16:05:00,2016-03-21 16:13:00,Business,Downtown,Midtown,0.9,Meal/Entertain,8.0,2016,3,21,03-2016,Monday,Tarde,339.0,No,Downtown
+2016-03-21 18:59:00,2016-03-21 19:15:00,Business,Midtown,Sharpstown,8.8,,16.0,2016,3,21,03-2016,Monday,Noche,166.0,No,Midtown
+2016-03-21 20:18:00,2016-03-21 20:55:00,Business,Sharpstown,Midtown,25.6,Meal/Entertain,37.0,2016,3,21,03-2016,Monday,Noche,63.0,No,Sharpstown
+2016-03-22 06:17:00,2016-03-22 06:43:00,Business,Midtown,Greater Greenspoint,23.0,Meal/Entertain,26.0,2016,3,22,03-2016,Tuesday,Mañana,562.0,No,Midtown
+2016-03-22 12:06:00,2016-03-22 12:24:00,Personal,Morrisville,Cary,8.1,,18.0,2016,3,22,03-2016,Tuesday,Tarde,323.0,No,Greater Greenspoint
+2016-03-22 19:12:00,2016-03-22 19:25:00,Personal,Whitebridge,Whitebridge,1.4,,13.0,2016,3,22,03-2016,Tuesday,Noche,408.0,No,Cary
+2016-03-23 14:37:00,2016-03-23 14:42:00,Personal,Whitebridge,Preston,1.7,,5.0,2016,3,23,03-2016,Wednesday,Tarde,1152.0,No,Whitebridge
+2016-03-23 14:53:00,2016-03-23 14:59:00,Personal,Preston,Whitebridge,1.6,,6.0,2016,3,23,03-2016,Wednesday,Tarde,11.0,Sí,Preston
+2016-03-24 19:47:00,2016-03-24 19:54:00,Personal,Whitebridge,Westpark Place,2.0,,7.0,2016,3,24,03-2016,Thursday,Noche,1728.0,No,Whitebridge
+2016-03-24 20:34:00,2016-03-24 20:40:00,Business,Westpark Place,Whitebridge,2.2,,6.0,2016,3,24,03-2016,Thursday,Noche,40.0,No,Westpark Place
+2016-03-25 13:24:00,2016-03-25 16:22:00,Business,Cary,Latta,144.0,Customer Visit,178.0,2016,3,25,03-2016,Friday,Tarde,1004.0,No,Whitebridge
+2016-03-25 16:52:00,2016-03-25 22:22:00,Business,Latta,Jacksonville,310.3,Customer Visit,330.0,2016,3,25,03-2016,Friday,Tarde,30.0,Sí,Latta
+2016-03-25 22:54:00,2016-03-26 01:39:00,Business,Jacksonville,Kissimmee,201.0,Meeting,165.0,2016,3,25,03-2016,Friday,Noche,32.0,No,Jacksonville
+2016-03-26 14:05:00,2016-03-26 14:29:00,Personal,Couples Glen,Isles Of Buena Vista,6.7,,24.0,2016,3,26,03-2016,Saturday,Tarde,746.0,No,Kissimmee
+2016-03-26 15:19:00,2016-03-26 15:49:00,Personal,Kissimmee,Orlando,8.8,,30.0,2016,3,26,03-2016,Saturday,Tarde,50.0,No,Isles Of Buena Vista
+2016-03-26 16:26:00,2016-03-26 16:30:00,Personal,Lake Reams,Lake Reams,1.2,,4.0,2016,3,26,03-2016,Saturday,Tarde,37.0,No,Orlando
+2016-03-27 00:31:00,2016-03-27 00:40:00,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies,9.0,2016,3,27,03-2016,Sunday,Madrugada,481.0,No,Lake Reams
+2016-03-27 01:11:00,2016-03-27 01:23:00,Business,Orlando,Kissimmee,6.6,Meal/Entertain,12.0,2016,3,27,03-2016,Sunday,Madrugada,31.0,No,Lake Reams
+2016-03-27 15:31:00,2016-03-27 15:56:00,Business,Kissimmee,Orlando,6.1,Customer Visit,25.0,2016,3,27,03-2016,Sunday,Tarde,848.0,No,Kissimmee
+2016-03-27 21:26:00,2016-03-27 21:41:00,Personal,Orlando,Orlando,6.9,,15.0,2016,3,27,03-2016,Sunday,Noche,330.0,No,Orlando
+2016-03-27 23:04:00,2016-03-27 23:18:00,Personal,Orlando,Kissimmee,7.3,,14.0,2016,3,27,03-2016,Sunday,Madrugada,83.0,No,Orlando
+2016-03-28 12:29:00,2016-03-28 12:42:00,Personal,Kissimmee,Orlando,3.6,,13.0,2016,3,28,03-2016,Monday,Tarde,791.0,No,Kissimmee
+2016-03-28 19:30:00,2016-03-28 20:23:00,Personal,Couples Glen,Vista East,27.2,,53.0,2016,3,28,03-2016,Monday,Noche,408.0,No,Orlando
+2016-03-28 22:55:00,2016-03-28 23:26:00,Personal,Orlando,Kissimmee,25.7,,31.0,2016,3,28,03-2016,Monday,Noche,152.0,No,Vista East
+2016-03-29 15:27:00,2016-03-29 16:11:00,Personal,Kissimmee,Orlando,13.6,,44.0,2016,3,29,03-2016,Tuesday,Tarde,961.0,No,Kissimmee
+2016-03-29 18:20:00,2016-03-29 18:39:00,Personal,Sand Lake Commons,Sky Lake,6.2,,19.0,2016,3,29,03-2016,Tuesday,Noche,129.0,No,Orlando
+2016-03-29 20:29:00,2016-03-29 20:44:00,Personal,Sky Lake,Sand Lake Commons,6.0,,15.0,2016,3,29,03-2016,Tuesday,Noche,110.0,No,Sky Lake
+2016-03-29 23:04:00,2016-03-29 23:21:00,Personal,Orlando,Kissimmee,13.8,,17.0,2016,3,29,03-2016,Tuesday,Madrugada,140.0,No,Sand Lake Commons
+2016-03-30 22:05:00,2016-03-30 22:55:00,Business,Orlando,Kissimmee,28.8,Meal/Entertain,50.0,2016,3,30,03-2016,Wednesday,Noche,1364.0,No,Kissimmee
+2016-03-31 12:47:00,2016-03-31 13:22:00,Business,Kissimmee,Orlando,16.1,Temporary Site,35.0,2016,3,31,03-2016,Thursday,Tarde,832.0,No,Kissimmee
+2016-03-31 14:37:00,2016-03-31 15:09:00,Business,Orlando,Kissimmee,16.4,Meal/Entertain,32.0,2016,3,31,03-2016,Thursday,Tarde,75.0,No,Orlando
+2016-04-01 13:43:00,2016-04-01 14:01:00,Business,Kissimmee,Kissimmee,11.0,Meeting,18.0,2016,4,1,04-2016,Friday,Tarde,1354.0,No,Kissimmee
+2016-04-01 14:36:00,2016-04-01 15:24:00,Business,Kissimmee,Orlando,15.5,Customer Visit,48.0,2016,4,1,04-2016,Friday,Tarde,35.0,No,Kissimmee
+2016-04-01 16:01:00,2016-04-01 16:49:00,Business,Orlando,Kissimmee,20.3,Meeting,48.0,2016,4,1,04-2016,Friday,Tarde,37.0,No,Orlando
+2016-04-01 16:52:00,2016-04-01 16:57:00,Personal,Kissimmee,Kissimmee,0.7,,5.0,2016,4,1,04-2016,Friday,Tarde,3.0,Sí,Kissimmee
+2016-04-02 08:48:00,2016-04-02 09:04:00,Personal,Kissimmee,Kissimmee,5.5,,16.0,2016,4,2,04-2016,Saturday,Mañana,951.0,No,Kissimmee
+2016-04-02 11:01:00,2016-04-02 11:16:00,Personal,Kissimmee,Kissimmee,5.1,,15.0,2016,4,2,04-2016,Saturday,Mañana,117.0,No,Kissimmee
+2016-04-02 12:21:00,2016-04-02 14:47:00,Business,Kissimmee,Daytona Beach,77.3,Customer Visit,146.0,2016,4,2,04-2016,Saturday,Tarde,65.0,No,Kissimmee
+2016-04-02 16:57:00,2016-04-02 18:09:00,Business,Daytona Beach,Jacksonville,80.5,Customer Visit,72.0,2016,4,2,04-2016,Saturday,Tarde,130.0,No,Daytona Beach
+2016-04-02 19:38:00,2016-04-02 22:36:00,Business,Jacksonville,Ridgeland,174.2,Customer Visit,178.0,2016,4,2,04-2016,Saturday,Noche,89.0,No,Jacksonville
+2016-04-02 23:11:00,2016-04-03 01:34:00,Business,Ridgeland,Florence,144.0,Meeting,143.0,2016,4,2,04-2016,Saturday,Madrugada,35.0,No,Ridgeland
+2016-04-03 02:00:00,2016-04-03 04:16:00,Business,Florence,Cary,159.3,Meeting,136.0,2016,4,3,04-2016,Sunday,Madrugada,26.0,Sí,Florence
+2016-04-05 21:39:00,2016-04-05 21:55:00,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain,16.0,2016,4,5,04-2016,Tuesday,Noche,3923.0,No,Cary
+2016-04-06 00:19:00,2016-04-06 00:39:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,20.0,2016,4,6,04-2016,Wednesday,Madrugada,144.0,No,Wayne Ridge
+2016-04-07 18:20:00,2016-04-07 18:39:00,Business,Cary,Morrisville,6.1,Meal/Entertain,19.0,2016,4,7,04-2016,Thursday,Noche,2501.0,No,Whitebridge
+2016-04-07 19:45:00,2016-04-07 20:00:00,Business,Morrisville,Cary,6.1,Errand/Supplies,15.0,2016,4,7,04-2016,Thursday,Noche,66.0,No,Morrisville
+2016-04-08 12:30:00,2016-04-08 12:48:00,Business,Cary,Durham,10.5,Meeting,18.0,2016,4,8,04-2016,Friday,Tarde,990.0,No,Cary
+2016-04-08 13:34:00,2016-04-08 13:51:00,Business,Durham,Cary,8.7,Meal/Entertain,17.0,2016,4,8,04-2016,Friday,Tarde,46.0,No,Durham
+2016-04-08 13:55:00,2016-04-08 14:03:00,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies,8.0,2016,4,8,04-2016,Friday,Tarde,4.0,No,Cary
+2016-04-08 14:43:00,2016-04-08 15:20:00,Business,Cary,Raleigh,19.1,Meeting,37.0,2016,4,8,04-2016,Friday,Tarde,40.0,No,Whitebridge
+2016-04-08 16:05:00,2016-04-08 16:47:00,Business,Raleigh,Cary,18.6,Meeting,42.0,2016,4,8,04-2016,Friday,Tarde,45.0,No,Raleigh
+2016-04-12 09:15:00,2016-04-12 09:26:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,11.0,2016,4,12,04-2016,Tuesday,Mañana,5308.0,No,Cary
+2016-04-12 09:34:00,2016-04-12 09:53:00,Business,Cary,Raleigh,8.9,Meeting,19.0,2016,4,12,04-2016,Tuesday,Mañana,8.0,No,Edgehill Farms
+2016-04-12 10:58:00,2016-04-12 11:18:00,Business,Meredith,Cedar Hill,7.5,Customer Visit,20.0,2016,4,12,04-2016,Tuesday,Mañana,65.0,No,Raleigh
+2016-04-12 12:22:00,2016-04-12 12:44:00,Business,Raleigh,Morrisville,15.9,Meeting,22.0,2016,4,12,04-2016,Tuesday,Tarde,64.0,No,Cedar Hill
+2016-04-12 13:42:00,2016-04-12 14:01:00,Business,Morrisville,Cary,6.5,Meal/Entertain,19.0,2016,4,12,04-2016,Tuesday,Tarde,58.0,No,Morrisville
+2016-04-14 07:29:00,2016-04-14 08:09:00,Business,Cary,Holly Springs,15.3,Temporary Site,40.0,2016,4,14,04-2016,Thursday,Mañana,2488.0,No,Cary
+2016-04-14 16:00:00,2016-04-14 16:43:00,Business,Holly Springs,Cary,13.7,Temporary Site,43.0,2016,4,14,04-2016,Thursday,Tarde,471.0,No,Holly Springs
+2016-04-15 11:36:00,2016-04-15 12:07:00,Business,Cary,Raleigh,11.9,Temporary Site,31.0,2016,4,15,04-2016,Friday,Mañana,1133.0,No,Cary
+2016-04-15 12:29:00,2016-04-15 12:32:00,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies,3.0,2016,4,15,04-2016,Friday,Tarde,22.0,No,Raleigh
+2016-04-15 14:31:00,2016-04-15 15:01:00,Business,Raleigh,Cary,15.2,Meeting,30.0,2016,4,15,04-2016,Friday,Tarde,119.0,No,Harden Place
+2016-04-16 12:59:00,2016-04-16 13:17:00,Business,Cary,Morrisville,6.0,Errand/Supplies,18.0,2016,4,16,04-2016,Saturday,Tarde,1318.0,No,Cary
+2016-04-16 15:10:00,2016-04-16 15:26:00,Business,Morrisville,Cary,6.1,Meal/Entertain,16.0,2016,4,16,04-2016,Saturday,Tarde,113.0,No,Morrisville
+2016-04-19 17:44:00,2016-04-19 18:08:00,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain,24.0,2016,4,19,04-2016,Tuesday,Tarde,4458.0,No,Cary
+2016-04-19 19:57:00,2016-04-19 20:19:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,22.0,2016,4,19,04-2016,Tuesday,Noche,109.0,No,Wayne Ridge
+2016-04-22 08:25:00,2016-04-22 09:04:00,Business,Cary,Raleigh,13.6,Meeting,39.0,2016,4,22,04-2016,Friday,Mañana,3606.0,No,Whitebridge
+2016-04-22 10:10:00,2016-04-22 10:40:00,Business,Raleigh,Cary,22.5,Meeting,30.0,2016,4,22,04-2016,Friday,Mañana,66.0,No,Raleigh
+2016-04-22 12:08:00,2016-04-22 12:28:00,Business,Cary,Durham,10.4,Meeting,20.0,2016,4,22,04-2016,Friday,Tarde,88.0,No,Cary
+2016-04-22 13:02:00,2016-04-22 13:26:00,Business,Durham,Cary,10.0,Meeting,24.0,2016,4,22,04-2016,Friday,Tarde,34.0,No,Durham
+2016-04-23 17:03:00,2016-04-23 17:16:00,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,13.0,2016,4,23,04-2016,Saturday,Tarde,1657.0,No,Cary
+2016-04-23 18:49:00,2016-04-23 19:05:00,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain,16.0,2016,4,23,04-2016,Saturday,Noche,93.0,No,Tanglewood
+2016-04-24 19:07:00,2016-04-24 19:16:00,Business,Cary,Morrisville,3.1,Errand/Supplies,9.0,2016,4,24,04-2016,Sunday,Noche,1442.0,No,Whitebridge
+2016-04-24 19:46:00,2016-04-24 19:52:00,Business,Chessington,Chessington,1.9,Errand/Supplies,6.0,2016,4,24,04-2016,Sunday,Noche,30.0,No,Morrisville
+2016-04-24 21:41:00,2016-04-24 21:50:00,Business,Morrisville,Cary,4.2,Between Offices,9.0,2016,4,24,04-2016,Sunday,Noche,109.0,No,Chessington
+2016-04-27 13:30:00,2016-04-27 13:40:00,Business,Whitebridge,Burtrose,4.9,Between Offices,10.0,2016,4,27,04-2016,Wednesday,Tarde,3820.0,No,Cary
+2016-04-27 14:13:00,2016-04-27 14:25:00,Business,Burtrose,Whitebridge,4.8,Between Offices,12.0,2016,4,27,04-2016,Wednesday,Tarde,33.0,No,Burtrose
+2016-04-28 12:09:00,2016-04-28 12:34:00,Business,Cary,Raleigh,12.4,Customer Visit,25.0,2016,4,28,04-2016,Thursday,Tarde,1304.0,No,Whitebridge
+2016-04-28 13:30:00,2016-04-28 13:49:00,Business,Raleigh,Cary,32.8,Customer Visit,19.0,2016,4,28,04-2016,Thursday,Tarde,56.0,No,Raleigh
+2016-04-28 22:10:00,2016-04-28 22:28:00,Business,Morrisville,Cary,5.5,Customer Visit,18.0,2016,4,28,04-2016,Thursday,Noche,501.0,No,Cary
+2016-04-29 11:44:00,2016-04-29 12:01:00,Business,Cary,Durham,9.9,Meeting,17.0,2016,4,29,04-2016,Friday,Mañana,796.0,No,Cary
+2016-04-29 13:13:00,2016-04-29 13:34:00,Business,Durham,Cary,10.0,Meeting,21.0,2016,4,29,04-2016,Friday,Tarde,72.0,No,Durham
+2016-04-29 18:46:00,2016-04-29 19:18:00,Business,Cary,Durham,14.2,Customer Visit,32.0,2016,4,29,04-2016,Friday,Noche,312.0,No,Cary
+2016-04-29 22:44:00,2016-04-29 23:19:00,Business,Durham,Cary,18.2,Meeting,35.0,2016,4,29,04-2016,Friday,Noche,206.0,No,Durham
+2016-04-30 18:42:00,2016-04-30 18:57:00,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain,15.0,2016,4,30,04-2016,Saturday,Noche,1163.0,No,Cary
+2016-04-30 22:16:00,2016-04-30 22:34:00,Business,Waverly Place,Whitebridge,6.8,,18.0,2016,4,30,04-2016,Saturday,Noche,199.0,No,Waverly Place
+2016-05-01 13:45:00,2016-05-01 13:53:00,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain,8.0,2016,5,1,05-2016,Sunday,Tarde,911.0,No,Whitebridge
+2016-05-01 14:26:00,2016-05-01 14:31:00,Business,Westpark Place,Whitebridge,2.3,,5.0,2016,5,1,05-2016,Sunday,Tarde,33.0,No,Westpark Place
+2016-05-01 17:33:00,2016-05-01 17:45:00,Business,Whitebridge,Tanglewood,6.2,Between Offices,12.0,2016,5,1,05-2016,Sunday,Tarde,182.0,No,Whitebridge
+2016-05-01 17:54:00,2016-05-01 18:10:00,Business,Tanglewood,Parkway,7.5,Meeting,16.0,2016,5,1,05-2016,Sunday,Tarde,9.0,Sí,Tanglewood
+2016-05-01 22:38:00,2016-05-01 22:49:00,Business,Parkway,Whitebridge,3.1,Errand/Supplies,11.0,2016,5,1,05-2016,Sunday,Noche,268.0,No,Parkway
+2016-05-02 14:14:00,2016-05-02 14:21:00,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies,7.0,2016,5,2,05-2016,Monday,Tarde,925.0,No,Whitebridge
+2016-05-02 15:37:00,2016-05-02 15:48:00,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain,11.0,2016,5,2,05-2016,Monday,Tarde,76.0,No,Westpark Place
+2016-05-03 22:20:00,2016-05-03 22:28:00,Business,Morrisville,Cary,2.5,Meal/Entertain,8.0,2016,5,3,05-2016,Tuesday,Noche,1832.0,No,Whitebridge
+2016-05-04 15:16:00,2016-05-04 15:37:00,Business,Cary,Morrisville,8.7,Meal/Entertain,21.0,2016,5,4,05-2016,Wednesday,Tarde,1008.0,No,Cary
+2016-05-04 20:55:00,2016-05-04 21:14:00,Business,Mcvan,Capitol One,14.5,Errand/Supplies,19.0,2016,5,4,05-2016,Wednesday,Noche,318.0,No,Morrisville
+2016-05-04 21:30:00,2016-05-04 21:36:00,Business,Capitol One,University District,4.5,Meal/Entertain,6.0,2016,5,4,05-2016,Wednesday,Noche,16.0,Sí,Capitol One
+2016-05-04 22:19:00,2016-05-04 22:27:00,Business,University District,Capitol One,5.0,Meal/Entertain,8.0,2016,5,4,05-2016,Wednesday,Noche,43.0,No,University District
+2016-05-05 21:24:00,2016-05-05 21:36:00,Business,Seattle,Redmond,14.2,Meal/Entertain,12.0,2016,5,5,05-2016,Thursday,Noche,1377.0,No,Capitol One
+2016-05-05 22:34:00,2016-05-05 22:40:00,Business,Redmond,Bellevue,2.9,Errand/Supplies,6.0,2016,5,5,05-2016,Thursday,Noche,58.0,No,Redmond
+2016-05-05 23:55:00,2016-05-06 00:08:00,Business,Bellevue,Seattle,12.9,Meeting,13.0,2016,5,5,05-2016,Thursday,Madrugada,75.0,No,Bellevue
+2016-05-06 05:47:00,2016-05-06 06:02:00,Business,Capitol One,Mcvan,14.4,Meeting,15.0,2016,5,6,05-2016,Friday,Mañana,339.0,No,Seattle
+2016-05-06 16:45:00,2016-05-06 16:59:00,Business,Chapel Hill,Morrisville,17.0,Meeting,14.0,2016,5,6,05-2016,Friday,Tarde,643.0,No,Mcvan
+2016-05-06 17:18:00,2016-05-06 17:44:00,Business,Morrisville,Cary,7.9,Customer Visit,26.0,2016,5,6,05-2016,Friday,Tarde,19.0,Sí,Morrisville
+2016-05-09 06:08:00,2016-05-09 06:25:00,Business,Cary,Morrisville,8.4,Customer Visit,17.0,2016,5,9,05-2016,Monday,Mañana,3624.0,No,Cary
+2016-05-09 14:39:00,2016-05-09 15:06:00,Business,San Francisco,Palo Alto,20.5,Between Offices,27.0,2016,5,9,05-2016,Monday,Tarde,494.0,No,Morrisville
+2016-05-09 17:58:00,2016-05-09 18:26:00,Business,Palo Alto,Sunnyvale,9.8,Customer Visit,28.0,2016,5,9,05-2016,Monday,Tarde,172.0,No,Palo Alto
+2016-05-09 19:35:00,2016-05-09 19:59:00,Business,Sunnyvale,Newark,17.6,Customer Visit,24.0,2016,5,9,05-2016,Monday,Noche,69.0,No,Sunnyvale
+2016-05-10 09:03:00,2016-05-10 09:20:00,Business,Newark,Menlo Park,9.3,Customer Visit,17.0,2016,5,10,05-2016,Tuesday,Mañana,784.0,No,Newark
+2016-05-10 17:19:00,2016-05-10 17:31:00,Business,Menlo Park,Newark,7.9,Customer Visit,12.0,2016,5,10,05-2016,Tuesday,Tarde,479.0,No,Menlo Park
+2016-05-11 08:35:00,2016-05-11 09:12:00,Business,Newark,San Francisco,25.6,Meeting,37.0,2016,5,11,05-2016,Wednesday,Mañana,904.0,No,Newark
+2016-05-11 21:47:00,2016-05-11 22:04:00,Business,Morrisville,Cary,8.1,Meeting,17.0,2016,5,11,05-2016,Wednesday,Noche,755.0,No,San Francisco
+2016-05-14 18:35:00,2016-05-14 18:39:00,Business,Cary,Morrisville,3.1,Meal/Entertain,4.0,2016,5,14,05-2016,Saturday,Noche,4111.0,No,Cary
+2016-05-14 23:01:00,2016-05-14 23:05:00,Business,Morrisville,Cary,3.1,Meal/Entertain,4.0,2016,5,14,05-2016,Saturday,Madrugada,262.0,No,Morrisville
+2016-05-17 13:15:00,2016-05-17 13:23:00,Business,Whitebridge,Preston,2.8,Errand/Supplies,8.0,2016,5,17,05-2016,Tuesday,Tarde,3730.0,No,Cary
+2016-05-17 13:56:00,2016-05-17 14:08:00,Business,Preston,Westpark Place,2.7,Errand/Supplies,12.0,2016,5,17,05-2016,Tuesday,Tarde,33.0,No,Preston
+2016-05-17 14:34:00,2016-05-17 14:40:00,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies,6.0,2016,5,17,05-2016,Tuesday,Tarde,26.0,Sí,Westpark Place
+2016-05-18 09:11:00,2016-05-18 09:41:00,Business,Cary,Morrisville,8.4,Customer Visit,30.0,2016,5,18,05-2016,Wednesday,Mañana,1111.0,No,Whitebridge
+2016-05-18 13:00:00,2016-05-18 13:02:00,Business,Morrisville,Raleigh,7.6,Customer Visit,2.0,2016,5,18,05-2016,Wednesday,Tarde,199.0,No,Morrisville
+2016-05-19 14:37:00,2016-05-19 15:01:00,Business,Old City,Parkway Museums,2.9,Meal/Entertain,24.0,2016,5,19,05-2016,Thursday,Tarde,1535.0,No,Raleigh
+2016-05-20 10:56:00,2016-05-20 11:07:00,Business,Old City,Hog Island,11.2,Meeting,11.0,2016,5,20,05-2016,Friday,Mañana,1195.0,No,Parkway Museums
+2016-05-20 15:43:00,2016-05-20 16:12:00,Business,Morrisville,Cary,8.2,Meal/Entertain,29.0,2016,5,20,05-2016,Friday,Tarde,276.0,No,Hog Island
+2016-05-22 15:39:00,2016-05-22 15:46:00,Business,Cary,Morrisville,3.0,Meal/Entertain,7.0,2016,5,22,05-2016,Sunday,Tarde,2847.0,No,Cary
+2016-05-22 18:46:00,2016-05-22 18:53:00,Business,Morrisville,Cary,2.5,Meal/Entertain,7.0,2016,5,22,05-2016,Sunday,Noche,180.0,No,Morrisville
+2016-05-23 20:19:00,2016-05-23 20:27:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,8.0,2016,5,23,05-2016,Monday,Noche,1526.0,No,Cary
+2016-05-23 21:09:00,2016-05-23 21:21:00,Business,Savon Height,Whitebridge,3.6,Errand/Supplies,12.0,2016,5,23,05-2016,Monday,Noche,42.0,No,Savon Height
+2016-05-27 20:26:00,2016-05-27 20:30:00,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies,4.0,2016,5,27,05-2016,Friday,Noche,5705.0,No,Whitebridge
+2016-05-27 20:47:00,2016-05-27 20:53:00,Business,Savon Height,Kilarney Woods,1.2,,6.0,2016,5,27,05-2016,Friday,Noche,17.0,No,Kildaire Farms
+2016-05-27 22:11:00,2016-05-27 22:14:00,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies,3.0,2016,5,27,05-2016,Friday,Noche,78.0,No,Kilarney Woods
+2016-05-28 00:15:00,2016-05-28 00:21:00,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies,6.0,2016,5,28,05-2016,Saturday,Madrugada,121.0,No,Kildaire Farms
+2016-05-28 12:52:00,2016-05-28 13:06:00,Business,Cary,Morrisville,6.1,Meal/Entertain,14.0,2016,5,28,05-2016,Saturday,Tarde,751.0,No,Whitebridge
+2016-05-28 14:35:00,2016-05-28 15:04:00,Business,Morrisville,Cary,11.3,Customer Visit,29.0,2016,5,28,05-2016,Saturday,Tarde,89.0,No,Morrisville
+2016-05-31 13:54:00,2016-05-31 14:41:00,Business,Cary,Raleigh,14.9,Meeting,47.0,2016,5,31,05-2016,Tuesday,Tarde,4250.0,No,Cary
+2016-05-31 16:02:00,2016-05-31 16:39:00,Business,Raleigh,Cary,14.0,Meeting,37.0,2016,5,31,05-2016,Tuesday,Tarde,81.0,No,Raleigh
+2016-05-31 17:50:00,2016-05-31 17:59:00,Business,Westpark Place,Whitebridge,1.8,,9.0,2016,5,31,05-2016,Tuesday,Tarde,71.0,No,Cary
+2016-06-01 10:19:00,2016-06-01 10:47:00,Business,Cary,Morrisville,6.7,Customer Visit,28.0,2016,6,1,06-2016,Wednesday,Mañana,980.0,No,Whitebridge
+2016-06-01 13:10:00,2016-06-01 13:39:00,Business,Morrisville,Cary,9.6,Meeting,29.0,2016,6,1,06-2016,Wednesday,Tarde,143.0,No,Morrisville
+2016-06-03 11:29:00,2016-06-03 11:49:00,Business,Cary,Durham,10.4,Meeting,20.0,2016,6,3,06-2016,Friday,Mañana,2750.0,No,Cary
+2016-06-03 13:08:00,2016-06-03 13:38:00,Business,Durham,Cary,9.9,Meeting,30.0,2016,6,3,06-2016,Friday,Tarde,79.0,No,Durham
+2016-06-03 15:31:00,2016-06-03 15:54:00,Business,Cary,Morrisville,6.0,Meal/Entertain,23.0,2016,6,3,06-2016,Friday,Tarde,113.0,No,Cary
+2016-06-03 18:14:00,2016-06-03 18:29:00,Business,Townes At Everett Crossing,Chessington,3.3,Errand/Supplies,15.0,2016,6,3,06-2016,Friday,Noche,140.0,No,Morrisville
+2016-06-03 18:41:00,2016-06-03 18:53:00,Business,Morrisville,Cary,3.1,Errand/Supplies,12.0,2016,6,3,06-2016,Friday,Noche,12.0,No,Chessington
+2016-06-03 19:36:00,2016-06-03 19:42:00,Business,Huntington Woods,Weston,1.7,Errand/Supplies,6.0,2016,6,3,06-2016,Friday,Noche,43.0,No,Cary
+2016-06-03 22:47:00,2016-06-03 23:06:00,Business,Morrisville,Cary,4.0,Between Offices,19.0,2016,6,3,06-2016,Friday,Noche,185.0,No,Weston
+2016-06-05 14:03:00,2016-06-05 14:33:00,Business,Whitebridge,Savon Height,7.8,Customer Visit,30.0,2016,6,5,06-2016,Sunday,Tarde,2337.0,No,Cary
+2016-06-05 15:06:00,2016-06-05 15:22:00,Business,Cary,Morrisville,7.8,Customer Visit,16.0,2016,6,5,06-2016,Sunday,Tarde,33.0,No,Savon Height
+2016-06-05 15:57:00,2016-06-05 16:08:00,Business,Weston,Weston,3.8,Meal/Entertain,11.0,2016,6,5,06-2016,Sunday,Tarde,35.0,No,Morrisville
+2016-06-05 18:05:00,2016-06-05 18:14:00,Business,Morrisville,Cary,2.5,Meal/Entertain,9.0,2016,6,5,06-2016,Sunday,Noche,117.0,No,Weston
+2016-06-05 21:53:00,2016-06-05 22:05:00,Business,Cary,Durham,9.9,Meeting,12.0,2016,6,5,06-2016,Sunday,Noche,219.0,No,Cary
+2016-06-05 23:52:00,2016-06-06 00:08:00,Business,Durham,Cary,9.9,Meeting,16.0,2016,6,5,06-2016,Sunday,Madrugada,107.0,No,Durham
+2016-06-06 15:36:00,2016-06-06 15:45:00,Business,Whitebridge,Hazelwood,3.0,Errand/Supplies,9.0,2016,6,6,06-2016,Monday,Tarde,928.0,No,Cary
+2016-06-06 16:16:00,2016-06-06 16:24:00,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies,8.0,2016,6,6,06-2016,Monday,Tarde,31.0,No,Hazelwood
+2016-06-06 20:06:00,2016-06-06 20:20:00,Business,Cary,Apex,5.7,Meal/Entertain,14.0,2016,6,6,06-2016,Monday,Noche,222.0,No,Whitebridge
+2016-06-06 21:08:00,2016-06-06 21:37:00,Business,Apex,Cary,7.2,Meal/Entertain,29.0,2016,6,6,06-2016,Monday,Noche,48.0,No,Apex
+2016-06-06 21:41:00,2016-06-06 22:00:00,Business,Cary,Durham,10.4,Meeting,19.0,2016,6,6,06-2016,Monday,Noche,4.0,Sí,Cary
+2016-06-06 23:34:00,2016-06-06 23:48:00,Business,Durham,Cary,9.9,Meeting,14.0,2016,6,6,06-2016,Monday,Madrugada,94.0,No,Durham
+2016-06-07 21:42:00,2016-06-07 22:00:00,Business,Cary,Durham,10.4,Meeting,18.0,2016,6,7,06-2016,Tuesday,Noche,1314.0,No,Cary
+2016-06-07 23:41:00,2016-06-08 00:04:00,Business,Durham,Cary,9.9,Meeting,23.0,2016,6,7,06-2016,Tuesday,Madrugada,101.0,No,Durham
+2016-06-08 08:23:00,2016-06-08 08:53:00,Business,Cary,Morrisville,8.7,Meal/Entertain,30.0,2016,6,8,06-2016,Wednesday,Mañana,499.0,No,Cary
+2016-06-08 12:04:00,2016-06-08 13:01:00,Business,Jamaica,New York,22.3,Errand/Supplies,57.0,2016,6,8,06-2016,Wednesday,Tarde,191.0,No,Morrisville
+2016-06-08 13:12:00,2016-06-08 13:29:00,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain,17.0,2016,6,8,06-2016,Wednesday,Tarde,11.0,No,New York
+2016-06-08 14:31:00,2016-06-08 14:37:00,Business,Medical Centre,Tudor City,0.7,Errand/Supplies,6.0,2016,6,8,06-2016,Wednesday,Tarde,62.0,No,Gramercy-Flatiron
+2016-06-08 16:55:00,2016-06-08 17:11:00,Business,Rose Hill,Soho,2.5,Meal/Entertain,16.0,2016,6,8,06-2016,Wednesday,Tarde,138.0,No,Tudor City
+2016-06-08 17:16:00,2016-06-08 17:18:00,Business,Soho,Tribeca,0.5,Errand/Supplies,2.0,2016,6,8,06-2016,Wednesday,Tarde,5.0,Sí,Soho
+2016-06-08 17:59:00,2016-06-08 18:05:00,Business,Tribeca,Financial District,0.9,Errand/Supplies,6.0,2016,6,8,06-2016,Wednesday,Tarde,41.0,No,Tribeca
+2016-06-08 20:11:00,2016-06-08 20:25:00,Business,Financial District,Kips Bay,4.8,Errand/Supplies,14.0,2016,6,8,06-2016,Wednesday,Noche,126.0,No,Financial District
+2016-06-10 15:19:00,2016-06-10 16:28:00,Business,New York,Jamaica,16.3,Meeting,69.0,2016,6,10,06-2016,Friday,Tarde,2574.0,No,Kips Bay
+2016-06-10 21:47:00,2016-06-10 22:04:00,Business,Cary,Durham,10.4,Meeting,17.0,2016,6,10,06-2016,Friday,Noche,319.0,No,Jamaica
+2016-06-10 23:53:00,2016-06-11 00:01:00,Business,Durham,Cary,9.9,Meeting,8.0,2016,6,10,06-2016,Friday,Madrugada,109.0,No,Durham
+2016-06-11 17:08:00,2016-06-11 17:16:00,Business,Cary,Morrisville,3.7,Errand/Supplies,8.0,2016,6,11,06-2016,Saturday,Tarde,1027.0,No,Cary
+2016-06-11 17:34:00,2016-06-11 17:39:00,Business,Morrisville,Cary,4.6,Meal/Entertain,5.0,2016,6,11,06-2016,Saturday,Tarde,18.0,Sí,Morrisville
+2016-06-11 17:50:00,2016-06-11 17:56:00,Business,Westpark Place,Whitebridge,1.7,,6.0,2016,6,11,06-2016,Saturday,Tarde,11.0,No,Cary
+2016-06-11 21:45:00,2016-06-11 22:04:00,Business,Cary,Durham,10.4,Meeting,19.0,2016,6,11,06-2016,Saturday,Noche,229.0,No,Whitebridge
+2016-06-11 23:39:00,2016-06-12 00:05:00,Business,Durham,Cary,9.9,Meeting,26.0,2016,6,11,06-2016,Saturday,Madrugada,95.0,No,Durham
+2016-06-12 19:53:00,2016-06-12 19:56:00,Business,Cary,Morrisville,2.5,Meal/Entertain,3.0,2016,6,12,06-2016,Sunday,Noche,1188.0,No,Cary
+2016-06-12 20:05:00,2016-06-12 20:16:00,Business,Morrisville,Cary,4.3,Errand/Supplies,11.0,2016,6,12,06-2016,Sunday,Noche,9.0,Sí,Morrisville
+2016-06-12 21:58:00,2016-06-12 22:19:00,Business,Parkway,Whitebridge,2.8,Errand/Supplies,21.0,2016,6,12,06-2016,Sunday,Noche,102.0,No,Cary
+2016-06-13 05:23:00,2016-06-13 05:42:00,Business,Cary,Morrisville,8.4,Meal/Entertain,19.0,2016,6,13,06-2016,Monday,Mañana,424.0,No,Whitebridge
+2016-06-13 14:17:00,2016-06-13 14:46:00,Business,Oakland,Emeryville,13.2,Meeting,29.0,2016,6,13,06-2016,Monday,Tarde,515.0,No,Morrisville
+2016-06-13 18:08:00,2016-06-13 18:47:00,Business,Emeryville,Berkeley,3.9,Meal/Entertain,39.0,2016,6,13,06-2016,Monday,Noche,202.0,No,Emeryville
+2016-06-13 18:54:00,2016-06-13 19:23:00,Business,Berkeley,Oakland,5.1,Meal/Entertain,29.0,2016,6,13,06-2016,Monday,Noche,7.0,Sí,Berkeley
+2016-06-13 20:00:00,2016-06-13 20:05:00,Business,Oakland,Unknown Location,5.2,Customer Visit,5.0,2016,6,13,06-2016,Monday,Noche,37.0,No,Oakland
+2016-06-14 12:03:00,2016-06-14 12:21:00,Business,Emeryville,San Francisco,9.8,,18.0,2016,6,14,06-2016,Tuesday,Tarde,958.0,No,Unknown Location
+2016-06-14 16:09:00,2016-06-14 16:39:00,Business,San Francisco,Emeryville,11.6,Meeting,30.0,2016,6,14,06-2016,Tuesday,Tarde,228.0,No,San Francisco
+2016-06-14 17:15:00,2016-06-14 17:24:00,Business,Emeryville,Oakland,5.1,Meeting,9.0,2016,6,14,06-2016,Tuesday,Tarde,36.0,No,Emeryville
+2016-06-14 17:27:00,2016-06-14 17:57:00,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies,30.0,2016,6,14,06-2016,Tuesday,Tarde,3.0,No,Oakland
+2016-06-15 01:46:00,2016-06-15 02:06:00,Business,Kenner,New Orleans,12.4,Between Offices,20.0,2016,6,15,06-2016,Wednesday,Madrugada,469.0,No,Bay Farm Island
+2016-06-15 15:26:00,2016-06-15 15:34:00,Business,Cbd,Lower Garden District,1.9,Between Offices,8.0,2016,6,15,06-2016,Wednesday,Tarde,800.0,No,New Orleans
+2016-06-15 16:37:00,2016-06-15 17:02:00,Business,Lower Garden District,Lakeview,6.4,Customer Visit,25.0,2016,6,15,06-2016,Wednesday,Tarde,63.0,No,Lower Garden District
+2016-06-15 17:29:00,2016-06-15 17:49:00,Personal,Lakeview,Storyville,5.5,,20.0,2016,6,15,06-2016,Wednesday,Tarde,27.0,Sí,Lakeview
+2016-06-15 19:52:00,2016-06-15 19:58:00,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain,6.0,2016,6,15,06-2016,Wednesday,Noche,123.0,No,Storyville
+2016-06-16 13:36:00,2016-06-16 14:30:00,Business,New Orleans,Metairie,14.5,,54.0,2016,6,16,06-2016,Thursday,Tarde,1058.0,No,Faubourg Marigny
+2016-06-16 14:42:00,2016-06-16 14:46:00,Business,Metairie,Kenner,2.7,,4.0,2016,6,16,06-2016,Thursday,Tarde,12.0,Sí,Metairie
+2016-06-16 15:17:00,2016-06-16 15:41:00,Business,Kenner,New Orleans,15.0,,24.0,2016,6,16,06-2016,Thursday,Tarde,31.0,No,Kenner
+2016-06-16 19:39:00,2016-06-16 19:56:00,Business,New Orleans,Kenner,12.9,,17.0,2016,6,16,06-2016,Thursday,Noche,238.0,No,New Orleans
+2016-06-16 21:43:00,2016-06-16 21:56:00,Business,Kenner,New Orleans,13.6,,13.0,2016,6,16,06-2016,Thursday,Noche,107.0,No,Kenner
+2016-06-17 16:11:00,2016-06-17 16:44:00,Business,New Orleans,Kenner,12.2,,33.0,2016,6,17,06-2016,Friday,Tarde,1095.0,No,New Orleans
+2016-06-18 00:29:00,2016-06-18 00:51:00,Business,Morrisville,Cary,8.7,,22.0,2016,6,18,06-2016,Saturday,Madrugada,465.0,No,Kenner
+2016-06-19 02:39:00,2016-06-19 02:50:00,Business,Cary,Raleigh,6.0,,11.0,2016,6,19,06-2016,Sunday,Madrugada,1548.0,No,Cary
+2016-06-19 05:51:00,2016-06-19 06:00:00,Business,Raleigh,Cary,5.9,,9.0,2016,6,19,06-2016,Sunday,Mañana,181.0,No,Raleigh
+2016-06-21 15:39:00,2016-06-21 16:08:00,Business,Cary,Raleigh,19.3,,29.0,2016,6,21,06-2016,Tuesday,Tarde,3459.0,No,Cary
+2016-06-21 17:11:00,2016-06-21 18:02:00,Business,Raleigh,Cary,16.6,Meal/Entertain,51.0,2016,6,21,06-2016,Tuesday,Tarde,63.0,No,Raleigh
+2016-06-24 10:41:00,2016-06-24 10:57:00,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain,16.0,2016,6,24,06-2016,Friday,Mañana,3879.0,No,Cary
+2016-06-24 11:54:00,2016-06-24 12:01:00,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain,7.0,2016,6,24,06-2016,Friday,Mañana,57.0,No,Waverly Place
+2016-06-24 12:19:00,2016-06-24 12:37:00,Business,Cary,Raleigh,8.6,Errand/Supplies,18.0,2016,6,24,06-2016,Friday,Tarde,18.0,No,Macgregor Downs
+2016-06-24 12:50:00,2016-06-24 13:12:00,Business,Raleigh,Morrisville,9.0,Errand/Supplies,22.0,2016,6,24,06-2016,Friday,Tarde,13.0,Sí,Raleigh
+2016-06-24 13:18:00,2016-06-24 13:27:00,Business,Morrisville,Cary,3.1,Errand/Supplies,9.0,2016,6,24,06-2016,Friday,Tarde,6.0,Sí,Morrisville
+2016-06-24 14:01:00,2016-06-24 14:20:00,Business,Cary,Morrisville,8.4,Temporary Site,19.0,2016,6,24,06-2016,Friday,Tarde,34.0,No,Cary
+2016-06-24 20:44:00,2016-06-24 21:02:00,Business,Kenner,New Orleans,12.8,,18.0,2016,6,24,06-2016,Friday,Noche,384.0,No,Morrisville
+2016-06-25 09:03:00,2016-06-25 09:12:00,Business,Cbd,Bywater,4.5,,9.0,2016,6,25,06-2016,Saturday,Mañana,721.0,No,New Orleans
+2016-06-25 09:15:00,2016-06-25 10:08:00,Business,New Orleans,Chalmette,11.8,Between Offices,53.0,2016,6,25,06-2016,Saturday,Mañana,3.0,No,Bywater
+2016-06-25 10:18:00,2016-06-25 10:25:00,Business,Chalmette,Arabi,1.1,Errand/Supplies,7.0,2016,6,25,06-2016,Saturday,Mañana,10.0,Sí,Chalmette
+2016-06-25 10:50:00,2016-06-25 11:18:00,Business,Arabi,Metairie,17.0,Meal/Entertain,28.0,2016,6,25,06-2016,Saturday,Mañana,25.0,Sí,Arabi
+2016-06-25 11:25:00,2016-06-25 11:34:00,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting,9.0,2016,6,25,06-2016,Saturday,Mañana,7.0,No,Metairie
+2016-06-25 11:53:00,2016-06-25 13:21:00,Business,Metairie,New Orleans,15.5,Meeting,88.0,2016,6,25,06-2016,Saturday,Mañana,19.0,No,Pontchartrain Shores
+2016-06-25 19:47:00,2016-06-25 19:58:00,Business,Storyville,Marigny,1.6,,11.0,2016,6,25,06-2016,Saturday,Noche,386.0,No,New Orleans
+2016-06-25 23:19:00,2016-06-25 23:26:00,Business,Marigny,Storyville,1.5,,7.0,2016,6,25,06-2016,Saturday,Madrugada,201.0,No,Marigny
+2016-06-26 17:43:00,2016-06-26 18:18:00,Business,New Orleans,Kenner,12.6,Meeting,35.0,2016,6,26,06-2016,Sunday,Tarde,1097.0,No,Storyville
+2016-06-26 18:45:00,2016-06-26 19:12:00,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,,27.0,2016,6,26,06-2016,Sunday,Noche,27.0,No,Kenner
+2016-06-26 19:41:00,2016-06-26 19:50:00,Business,Kenner,Kenner,2.2,,9.0,2016,6,26,06-2016,Sunday,Noche,29.0,No,Pontchartrain Shores
+2016-06-26 21:14:00,2016-06-26 21:42:00,Business,Kenner,New Orleans,13.0,,28.0,2016,6,26,06-2016,Sunday,Noche,84.0,No,Kenner
+2016-06-27 07:37:00,2016-06-27 08:48:00,Business,New Orleans,Covington,46.9,,71.0,2016,6,27,06-2016,Monday,Mañana,595.0,No,New Orleans
+2016-06-27 08:51:00,2016-06-27 09:00:00,Business,Covington,Covington,2.5,,9.0,2016,6,27,06-2016,Monday,Mañana,3.0,Sí,Covington
+2016-06-27 09:05:00,2016-06-27 09:33:00,Business,Covington,Covington,8.6,,28.0,2016,6,27,06-2016,Monday,Mañana,5.0,Sí,Covington
+2016-06-27 09:43:00,2016-06-27 10:08:00,Business,Covington,Covington,5.2,,25.0,2016,6,27,06-2016,Monday,Mañana,10.0,Sí,Covington
+2016-06-27 10:22:00,2016-06-27 10:39:00,Business,Covington,Covington,7.6,,17.0,2016,6,27,06-2016,Monday,Mañana,14.0,Sí,Covington
+2016-06-27 10:51:00,2016-06-27 10:58:00,Business,Covington,Covington,1.8,,7.0,2016,6,27,06-2016,Monday,Mañana,12.0,Sí,Covington
+2016-06-27 11:06:00,2016-06-27 11:24:00,Business,Covington,Mandeville,4.7,,18.0,2016,6,27,06-2016,Monday,Mañana,8.0,Sí,Covington
+2016-06-27 11:30:00,2016-06-27 11:42:00,Business,Mandeville,Mandeville,2.8,,12.0,2016,6,27,06-2016,Monday,Mañana,6.0,Sí,Mandeville
+2016-06-27 12:22:00,2016-06-27 13:02:00,Business,Mandeville,Metairie,30.0,,40.0,2016,6,27,06-2016,Monday,Tarde,40.0,No,Mandeville
+2016-06-27 13:56:00,2016-06-27 14:05:00,Business,Metairie,Kenner,4.4,,9.0,2016,6,27,06-2016,Monday,Tarde,54.0,No,Metairie
+2016-06-27 21:09:00,2016-06-27 21:19:00,Business,Jamestown Court,Jamestown Court,1.0,,10.0,2016,6,27,06-2016,Monday,Noche,424.0,No,Kenner
+2016-06-28 00:48:00,2016-06-28 01:05:00,Business,Morrisville,Cary,8.2,Customer Visit,17.0,2016,6,28,06-2016,Tuesday,Madrugada,209.0,No,Jamestown Court
+2016-06-28 20:13:00,2016-06-28 20:33:00,Business,Cary,Durham,10.4,Meeting,20.0,2016,6,28,06-2016,Tuesday,Noche,1148.0,No,Cary
+2016-06-28 23:34:00,2016-06-28 23:59:00,Business,Durham,Cary,9.9,Meeting,25.0,2016,6,28,06-2016,Tuesday,Madrugada,181.0,No,Durham
+2016-06-29 08:56:00,2016-06-29 09:24:00,Business,Cary,Morrisville,7.3,,28.0,2016,6,29,06-2016,Wednesday,Mañana,537.0,No,Cary
+2016-06-29 10:22:00,2016-06-29 10:38:00,Business,Morrisville,Cary,7.4,,16.0,2016,6,29,06-2016,Wednesday,Mañana,58.0,No,Morrisville
+2016-06-29 11:49:00,2016-06-29 11:51:00,Business,Whitebridge,Westpark Place,1.6,,2.0,2016,6,29,06-2016,Wednesday,Mañana,71.0,No,Cary
+2016-06-29 12:11:00,2016-06-29 12:16:00,Business,Westpark Place,Whitebridge,1.8,,5.0,2016,6,29,06-2016,Wednesday,Tarde,20.0,Sí,Westpark Place
+2016-06-29 20:11:00,2016-06-29 20:29:00,Business,Cary,Durham,10.4,Meeting,18.0,2016,6,29,06-2016,Wednesday,Noche,475.0,No,Whitebridge
+2016-06-29 23:38:00,2016-06-30 00:00:00,Business,Durham,Cary,9.9,Meeting,22.0,2016,6,29,06-2016,Wednesday,Madrugada,189.0,No,Durham
+2016-06-30 20:09:00,2016-06-30 20:26:00,Business,Cary,Durham,9.9,Meeting,17.0,2016,6,30,06-2016,Thursday,Noche,1209.0,No,Cary
+2016-07-01 00:00:00,2016-07-01 00:25:00,Business,Durham,Cary,9.9,Meeting,25.0,2016,7,1,07-2016,Friday,Madrugada,214.0,No,Durham
+2016-07-01 09:34:00,2016-07-01 09:57:00,Business,Cary,Raleigh,13.3,Meeting,23.0,2016,7,1,07-2016,Friday,Mañana,549.0,No,Cary
+2016-07-01 12:36:00,2016-07-01 13:00:00,Business,Raleigh,Cary,11.3,Meeting,24.0,2016,7,1,07-2016,Friday,Tarde,159.0,No,Raleigh
+2016-07-01 20:06:00,2016-07-01 20:24:00,Business,Cary,Durham,10.5,Meeting,18.0,2016,7,1,07-2016,Friday,Noche,426.0,No,Cary
+2016-07-01 23:48:00,2016-07-02 00:09:00,Business,Durham,Cary,9.9,Meeting,21.0,2016,7,1,07-2016,Friday,Madrugada,204.0,No,Durham
+2016-07-02 20:18:00,2016-07-02 20:36:00,Business,Cary,Durham,10.1,Meeting,18.0,2016,7,2,07-2016,Saturday,Noche,1209.0,No,Cary
+2016-07-02 23:48:00,2016-07-03 00:12:00,Business,Durham,Cary,9.9,Meeting,24.0,2016,7,2,07-2016,Saturday,Madrugada,192.0,No,Durham
+2016-07-03 00:28:00,2016-07-03 00:38:00,Business,Cary,Morrisville,3.1,Errand/Supplies,10.0,2016,7,3,07-2016,Sunday,Madrugada,16.0,Sí,Cary
+2016-07-03 03:02:00,2016-07-03 03:08:00,Business,Morrisville,Cary,3.1,Errand/Supplies,6.0,2016,7,3,07-2016,Sunday,Madrugada,144.0,No,Morrisville
+2016-07-03 20:00:00,2016-07-03 20:18:00,Business,Cary,Durham,9.9,Meeting,18.0,2016,7,3,07-2016,Sunday,Noche,1012.0,No,Cary
+2016-07-04 00:32:00,2016-07-04 00:47:00,Business,Durham,Cary,9.9,Meeting,15.0,2016,7,4,07-2016,Monday,Madrugada,254.0,No,Durham
+2016-07-04 17:31:00,2016-07-04 17:49:00,Business,Whitebridge,Summerwinds,8.8,Meeting,18.0,2016,7,4,07-2016,Monday,Tarde,1004.0,No,Cary
+2016-07-04 18:23:00,2016-07-04 18:49:00,Business,Summerwinds,Whitebridge,8.7,Temporary Site,26.0,2016,7,4,07-2016,Monday,Noche,34.0,No,Summerwinds
+2016-07-04 20:00:00,2016-07-04 20:17:00,Business,Cary,Durham,11.8,Meeting,17.0,2016,7,4,07-2016,Monday,Noche,71.0,No,Whitebridge
+2016-07-05 00:00:00,2016-07-05 00:05:00,Business,Parkwood,Parkwood,1.2,Errand/Supplies,5.0,2016,7,5,07-2016,Tuesday,Madrugada,223.0,No,Durham
+2016-07-05 00:08:00,2016-07-05 00:28:00,Business,Durham,Cary,9.9,Meeting,20.0,2016,7,5,07-2016,Tuesday,Madrugada,3.0,No,Parkwood
+2016-07-05 16:48:00,2016-07-05 16:52:00,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies,4.0,2016,7,5,07-2016,Tuesday,Tarde,980.0,No,Cary
+2016-07-05 20:06:00,2016-07-05 20:26:00,Business,Cary,Durham,9.9,,20.0,2016,7,5,07-2016,Tuesday,Noche,194.0,No,Whitebridge
+2016-07-05 22:41:00,2016-07-05 23:02:00,Business,Durham,Morrisville,8.6,,21.0,2016,7,5,07-2016,Tuesday,Noche,135.0,No,Durham
+2016-07-06 00:33:00,2016-07-06 00:53:00,Business,Morrisville,Cary,6.3,Meal/Entertain,20.0,2016,7,6,07-2016,Wednesday,Madrugada,91.0,No,Morrisville
+2016-07-06 09:06:00,2016-07-06 09:25:00,Business,Cary,Durham,9.9,Meeting,19.0,2016,7,6,07-2016,Wednesday,Mañana,493.0,No,Cary
+2016-07-06 12:48:00,2016-07-06 13:08:00,Business,Durham,Cary,9.9,,20.0,2016,7,6,07-2016,Wednesday,Tarde,203.0,No,Durham
+2016-07-06 20:04:00,2016-07-06 20:14:00,Business,Cary,Morrisville,3.3,Meal/Entertain,10.0,2016,7,6,07-2016,Wednesday,Noche,416.0,No,Cary
+2016-07-06 23:46:00,2016-07-06 23:59:00,Business,Morrisville,Cary,3.1,Customer Visit,13.0,2016,7,6,07-2016,Wednesday,Madrugada,212.0,No,Morrisville
+2016-07-07 08:22:00,2016-07-07 08:50:00,Business,Cary,Morrisville,7.9,Temporary Site,28.0,2016,7,7,07-2016,Thursday,Mañana,503.0,No,Cary
+2016-07-07 10:27:00,2016-07-07 10:33:00,Business,Morrisville,Cary,8.9,,6.0,2016,7,7,07-2016,Thursday,Mañana,97.0,No,Morrisville
+2016-07-07 12:59:00,2016-07-07 13:35:00,Business,Kenner,New Orleans,12.8,,36.0,2016,7,7,07-2016,Thursday,Tarde,146.0,No,Cary
+2016-07-08 09:50:00,2016-07-08 10:13:00,Business,Cbd,Pontchartrain Beach,7.7,,23.0,2016,7,8,07-2016,Friday,Mañana,1215.0,No,New Orleans
+2016-07-08 10:51:00,2016-07-08 11:12:00,Business,Pontchartrain Beach,Cbd,7.0,,21.0,2016,7,8,07-2016,Friday,Mañana,38.0,No,Pontchartrain Beach
+2016-07-08 13:48:00,2016-07-08 14:11:00,Business,New Orleans,Metairie,12.5,,23.0,2016,7,8,07-2016,Friday,Tarde,156.0,No,Cbd
+2016-07-08 17:11:00,2016-07-08 17:30:00,Business,Kenner,New Orleans,13.2,,19.0,2016,7,8,07-2016,Friday,Tarde,180.0,No,Metairie
+2016-07-09 09:03:00,2016-07-09 09:46:00,Business,New Orleans,Kenner,13.0,,43.0,2016,7,9,07-2016,Saturday,Mañana,933.0,No,New Orleans
+2016-07-09 09:52:00,2016-07-09 10:06:00,Business,Kenner,Metairie,4.9,,14.0,2016,7,9,07-2016,Saturday,Mañana,6.0,Sí,Kenner
+2016-07-09 10:15:00,2016-07-09 10:33:00,Business,Metairie,New Orleans,8.5,,18.0,2016,7,9,07-2016,Saturday,Mañana,9.0,Sí,Metairie
+2016-07-10 14:10:00,2016-07-10 14:17:00,Business,Cbd,St Thomas,1.3,,7.0,2016,7,10,07-2016,Sunday,Tarde,1657.0,No,New Orleans
+2016-07-10 16:04:00,2016-07-10 16:15:00,Business,St Thomas,Cbd,1.8,,11.0,2016,7,10,07-2016,Sunday,Tarde,107.0,No,St Thomas
+2016-07-10 18:05:00,2016-07-10 18:21:00,Business,New Orleans,Kenner,13.6,,16.0,2016,7,10,07-2016,Sunday,Noche,110.0,No,Cbd
+2016-07-10 19:51:00,2016-07-10 20:08:00,Business,Kenner,New Orleans,13.4,,17.0,2016,7,10,07-2016,Sunday,Noche,90.0,No,Kenner
+2016-07-12 16:10:00,2016-07-12 16:45:00,Business,New Orleans,Kenner,12.3,,35.0,2016,7,12,07-2016,Tuesday,Tarde,2642.0,No,New Orleans
+2016-07-12 19:21:00,2016-07-12 19:26:00,Personal,Kenner,Kenner,1.4,,5.0,2016,7,12,07-2016,Tuesday,Noche,156.0,No,Kenner
+2016-07-12 23:47:00,2016-07-13 00:11:00,Personal,Morrisville,Cary,8.7,,24.0,2016,7,12,07-2016,Tuesday,Madrugada,261.0,No,Kenner
+2016-07-13 12:39:00,2016-07-13 13:20:00,Personal,Cary,Morrisville,23.5,,41.0,2016,7,13,07-2016,Wednesday,Tarde,748.0,No,Cary
+2016-07-13 13:25:00,2016-07-13 13:39:00,Personal,Morrisville,Morrisville,2.2,,14.0,2016,7,13,07-2016,Wednesday,Tarde,5.0,Sí,Morrisville
+2016-07-13 13:42:00,2016-07-13 13:54:00,Personal,Morrisville,Cary,4.4,,12.0,2016,7,13,07-2016,Wednesday,Tarde,3.0,Sí,Morrisville
+2016-07-14 15:51:00,2016-07-14 15:59:00,Personal,Cary,Morrisville,3.3,,8.0,2016,7,14,07-2016,Thursday,Tarde,1557.0,No,Cary
+2016-07-14 16:03:00,2016-07-14 16:34:00,Business,Morrisville,Morrisville,11.8,Errand/Supplies,31.0,2016,7,14,07-2016,Thursday,Tarde,4.0,Sí,Morrisville
+2016-07-14 16:39:00,2016-07-14 20:05:00,Business,Morrisville,Banner Elk,195.3,,206.0,2016,7,14,07-2016,Thursday,Tarde,5.0,Sí,Morrisville
+2016-07-15 11:32:00,2016-07-15 11:53:00,Personal,Banner Elk,Banner Elk,8.3,,21.0,2016,7,15,07-2016,Friday,Mañana,927.0,No,Banner Elk
+2016-07-15 12:09:00,2016-07-15 12:19:00,Personal,Banner Elk,Banner Elk,3.2,,10.0,2016,7,15,07-2016,Friday,Tarde,16.0,Sí,Banner Elk
+2016-07-15 12:35:00,2016-07-15 13:15:00,Personal,Banner Elk,Elk Park,22.4,,40.0,2016,7,15,07-2016,Friday,Tarde,16.0,Sí,Banner Elk
+2016-07-15 15:03:00,2016-07-15 15:33:00,Personal,Elk Park,Banner Elk,12.2,,30.0,2016,7,15,07-2016,Friday,Tarde,108.0,No,Elk Park
+2016-07-15 15:40:00,2016-07-15 15:52:00,Personal,Banner Elk,Banner Elk,4.5,,12.0,2016,7,15,07-2016,Friday,Tarde,7.0,Sí,Banner Elk
+2016-07-16 13:14:00,2016-07-16 14:10:00,Personal,Banner Elk,Newland,28.1,,56.0,2016,7,16,07-2016,Saturday,Tarde,1282.0,No,Banner Elk
+2016-07-16 14:14:00,2016-07-16 14:30:00,Personal,Newland,Newland,3.8,,16.0,2016,7,16,07-2016,Saturday,Tarde,4.0,Sí,Newland
+2016-07-16 15:29:00,2016-07-16 16:57:00,Personal,Newland,Boone,41.9,,88.0,2016,7,16,07-2016,Saturday,Tarde,59.0,No,Newland
+2016-07-16 19:42:00,2016-07-16 20:35:00,Personal,Boone,Banner Elk,23.8,,53.0,2016,7,16,07-2016,Saturday,Noche,165.0,No,Boone
+2016-07-16 21:45:00,2016-07-16 22:18:00,Personal,Banner Elk,Banner Elk,13.0,,33.0,2016,7,16,07-2016,Saturday,Noche,70.0,No,Banner Elk
+2016-07-16 22:50:00,2016-07-16 23:03:00,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies,13.0,2016,7,16,07-2016,Saturday,Noche,32.0,No,Banner Elk
+2016-07-17 11:23:00,2016-07-17 11:50:00,Personal,Banner Elk,Boone,15.1,Charity ($),27.0,2016,7,17,07-2016,Sunday,Mañana,740.0,No,Banner Elk
+2016-07-17 12:20:00,2016-07-17 15:25:00,Personal,Boone,Cary,180.2,Commute,185.0,2016,7,17,07-2016,Sunday,Tarde,30.0,Sí,Boone
+2016-07-18 10:37:00,2016-07-18 10:49:00,Personal,Cary,Morrisville,4.1,Moving,12.0,2016,7,18,07-2016,Monday,Mañana,1152.0,No,Cary
+2016-07-18 10:54:00,2016-07-18 11:15:00,Personal,Morrisville,Cary,6.1,Moving,21.0,2016,7,18,07-2016,Monday,Mañana,5.0,Sí,Morrisville
+2016-07-18 11:25:00,2016-07-18 11:36:00,Personal,Northwoods,Preston,3.3,Moving,11.0,2016,7,18,07-2016,Monday,Mañana,10.0,No,Cary
+2016-07-18 11:40:00,2016-07-18 11:56:00,Personal,Preston,Whitebridge,4.7,Moving,16.0,2016,7,18,07-2016,Monday,Mañana,4.0,Sí,Preston
+2016-07-18 17:12:00,2016-07-18 17:33:00,Business,Cary,Apex,7.2,Meeting,21.0,2016,7,18,07-2016,Monday,Tarde,316.0,No,Whitebridge
+2016-07-18 18:32:00,2016-07-18 18:47:00,Business,Apex,Cary,5.5,Meal/Entertain,15.0,2016,7,18,07-2016,Monday,Noche,59.0,No,Apex
+2016-07-18 19:07:00,2016-07-18 19:14:00,Business,Cary,Morrisville,3.3,Meal/Entertain,7.0,2016,7,18,07-2016,Monday,Noche,20.0,Sí,Cary
+2016-07-18 20:28:00,2016-07-18 20:32:00,Business,Hazelwood,Weston,0.9,Errand/Supplies,4.0,2016,7,18,07-2016,Monday,Noche,74.0,No,Morrisville
+2016-07-18 21:11:00,2016-07-18 21:19:00,Business,Morrisville,Cary,3.8,Meal/Entertain,8.0,2016,7,18,07-2016,Monday,Noche,39.0,No,Weston
+2016-07-19 10:35:00,2016-07-19 10:51:00,Business,Whitebridge,Stonewater,6.4,Customer Visit,16.0,2016,7,19,07-2016,Tuesday,Mañana,796.0,No,Cary
+2016-07-19 10:56:00,2016-07-19 11:11:00,Business,Stonewater,Lexington Park At Amberly,3.0,Meeting,15.0,2016,7,19,07-2016,Tuesday,Mañana,5.0,Sí,Stonewater
+2016-07-19 11:30:00,2016-07-19 12:00:00,Business,Lexington Park At Amberly,Whitebridge,8.7,Meal/Entertain,30.0,2016,7,19,07-2016,Tuesday,Mañana,19.0,Sí,Lexington Park At Amberly
+2016-07-19 17:14:00,2016-07-19 17:24:00,Business,Whitebridge,Chessington,3.9,Errand/Supplies,10.0,2016,7,19,07-2016,Tuesday,Tarde,314.0,No,Whitebridge
+2016-07-19 17:50:00,2016-07-19 18:08:00,Personal,Chessington,Whitebridge,4.8,,18.0,2016,7,19,07-2016,Tuesday,Tarde,26.0,Sí,Chessington
+2016-07-20 17:12:00,2016-07-20 17:24:00,Personal,Whitebridge,Edgehill Farms,2.8,,12.0,2016,7,20,07-2016,Wednesday,Tarde,1384.0,No,Whitebridge
+2016-07-20 17:50:00,2016-07-20 17:57:00,Personal,Edgehill Farms,Preston,1.4,,7.0,2016,7,20,07-2016,Wednesday,Tarde,26.0,Sí,Edgehill Farms
+2016-07-20 18:16:00,2016-07-20 18:20:00,Personal,Preston,Whitebridge,1.4,,4.0,2016,7,20,07-2016,Wednesday,Noche,19.0,Sí,Preston
+2016-07-21 17:17:00,2016-07-21 17:23:00,Business,Whitebridge,Edgehill Farms,2.7,,6.0,2016,7,21,07-2016,Thursday,Tarde,1377.0,No,Whitebridge
+2016-07-21 17:42:00,2016-07-21 17:51:00,Business,Edgehill Farms,Burtrose,2.3,,9.0,2016,7,21,07-2016,Thursday,Tarde,19.0,Sí,Edgehill Farms
+2016-07-21 18:27:00,2016-07-21 18:42:00,Business,Cary,Morrisville,3.7,,15.0,2016,7,21,07-2016,Thursday,Noche,36.0,No,Burtrose
+2016-07-21 19:30:00,2016-07-21 19:39:00,Business,Morrisville,Cary,2.9,,9.0,2016,7,21,07-2016,Thursday,Noche,48.0,No,Morrisville
+2016-07-22 10:42:00,2016-07-22 10:53:00,Business,Cary,Morrisville,3.8,,11.0,2016,7,22,07-2016,Friday,Mañana,903.0,No,Cary
+2016-07-22 11:11:00,2016-07-22 11:25:00,Business,Morrisville,Cary,5.1,,14.0,2016,7,22,07-2016,Friday,Mañana,18.0,Sí,Morrisville
+2016-07-22 11:37:00,2016-07-22 12:00:00,Business,Hazelwood,Lexington Park At Amberly,9.1,,23.0,2016,7,22,07-2016,Friday,Mañana,12.0,No,Cary
+2016-07-22 12:14:00,2016-07-22 12:31:00,Business,Cary,Durham,8.0,,17.0,2016,7,22,07-2016,Friday,Tarde,14.0,No,Lexington Park At Amberly
+2016-07-22 13:21:00,2016-07-22 13:42:00,Business,Durham,Cary,9.9,Meeting,21.0,2016,7,22,07-2016,Friday,Tarde,50.0,No,Durham
+2016-07-22 14:27:00,2016-07-22 14:43:00,Business,Cary,Morrisville,6.1,Meal/Entertain,16.0,2016,7,22,07-2016,Friday,Tarde,45.0,No,Cary
+2016-07-22 15:49:00,2016-07-22 16:22:00,Business,Morrisville,Cary,12.2,,33.0,2016,7,22,07-2016,Friday,Tarde,66.0,No,Morrisville
+2016-07-22 18:33:00,2016-07-22 18:51:00,Business,Wayne Ridge,Whitebridge,8.0,,18.0,2016,7,22,07-2016,Friday,Noche,131.0,No,Cary
+2016-07-23 14:27:00,2016-07-23 14:44:00,Business,Cary,Morrisville,4.0,,17.0,2016,7,23,07-2016,Saturday,Tarde,1176.0,No,Whitebridge
+2016-07-23 14:48:00,2016-07-23 15:12:00,Business,Morrisville,Cary,9.5,,24.0,2016,7,23,07-2016,Saturday,Tarde,4.0,Sí,Morrisville
+2016-07-23 15:15:00,2016-07-23 15:27:00,Business,Cary,Morrisville,3.0,,12.0,2016,7,23,07-2016,Saturday,Tarde,3.0,Sí,Cary
+2016-07-23 15:50:00,2016-07-23 16:10:00,Business,Morrisville,Cary,6.3,,20.0,2016,7,23,07-2016,Saturday,Tarde,23.0,Sí,Morrisville
+2016-07-23 20:17:00,2016-07-23 20:33:00,Business,Cary,Durham,10.4,Meeting,16.0,2016,7,23,07-2016,Saturday,Noche,247.0,No,Cary
+2016-07-23 23:18:00,2016-07-23 23:43:00,Business,Durham,Cary,9.9,Meeting,25.0,2016,7,23,07-2016,Saturday,Madrugada,165.0,No,Durham
+2016-07-25 10:35:00,2016-07-25 10:41:00,Business,Whitebridge,Parkway,1.5,,6.0,2016,7,25,07-2016,Monday,Mañana,2092.0,No,Cary
+2016-07-25 10:47:00,2016-07-25 10:58:00,Business,Cary,Morrisville,4.9,,11.0,2016,7,25,07-2016,Monday,Mañana,6.0,No,Parkway
+2016-07-25 11:04:00,2016-07-25 11:33:00,Business,Morrisville,Cary,7.9,,29.0,2016,7,25,07-2016,Monday,Mañana,6.0,Sí,Morrisville
+2016-07-25 11:37:00,2016-07-25 11:44:00,Business,Parkway,Whitebridge,1.7,,7.0,2016,7,25,07-2016,Monday,Mañana,4.0,No,Cary
+2016-07-26 15:43:00,2016-07-26 15:49:00,Business,Whitebridge,Westpark Place,2.2,,6.0,2016,7,26,07-2016,Tuesday,Tarde,1679.0,No,Whitebridge
+2016-07-26 17:14:00,2016-07-26 17:24:00,Business,Westpark Place,Whitebridge,2.1,,10.0,2016,7,26,07-2016,Tuesday,Tarde,85.0,No,Westpark Place
+2016-07-26 20:52:00,2016-07-26 21:00:00,Business,Cary,Morrisville,2.5,Meal/Entertain,8.0,2016,7,26,07-2016,Tuesday,Noche,208.0,No,Whitebridge
+2016-07-26 22:31:00,2016-07-26 22:39:00,Business,Morrisville,Cary,2.5,Meal/Entertain,8.0,2016,7,26,07-2016,Tuesday,Noche,91.0,No,Morrisville
+2016-07-27 19:08:00,2016-07-27 19:20:00,Business,Cary,Morrisville,2.8,,12.0,2016,7,27,07-2016,Wednesday,Noche,1229.0,No,Cary
+2016-07-27 21:34:00,2016-07-27 21:57:00,Business,Morrisville,Raleigh,14.7,,23.0,2016,7,27,07-2016,Wednesday,Noche,134.0,No,Morrisville
+2016-07-27 22:00:00,2016-07-27 22:26:00,Business,Raleigh,Morrisville,14.6,,26.0,2016,7,27,07-2016,Wednesday,Noche,3.0,Sí,Raleigh
+2016-07-28 00:04:00,2016-07-28 00:09:00,Business,Morrisville,Cary,2.3,,5.0,2016,7,28,07-2016,Thursday,Madrugada,98.0,No,Morrisville
+2016-07-29 15:45:00,2016-07-29 15:47:00,Business,Whitebridge,Westpark Place,2.2,,2.0,2016,7,29,07-2016,Friday,Tarde,2376.0,No,Cary
+2016-07-29 17:27:00,2016-07-29 17:45:00,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain,18.0,2016,7,29,07-2016,Friday,Tarde,100.0,No,Westpark Place
+2016-07-30 17:02:00,2016-07-30 17:27:00,Business,Cary,Durham,14.0,,25.0,2016,7,30,07-2016,Saturday,Tarde,1397.0,No,Whitebridge
+2016-07-30 21:16:00,2016-07-30 21:41:00,Business,Durham,Cary,13.3,,25.0,2016,7,30,07-2016,Saturday,Noche,229.0,No,Durham
+2016-07-31 17:30:00,2016-07-31 17:37:00,Business,Westpark Place,Whitebridge,1.8,,7.0,2016,7,31,07-2016,Sunday,Tarde,1189.0,No,Cary
+2016-08-01 12:47:00,2016-08-01 13:04:00,Business,Whitebridge,Arlington Park At Amberly,6.2,,17.0,2016,8,1,08-2016,Monday,Tarde,1150.0,No,Whitebridge
+2016-08-01 13:08:00,2016-08-01 13:19:00,Business,Arlington Park At Amberly,Lexington Park At Amberly,1.3,,11.0,2016,8,1,08-2016,Monday,Tarde,4.0,Sí,Arlington Park At Amberly
+2016-08-01 13:28:00,2016-08-01 13:46:00,Business,Lexington Park At Amberly,Westpark Place,1.9,,18.0,2016,8,1,08-2016,Monday,Tarde,9.0,Sí,Lexington Park At Amberly
+2016-08-01 13:52:00,2016-08-01 14:14:00,Business,Cary,Apex,6.9,,22.0,2016,8,1,08-2016,Monday,Tarde,6.0,No,Westpark Place
+2016-08-01 15:40:00,2016-08-01 15:47:00,Business,Apex,Cary,4.6,,7.0,2016,8,1,08-2016,Monday,Tarde,86.0,No,Apex
+2016-08-01 16:18:00,2016-08-01 16:25:00,Business,Whitebridge,Edgehill Farms,2.8,,7.0,2016,8,1,08-2016,Monday,Tarde,31.0,No,Cary
+2016-08-01 16:29:00,2016-08-01 16:59:00,Business,Cary,Morrisville,9.1,,30.0,2016,8,1,08-2016,Monday,Tarde,4.0,No,Edgehill Farms
+2016-08-01 17:23:00,2016-08-01 17:55:00,Business,Morrisville,Cary,8.1,,32.0,2016,8,1,08-2016,Monday,Tarde,24.0,Sí,Morrisville
+2016-08-02 08:11:00,2016-08-02 08:32:00,Business,Cary,Morrisville,8.4,Meeting,21.0,2016,8,2,08-2016,Tuesday,Mañana,856.0,No,Cary
+2016-08-02 11:51:00,2016-08-02 12:15:00,Business,Arlington,Washington,4.9,,24.0,2016,8,2,08-2016,Tuesday,Mañana,199.0,No,Morrisville
+2016-08-02 19:15:00,2016-08-02 19:23:00,Business,Kalorama Triangle,K Street,1.0,,8.0,2016,8,2,08-2016,Tuesday,Noche,420.0,No,Washington
+2016-08-02 21:23:00,2016-08-02 21:29:00,Business,K Street,Kalorama Triangle,1.0,,6.0,2016,8,2,08-2016,Tuesday,Noche,120.0,No,K Street
+2016-08-03 12:46:00,2016-08-03 13:00:00,Business,West End,Northwest Rectangle,2.0,,14.0,2016,8,3,08-2016,Wednesday,Tarde,917.0,No,Kalorama Triangle
+2016-08-03 14:59:00,2016-08-03 15:03:00,Business,K Street,Kalorama Triangle,1.1,,4.0,2016,8,3,08-2016,Wednesday,Tarde,119.0,No,Northwest Rectangle
+2016-08-03 16:00:00,2016-08-03 16:04:00,Business,Kalorama Triangle,Downtown,1.5,,4.0,2016,8,3,08-2016,Wednesday,Tarde,57.0,No,Kalorama Triangle
+2016-08-05 17:23:00,2016-08-05 17:30:00,Business,Connecticut Avenue,Kalorama Triangle,1.3,,7.0,2016,8,5,08-2016,Friday,Tarde,2959.0,No,Downtown
+2016-08-05 18:17:00,2016-08-05 18:21:00,Business,Kalorama Triangle,Columbia Heights,1.8,,4.0,2016,8,5,08-2016,Friday,Noche,47.0,No,Kalorama Triangle
+2016-08-05 19:17:00,2016-08-05 19:27:00,Business,Columbia Heights,Kalorama Triangle,1.5,,10.0,2016,8,5,08-2016,Friday,Noche,56.0,No,Columbia Heights
+2016-08-06 06:40:00,2016-08-06 06:58:00,Business,Washington,Arlington,6.6,,18.0,2016,8,6,08-2016,Saturday,Mañana,673.0,No,Kalorama Triangle
+2016-08-06 09:31:00,2016-08-06 09:53:00,Business,Morrisville,Cary,8.0,,22.0,2016,8,6,08-2016,Saturday,Mañana,153.0,No,Arlington
+2016-08-07 17:14:00,2016-08-07 17:23:00,Business,Whitebridge,Edgehill Farms,2.7,,9.0,2016,8,7,08-2016,Sunday,Tarde,1881.0,No,Cary
+2016-08-07 17:28:00,2016-08-07 17:43:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,15.0,2016,8,7,08-2016,Sunday,Tarde,5.0,Sí,Edgehill Farms
+2016-08-07 18:17:00,2016-08-07 18:23:00,Business,Cary,Morrisville,2.5,,6.0,2016,8,7,08-2016,Sunday,Noche,34.0,No,Whitebridge
+2016-08-07 20:15:00,2016-08-07 20:23:00,Business,Morrisville,Cary,2.5,Meal/Entertain,8.0,2016,8,7,08-2016,Sunday,Noche,112.0,No,Morrisville
+2016-08-08 16:17:00,2016-08-08 16:31:00,Business,Whitebridge,Farmington Woods,5.2,,14.0,2016,8,8,08-2016,Monday,Tarde,1194.0,No,Cary
+2016-08-08 16:37:00,2016-08-08 16:50:00,Business,Farmington Woods,Edgehill Farms,4.0,,13.0,2016,8,8,08-2016,Monday,Tarde,6.0,Sí,Farmington Woods
+2016-08-08 17:02:00,2016-08-08 17:13:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,11.0,2016,8,8,08-2016,Monday,Tarde,12.0,Sí,Edgehill Farms
+2016-08-08 21:50:00,2016-08-08 22:15:00,Business,Cary,Morrisville,4.8,,25.0,2016,8,8,08-2016,Monday,Noche,277.0,No,Whitebridge
+2016-08-08 23:28:00,2016-08-08 23:37:00,Business,Morrisville,Cary,3.2,Customer Visit,9.0,2016,8,8,08-2016,Monday,Madrugada,73.0,No,Morrisville
+2016-08-09 14:20:00,2016-08-09 14:38:00,Business,Whitebridge,Waverly Place,6.9,,18.0,2016,8,9,08-2016,Tuesday,Tarde,883.0,No,Cary
+2016-08-09 15:15:00,2016-08-09 15:36:00,Business,Cary,Raleigh,14.9,,21.0,2016,8,9,08-2016,Tuesday,Tarde,37.0,No,Waverly Place
+2016-08-09 16:04:00,2016-08-09 16:37:00,Business,Raleigh,Cary,17.4,,33.0,2016,8,9,08-2016,Tuesday,Tarde,28.0,Sí,Raleigh
+2016-08-10 16:56:00,2016-08-10 17:24:00,Business,Cary,Durham,12.9,,28.0,2016,8,10,08-2016,Wednesday,Tarde,1459.0,No,Cary
+2016-08-10 17:53:00,2016-08-10 18:28:00,Business,Durham,Apex,15.3,,35.0,2016,8,10,08-2016,Wednesday,Tarde,29.0,Sí,Durham
+2016-08-10 18:49:00,2016-08-10 18:50:00,Business,Apex,Apex,1.0,,1.0,2016,8,10,08-2016,Wednesday,Noche,21.0,Sí,Apex
+2016-08-10 19:47:00,2016-08-10 20:02:00,Business,Apex,Cary,6.0,,15.0,2016,8,10,08-2016,Wednesday,Noche,57.0,No,Apex
+2016-08-11 12:53:00,2016-08-11 13:00:00,Business,Whitebridge,Heritage Pines,2.2,,7.0,2016,8,11,08-2016,Thursday,Tarde,1011.0,No,Cary
+2016-08-11 13:14:00,2016-08-11 13:28:00,Business,Heritage Pines,Edgehill Farms,4.4,,14.0,2016,8,11,08-2016,Thursday,Tarde,14.0,Sí,Heritage Pines
+2016-08-11 13:32:00,2016-08-11 13:42:00,Business,Edgehill Farms,Whitebridge,2.8,,10.0,2016,8,11,08-2016,Thursday,Tarde,4.0,Sí,Edgehill Farms
+2016-08-11 18:37:00,2016-08-11 19:29:00,Business,Cary,Wake Forest,31.7,,52.0,2016,8,11,08-2016,Thursday,Noche,295.0,No,Whitebridge
+2016-08-11 20:59:00,2016-08-11 21:44:00,Business,Wake Forest,Cary,31.9,,45.0,2016,8,11,08-2016,Thursday,Noche,90.0,No,Wake Forest
+2016-08-12 18:49:00,2016-08-12 18:52:00,Business,Whitebridge,Westpark Place,1.9,,3.0,2016,8,12,08-2016,Friday,Noche,1265.0,No,Cary
+2016-08-12 18:56:00,2016-08-12 19:05:00,Business,Westpark Place,Whitebridge,1.8,,9.0,2016,8,12,08-2016,Friday,Noche,4.0,Sí,Westpark Place
+2016-08-13 15:35:00,2016-08-13 15:58:00,Business,Cary,Morrisville,8.4,Meeting,23.0,2016,8,13,08-2016,Saturday,Tarde,1230.0,No,Whitebridge
+2016-08-15 09:05:00,2016-08-15 09:52:00,Business,R?Walpindi,Unknown Location,15.6,,47.0,2016,8,15,08-2016,Monday,Mañana,2467.0,No,Morrisville
+2016-08-15 15:20:00,2016-08-15 15:47:00,Business,Unknown Location,Unknown Location,14.1,,27.0,2016,8,15,08-2016,Monday,Tarde,328.0,No,Unknown Location
+2016-08-15 16:52:00,2016-08-15 17:30:00,Business,Unknown Location,Unknown Location,15.7,,38.0,2016,8,15,08-2016,Monday,Tarde,65.0,No,Unknown Location
+2016-08-15 19:08:00,2016-08-15 20:30:00,Business,Unknown Location,Unknown Location,25.9,Temporary Site,82.0,2016,8,15,08-2016,Monday,Noche,98.0,No,Unknown Location
+2016-08-16 07:58:00,2016-08-16 08:11:00,Business,Unknown Location,Unknown Location,7.9,,13.0,2016,8,16,08-2016,Tuesday,Mañana,688.0,No,Unknown Location
+2016-08-16 08:16:00,2016-08-16 08:23:00,Business,Unknown Location,Unknown Location,2.7,,7.0,2016,8,16,08-2016,Tuesday,Mañana,5.0,Sí,Unknown Location
+2016-08-16 08:46:00,2016-08-16 08:53:00,Business,Unknown Location,Unknown Location,5.5,,7.0,2016,8,16,08-2016,Tuesday,Mañana,23.0,Sí,Unknown Location
+2016-08-16 10:06:00,2016-08-16 10:27:00,Business,Unknown Location,Islamabad,5.7,,21.0,2016,8,16,08-2016,Tuesday,Mañana,73.0,No,Unknown Location
+2016-08-16 10:31:00,2016-08-16 10:38:00,Business,Islamabad,Islamabad,1.2,,7.0,2016,8,16,08-2016,Tuesday,Mañana,4.0,Sí,Islamabad
+2016-08-16 11:47:00,2016-08-16 12:03:00,Business,Islamabad,Unknown Location,5.7,Temporary Site,16.0,2016,8,16,08-2016,Tuesday,Mañana,69.0,No,Islamabad
+2016-08-16 15:13:00,2016-08-16 15:36:00,Business,Unknown Location,Unknown Location,16.2,,23.0,2016,8,16,08-2016,Tuesday,Tarde,190.0,No,Unknown Location
+2016-08-17 10:17:00,2016-08-17 10:41:00,Business,Unknown Location,Unknown Location,2.6,,24.0,2016,8,17,08-2016,Wednesday,Mañana,1121.0,No,Unknown Location
+2016-08-17 10:57:00,2016-08-17 11:20:00,Business,Unknown Location,Unknown Location,12.1,,23.0,2016,8,17,08-2016,Wednesday,Mañana,16.0,Sí,Unknown Location
+2016-08-17 14:45:00,2016-08-17 14:50:00,Business,Unknown Location,R?Walpindi,1.4,,5.0,2016,8,17,08-2016,Wednesday,Tarde,205.0,No,Unknown Location
+2016-08-17 15:32:00,2016-08-17 15:47:00,Business,R?Walpindi,Islamabad,6.4,,15.0,2016,8,17,08-2016,Wednesday,Tarde,42.0,No,R?Walpindi
+2016-08-17 16:29:00,2016-08-17 16:50:00,Business,Islamabad,Unknown Location,7.3,,21.0,2016,8,17,08-2016,Wednesday,Tarde,42.0,No,Islamabad
+2016-08-17 16:54:00,2016-08-17 17:00:00,Business,Unknown Location,Unknown Location,5.3,,6.0,2016,8,17,08-2016,Wednesday,Tarde,4.0,Sí,Unknown Location
+2016-08-17 17:05:00,2016-08-17 17:34:00,Business,Unknown Location,Unknown Location,5.5,,29.0,2016,8,17,08-2016,Wednesday,Tarde,5.0,Sí,Unknown Location
+2016-08-17 18:38:00,2016-08-17 18:57:00,Business,Unknown Location,Unknown Location,7.7,Temporary Site,19.0,2016,8,17,08-2016,Wednesday,Noche,64.0,No,Unknown Location
+2016-08-18 18:40:00,2016-08-18 19:07:00,Business,Unknown Location,Unknown Location,7.6,Temporary Site,27.0,2016,8,18,08-2016,Thursday,Noche,1423.0,No,Unknown Location
+2016-08-19 08:24:00,2016-08-19 08:45:00,Business,Unknown Location,Noorpur Shahan,7.6,,21.0,2016,8,19,08-2016,Friday,Mañana,797.0,No,Unknown Location
+2016-08-19 08:54:00,2016-08-19 09:07:00,Business,Noorpur Shahan,Islamabad,3.3,,13.0,2016,8,19,08-2016,Friday,Mañana,9.0,Sí,Noorpur Shahan
+2016-08-19 09:27:00,2016-08-19 09:47:00,Business,Islamabad,R?Walpindi,6.5,,20.0,2016,8,19,08-2016,Friday,Mañana,20.0,Sí,Islamabad
+2016-08-19 10:57:00,2016-08-19 11:06:00,Business,R?Walpindi,Unknown Location,2.0,,9.0,2016,8,19,08-2016,Friday,Mañana,70.0,No,R?Walpindi
+2016-08-19 12:07:00,2016-08-19 12:24:00,Business,Unknown Location,Islamabad,5.7,,17.0,2016,8,19,08-2016,Friday,Tarde,61.0,No,Unknown Location
+2016-08-19 15:51:00,2016-08-19 16:06:00,Business,Islamabad,Islamabad,3.2,,15.0,2016,8,19,08-2016,Friday,Tarde,207.0,No,Islamabad
+2016-08-19 17:12:00,2016-08-19 17:52:00,Business,Islamabad,Unknown Location,12.5,,40.0,2016,8,19,08-2016,Friday,Tarde,66.0,No,Islamabad
+2016-08-21 10:00:00,2016-08-21 10:29:00,Business,Unknown Location,Unknown Location,7.6,Airport/Travel,29.0,2016,8,21,08-2016,Sunday,Mañana,2408.0,No,Unknown Location
+2016-08-21 14:05:00,2016-08-21 14:34:00,Business,Unknown Location,Unknown Location,7.7,,29.0,2016,8,21,08-2016,Sunday,Tarde,216.0,No,Unknown Location
+2016-08-21 16:30:00,2016-08-21 17:02:00,Business,Unknown Location,Islamabad,12.2,,32.0,2016,8,21,08-2016,Sunday,Tarde,116.0,No,Unknown Location
+2016-08-21 18:10:00,2016-08-21 18:17:00,Business,Islamabad,Islamabad,1.4,,7.0,2016,8,21,08-2016,Sunday,Noche,68.0,No,Islamabad
+2016-08-21 18:48:00,2016-08-21 19:24:00,Business,Islamabad,Unknown Location,20.2,,36.0,2016,8,21,08-2016,Sunday,Noche,31.0,No,Islamabad
+2016-08-22 10:00:00,2016-08-22 10:44:00,Business,Unknown Location,Islamabad,9.8,,44.0,2016,8,22,08-2016,Monday,Mañana,876.0,No,Unknown Location
+2016-08-22 11:07:00,2016-08-22 11:23:00,Business,Islamabad,Unknown Location,6.3,,16.0,2016,8,22,08-2016,Monday,Mañana,23.0,Sí,Islamabad
+2016-08-22 12:36:00,2016-08-22 12:49:00,Business,Unknown Location,Islamabad,4.9,,13.0,2016,8,22,08-2016,Monday,Tarde,73.0,No,Unknown Location
+2016-08-22 13:02:00,2016-08-22 13:11:00,Business,Islamabad,Islamabad,1.5,,9.0,2016,8,22,08-2016,Monday,Tarde,13.0,Sí,Islamabad
+2016-08-22 14:07:00,2016-08-22 14:31:00,Business,Islamabad,Unknown Location,10.9,,24.0,2016,8,22,08-2016,Monday,Tarde,56.0,No,Islamabad
+2016-08-22 15:14:00,2016-08-22 15:49:00,Business,Unknown Location,Unknown Location,19.0,,35.0,2016,8,22,08-2016,Monday,Tarde,43.0,No,Unknown Location
+2016-08-22 15:59:00,2016-08-22 17:16:00,Business,Unknown Location,Unknown Location,19.0,,77.0,2016,8,22,08-2016,Monday,Tarde,10.0,Sí,Unknown Location
+2016-08-22 19:58:00,2016-08-22 20:50:00,Business,Unknown Location,R?Walpindi,7.9,,52.0,2016,8,22,08-2016,Monday,Noche,162.0,No,Unknown Location
+2016-08-22 20:53:00,2016-08-22 21:31:00,Business,R?Walpindi,R?Walpindi,4.1,,38.0,2016,8,22,08-2016,Monday,Noche,3.0,Sí,R?Walpindi
+2016-08-22 22:31:00,2016-08-22 23:00:00,Business,R?Walpindi,Unknown Location,18.7,,29.0,2016,8,22,08-2016,Monday,Noche,60.0,No,R?Walpindi
+2016-08-23 08:10:00,2016-08-23 08:25:00,Business,Unknown Location,Noorpur Shahan,8.7,,15.0,2016,8,23,08-2016,Tuesday,Mañana,550.0,No,Unknown Location
+2016-08-23 09:35:00,2016-08-23 10:09:00,Business,Noorpur Shahan,Unknown Location,7.5,,34.0,2016,8,23,08-2016,Tuesday,Mañana,70.0,No,Noorpur Shahan
+2016-08-23 12:59:00,2016-08-23 13:15:00,Business,Unknown Location,Noorpur Shahan,7.7,,16.0,2016,8,23,08-2016,Tuesday,Tarde,170.0,No,Unknown Location
+2016-08-23 13:19:00,2016-08-23 13:30:00,Business,Noorpur Shahan,Islamabad,4.4,,11.0,2016,8,23,08-2016,Tuesday,Tarde,4.0,Sí,Noorpur Shahan
+2016-08-23 13:49:00,2016-08-23 14:04:00,Business,Islamabad,Unknown Location,5.0,,15.0,2016,8,23,08-2016,Tuesday,Tarde,19.0,Sí,Islamabad
+2016-08-23 15:07:00,2016-08-23 15:12:00,Business,Unknown Location,Unknown Location,1.9,,5.0,2016,8,23,08-2016,Tuesday,Tarde,63.0,No,Unknown Location
+2016-08-23 15:15:00,2016-08-23 17:16:00,Business,Unknown Location,Unknown Location,7.9,,121.0,2016,8,23,08-2016,Tuesday,Tarde,3.0,Sí,Unknown Location
+2016-08-23 17:42:00,2016-08-23 18:31:00,Business,Unknown Location,Unknown Location,17.7,,49.0,2016,8,23,08-2016,Tuesday,Tarde,26.0,Sí,Unknown Location
+2016-08-24 12:05:00,2016-08-24 12:56:00,Business,Unknown Location,Unknown Location,25.2,,51.0,2016,8,24,08-2016,Wednesday,Tarde,1054.0,No,Unknown Location
+2016-08-24 13:01:00,2016-08-24 15:25:00,Business,Unknown Location,Unknown Location,96.2,,144.0,2016,8,24,08-2016,Wednesday,Tarde,5.0,Sí,Unknown Location
+2016-08-25 15:17:00,2016-08-25 16:22:00,Business,Unknown Location,Unknown Location,35.0,,65.0,2016,8,25,08-2016,Thursday,Tarde,1432.0,No,Unknown Location
+2016-08-25 16:36:00,2016-08-25 16:56:00,Business,Unknown Location,Unknown Location,5.5,,20.0,2016,8,25,08-2016,Thursday,Tarde,14.0,Sí,Unknown Location
+2016-08-25 17:19:00,2016-08-25 19:20:00,Business,Unknown Location,Unknown Location,50.4,,121.0,2016,8,25,08-2016,Thursday,Tarde,23.0,Sí,Unknown Location
+2016-08-25 19:25:00,2016-08-25 19:57:00,Business,Unknown Location,Lahore,9.2,,32.0,2016,8,25,08-2016,Thursday,Noche,5.0,Sí,Unknown Location
+2016-08-25 22:58:00,2016-08-25 23:16:00,Business,Lahore,Unknown Location,7.3,,18.0,2016,8,25,08-2016,Thursday,Noche,181.0,No,Lahore
+2016-08-26 09:06:00,2016-08-26 09:20:00,Business,Unknown Location,Unknown Location,5.0,,14.0,2016,8,26,08-2016,Friday,Mañana,590.0,No,Unknown Location
+2016-08-26 11:14:00,2016-08-26 11:26:00,Business,Unknown Location,Unknown Location,3.8,,12.0,2016,8,26,08-2016,Friday,Mañana,114.0,No,Unknown Location
+2016-08-26 12:10:00,2016-08-26 12:20:00,Business,Unknown Location,Lahore,3.9,,10.0,2016,8,26,08-2016,Friday,Tarde,44.0,No,Unknown Location
+2016-08-26 14:10:00,2016-08-26 14:33:00,Business,Lahore,Lahore,7.4,,23.0,2016,8,26,08-2016,Friday,Tarde,110.0,No,Lahore
+2016-08-26 15:23:00,2016-08-26 15:35:00,Business,Lahore,Lahore,1.5,,12.0,2016,8,26,08-2016,Friday,Tarde,50.0,No,Lahore
+2016-08-26 15:59:00,2016-08-26 16:24:00,Business,Lahore,Unknown Location,7.9,,25.0,2016,8,26,08-2016,Friday,Tarde,24.0,Sí,Lahore
+2016-08-26 16:55:00,2016-08-26 17:12:00,Business,Unknown Location,Lahore,2.9,,17.0,2016,8,26,08-2016,Friday,Tarde,31.0,No,Unknown Location
+2016-08-26 18:42:00,2016-08-26 18:56:00,Business,Lahore,Lahore,3.4,,14.0,2016,8,26,08-2016,Friday,Noche,90.0,No,Lahore
+2016-08-26 19:31:00,2016-08-26 19:54:00,Business,Lahore,Lahore,3.8,,23.0,2016,8,26,08-2016,Friday,Noche,35.0,No,Lahore
+2016-08-26 20:06:00,2016-08-26 20:16:00,Business,Lahore,Unknown Location,5.9,,10.0,2016,8,26,08-2016,Friday,Noche,12.0,Sí,Lahore
+2016-08-27 09:34:00,2016-08-27 10:11:00,Business,Unknown Location,Lahore,9.6,,37.0,2016,8,27,08-2016,Saturday,Mañana,798.0,No,Unknown Location
+2016-08-27 11:47:00,2016-08-27 12:06:00,Business,Lahore,Lahore,7.0,,19.0,2016,8,27,08-2016,Saturday,Mañana,96.0,No,Lahore
+2016-08-27 12:12:00,2016-08-27 12:17:00,Business,Lahore,Lahore,0.9,,5.0,2016,8,27,08-2016,Saturday,Tarde,6.0,Sí,Lahore
+2016-08-27 14:01:00,2016-08-27 15:44:00,Business,Lahore,Unknown Location,86.6,,103.0,2016,8,27,08-2016,Saturday,Tarde,104.0,No,Lahore
+2016-08-27 16:15:00,2016-08-27 19:13:00,Business,Unknown Location,Unknown Location,156.9,,178.0,2016,8,27,08-2016,Saturday,Tarde,31.0,No,Unknown Location
+2016-08-28 09:57:00,2016-08-28 10:18:00,Business,Unknown Location,Noorpur Shahan,10.1,,21.0,2016,8,28,08-2016,Sunday,Mañana,884.0,No,Unknown Location
+2016-08-28 16:39:00,2016-08-28 16:55:00,Business,Noorpur Shahan,Islamabad,6.2,,16.0,2016,8,28,08-2016,Sunday,Tarde,381.0,No,Noorpur Shahan
+2016-08-28 17:37:00,2016-08-28 17:55:00,Business,Islamabad,Islamabad,5.3,,18.0,2016,8,28,08-2016,Sunday,Tarde,42.0,No,Islamabad
+2016-08-28 21:15:00,2016-08-28 21:59:00,Business,Islamabad,Unknown Location,12.1,,44.0,2016,8,28,08-2016,Sunday,Noche,200.0,No,Islamabad
+2016-08-29 12:02:00,2016-08-29 12:31:00,Business,Unknown Location,Islamabad,10.8,,29.0,2016,8,29,08-2016,Monday,Tarde,843.0,No,Unknown Location
+2016-08-29 13:38:00,2016-08-29 13:48:00,Business,Islamabad,Islamabad,4.3,,10.0,2016,8,29,08-2016,Monday,Tarde,67.0,No,Islamabad
+2016-08-29 14:31:00,2016-08-29 14:41:00,Business,Islamabad,Islamabad,2.5,,10.0,2016,8,29,08-2016,Monday,Tarde,43.0,No,Islamabad
+2016-08-29 14:49:00,2016-08-29 15:04:00,Business,Islamabad,Unknown Location,5.7,Temporary Site,15.0,2016,8,29,08-2016,Monday,Tarde,8.0,Sí,Islamabad
+2016-08-29 15:49:00,2016-08-29 15:59:00,Business,Unknown Location,Islamabad,2.8,,10.0,2016,8,29,08-2016,Monday,Tarde,45.0,No,Unknown Location
+2016-08-29 16:06:00,2016-08-29 16:21:00,Business,Islamabad,Unknown Location,4.0,,15.0,2016,8,29,08-2016,Monday,Tarde,7.0,Sí,Islamabad
+2016-08-29 17:24:00,2016-08-29 17:41:00,Business,Unknown Location,Islamabad,5.5,,17.0,2016,8,29,08-2016,Monday,Tarde,63.0,No,Unknown Location
+2016-08-29 18:27:00,2016-08-29 18:36:00,Business,Islamabad,Islamabad,2.6,,9.0,2016,8,29,08-2016,Monday,Noche,46.0,No,Islamabad
+2016-08-30 11:53:00,2016-08-30 12:05:00,Business,Unknown Location,Unknown Location,2.1,,12.0,2016,8,30,08-2016,Tuesday,Mañana,1037.0,No,Islamabad
+2016-08-30 12:46:00,2016-08-30 13:09:00,Business,Unknown Location,Islamabad,8.8,,23.0,2016,8,30,08-2016,Tuesday,Tarde,41.0,No,Unknown Location
+2016-08-30 13:25:00,2016-08-30 13:46:00,Business,Islamabad,Islamabad,4.4,,21.0,2016,8,30,08-2016,Tuesday,Tarde,16.0,Sí,Islamabad
+2016-08-30 14:00:00,2016-08-30 14:20:00,Business,Islamabad,Unknown Location,5.3,,20.0,2016,8,30,08-2016,Tuesday,Tarde,14.0,Sí,Islamabad
+2016-08-30 17:27:00,2016-08-30 18:09:00,Business,Unknown Location,Unknown Location,13.0,,42.0,2016,8,30,08-2016,Tuesday,Tarde,187.0,No,Unknown Location
+2016-09-01 11:51:00,2016-09-01 12:24:00,Business,Unknown Location,Islamabad,13.0,,33.0,2016,9,1,09-2016,Thursday,Mañana,2502.0,No,Unknown Location
+2016-09-01 17:21:00,2016-09-01 17:36:00,Business,Islamabad,Unknown Location,10.6,,15.0,2016,9,1,09-2016,Thursday,Tarde,297.0,No,Islamabad
+2016-09-01 18:49:00,2016-09-01 19:08:00,Business,Unknown Location,Unknown Location,2.2,,19.0,2016,9,1,09-2016,Thursday,Noche,73.0,No,Unknown Location
+2016-09-02 11:37:00,2016-09-02 12:24:00,Business,Unknown Location,Islamabad,9.2,,47.0,2016,9,2,09-2016,Friday,Mañana,989.0,No,Unknown Location
+2016-09-02 18:56:00,2016-09-02 19:37:00,Business,Unknown Location,Unknown Location,12.9,,41.0,2016,9,2,09-2016,Friday,Noche,392.0,No,Islamabad
+2016-09-05 10:25:00,2016-09-05 10:44:00,Business,Unknown Location,R?Walpindi,17.2,,19.0,2016,9,5,09-2016,Monday,Mañana,3768.0,No,Unknown Location
+2016-09-10 10:28:00,2016-09-10 10:45:00,Business,Unknown Location,Unknown Location,2.8,,17.0,2016,9,10,09-2016,Saturday,Mañana,7184.0,No,R?Walpindi
+2016-09-11 09:51:00,2016-09-11 09:55:00,Business,Unknown Location,Unknown Location,8.6,,4.0,2016,9,11,09-2016,Sunday,Mañana,1386.0,No,Unknown Location
+2016-09-11 21:40:00,2016-09-11 21:42:00,Business,Unknown Location,Unknown Location,9.8,,2.0,2016,9,11,09-2016,Sunday,Noche,705.0,No,Unknown Location
+2016-09-12 08:07:00,2016-09-12 08:12:00,Business,Unknown Location,Unknown Location,3.6,,5.0,2016,9,12,09-2016,Monday,Mañana,625.0,No,Unknown Location
+2016-09-12 11:15:00,2016-09-12 11:24:00,Business,Unknown Location,Unknown Location,1.7,,9.0,2016,9,12,09-2016,Monday,Mañana,183.0,No,Unknown Location
+2016-09-12 13:04:00,2016-09-12 13:44:00,Business,Unknown Location,Unknown Location,11.5,,40.0,2016,9,12,09-2016,Monday,Tarde,100.0,No,Unknown Location
+2016-09-13 16:56:00,2016-09-13 17:02:00,Business,Unknown Location,Unknown Location,0.7,,6.0,2016,9,13,09-2016,Tuesday,Tarde,1632.0,No,Unknown Location
+2016-09-14 11:55:00,2016-09-14 11:59:00,Business,Unknown Location,Unknown Location,0.7,,4.0,2016,9,14,09-2016,Wednesday,Mañana,1133.0,No,Unknown Location
+2016-09-15 20:33:00,2016-09-15 20:38:00,Business,Unknown Location,Unknown Location,0.9,,5.0,2016,9,15,09-2016,Thursday,Noche,1954.0,No,Unknown Location
+2016-09-18 18:07:00,2016-09-18 18:11:00,Business,Unknown Location,Unknown Location,9.4,,4.0,2016,9,18,09-2016,Sunday,Noche,4169.0,No,Unknown Location
+2016-09-19 06:18:00,2016-09-19 06:49:00,Business,R?Walpindi,Unknown Location,18.2,,31.0,2016,9,19,09-2016,Monday,Mañana,727.0,No,Unknown Location
+2016-09-19 14:40:00,2016-09-19 14:56:00,Business,Unknown Location,Islamabad,10.5,,16.0,2016,9,19,09-2016,Monday,Tarde,471.0,No,Unknown Location
+2016-09-19 16:23:00,2016-09-19 16:31:00,Business,Islamabad,Unknown Location,5.7,,8.0,2016,9,19,09-2016,Monday,Tarde,87.0,No,Islamabad
+2016-09-19 17:36:00,2016-09-19 18:20:00,Business,Unknown Location,Unknown Location,18.0,,44.0,2016,9,19,09-2016,Monday,Tarde,65.0,No,Unknown Location
+2016-09-19 19:10:00,2016-09-19 19:49:00,Business,Unknown Location,Islamabad,18.3,,39.0,2016,9,19,09-2016,Monday,Noche,50.0,No,Unknown Location
+2016-09-20 11:29:00,2016-09-20 11:48:00,Business,Islamabad,Unknown Location,16.5,,19.0,2016,9,20,09-2016,Tuesday,Mañana,940.0,No,Islamabad
+2016-09-20 20:47:00,2016-09-20 22:47:00,Business,Unknown Location,R?Walpindi,9.6,,120.0,2016,9,20,09-2016,Tuesday,Noche,539.0,No,Unknown Location
+2016-09-23 13:15:00,2016-09-23 13:40:00,Business,Karachi,Karachi,2.9,,25.0,2016,9,23,09-2016,Friday,Tarde,3748.0,No,R?Walpindi
+2016-09-24 14:34:00,2016-09-24 15:15:00,Business,Karachi,Unknown Location,8.2,,41.0,2016,9,24,09-2016,Saturday,Tarde,1494.0,No,Karachi
+2016-09-24 20:29:00,2016-09-24 20:33:00,Business,Unknown Location,Unknown Location,2.4,,4.0,2016,9,24,09-2016,Saturday,Noche,314.0,No,Unknown Location
+2016-09-27 08:33:00,2016-09-27 08:35:00,Business,Unknown Location,Unknown Location,5.8,,2.0,2016,9,27,09-2016,Tuesday,Mañana,3600.0,No,Unknown Location
+2016-09-27 13:21:00,2016-09-27 14:43:00,Business,Lahore,Lahore,9.8,,82.0,2016,9,27,09-2016,Tuesday,Tarde,286.0,No,Unknown Location
+2016-09-27 19:14:00,2016-09-27 20:34:00,Business,Lahore,Unknown Location,7.3,,80.0,2016,9,27,09-2016,Tuesday,Noche,271.0,No,Lahore
+2016-09-27 21:01:00,2016-09-28 02:37:00,Business,Unknown Location,Unknown Location,195.6,,336.0,2016,9,27,09-2016,Tuesday,Noche,27.0,Sí,Unknown Location
+2016-09-28 17:21:00,2016-09-28 19:36:00,Business,Islamabad,Unknown Location,20.5,,135.0,2016,9,28,09-2016,Wednesday,Tarde,884.0,No,Unknown Location
+2016-09-29 16:13:00,2016-09-29 18:47:00,Business,Unknown Location,Islamabad,12.6,,154.0,2016,9,29,09-2016,Thursday,Tarde,1237.0,No,Unknown Location
+2016-09-30 17:39:00,2016-09-30 20:20:00,Business,Islamabad,Islamabad,37.7,,161.0,2016,9,30,09-2016,Friday,Tarde,1372.0,No,Islamabad
+2016-09-30 20:59:00,2016-09-30 22:34:00,Business,Islamabad,Unknown Location,16.7,,95.0,2016,9,30,09-2016,Friday,Noche,39.0,No,Islamabad
+2016-10-03 17:09:00,2016-10-03 17:12:00,Business,Unknown Location,Islamabad,10.5,,3.0,2016,10,3,10-2016,Monday,Tarde,3995.0,No,Unknown Location
+2016-10-03 18:17:00,2016-10-03 18:34:00,Business,Islamabad,Islamabad,2.8,,17.0,2016,10,3,10-2016,Monday,Noche,65.0,No,Islamabad
+2016-10-03 18:51:00,2016-10-03 19:01:00,Business,Islamabad,Islamabad,1.6,,10.0,2016,10,3,10-2016,Monday,Noche,17.0,Sí,Islamabad
+2016-10-03 22:04:00,2016-10-03 22:33:00,Business,Islamabad,Unknown Location,12.7,,29.0,2016,10,3,10-2016,Monday,Noche,183.0,No,Islamabad
+2016-10-04 09:50:00,2016-10-04 10:52:00,Business,Unknown Location,Unknown Location,28.6,,62.0,2016,10,4,10-2016,Tuesday,Mañana,677.0,No,Unknown Location
+2016-10-04 12:17:00,2016-10-04 12:18:00,Business,Unknown Location,Unknown Location,15.1,,1.0,2016,10,4,10-2016,Tuesday,Tarde,85.0,No,Unknown Location
+2016-10-06 08:49:00,2016-10-06 11:36:00,Business,Unknown Location,R?Walpindi,17.9,,167.0,2016,10,6,10-2016,Thursday,Mañana,2671.0,No,Unknown Location
+2016-10-06 17:23:00,2016-10-06 17:40:00,Business,R?Walpindi,Unknown Location,112.6,,17.0,2016,10,6,10-2016,Thursday,Tarde,347.0,No,R?Walpindi
+2016-10-06 18:37:00,2016-10-06 18:39:00,Business,Unknown Location,Unknown Location,18.4,,2.0,2016,10,6,10-2016,Thursday,Noche,57.0,No,Unknown Location
+2016-10-06 19:46:00,2016-10-06 20:26:00,Business,Unknown Location,Unknown Location,13.8,,40.0,2016,10,6,10-2016,Thursday,Noche,67.0,No,Unknown Location
+2016-10-07 10:56:00,2016-10-07 10:59:00,Business,Unknown Location,Lahore,33.2,,3.0,2016,10,7,10-2016,Friday,Mañana,870.0,No,Unknown Location
+2016-10-07 11:27:00,2016-10-07 11:50:00,Business,Lahore,Lahore,2.6,,23.0,2016,10,7,10-2016,Friday,Mañana,28.0,Sí,Lahore
+2016-10-07 13:52:00,2016-10-07 14:08:00,Business,Lahore,Unknown Location,5.8,,16.0,2016,10,7,10-2016,Friday,Tarde,122.0,No,Lahore
+2016-10-07 14:29:00,2016-10-07 15:11:00,Business,Unknown Location,Lahore,8.3,,42.0,2016,10,7,10-2016,Friday,Tarde,21.0,Sí,Unknown Location
+2016-10-07 15:47:00,2016-10-07 16:02:00,Business,Lahore,Lahore,2.4,,15.0,2016,10,7,10-2016,Friday,Tarde,36.0,No,Lahore
+2016-10-07 18:08:00,2016-10-07 18:27:00,Business,Lahore,Lahore,3.1,,19.0,2016,10,7,10-2016,Friday,Noche,126.0,No,Lahore
+2016-10-07 18:33:00,2016-10-07 19:01:00,Business,Lahore,Lahore,6.1,,28.0,2016,10,7,10-2016,Friday,Noche,6.0,Sí,Lahore
+2016-10-08 18:15:00,2016-10-08 18:18:00,Business,Karachi,Unknown Location,8.0,,3.0,2016,10,8,10-2016,Saturday,Noche,1394.0,No,Lahore
+2016-10-09 14:04:00,2016-10-09 14:23:00,Business,Unknown Location,Unknown Location,7.7,Temporary Site,19.0,2016,10,9,10-2016,Sunday,Tarde,1186.0,No,Unknown Location
+2016-10-10 17:22:00,2016-10-10 17:28:00,Business,Islamabad,Islamabad,1.7,,6.0,2016,10,10,10-2016,Monday,Tarde,1619.0,No,Unknown Location
+2016-10-10 17:33:00,2016-10-10 18:13:00,Business,Islamabad,Unknown Location,9.5,,40.0,2016,10,10,10-2016,Monday,Tarde,5.0,Sí,Islamabad
+2016-10-11 01:27:00,2016-10-11 02:08:00,Business,Unknown Location,R?Walpindi,17.1,Meeting,41.0,2016,10,11,10-2016,Tuesday,Madrugada,434.0,No,Unknown Location
+2016-10-12 19:18:00,2016-10-12 19:21:00,Business,R?Walpindi,Unknown Location,18.4,,3.0,2016,10,12,10-2016,Wednesday,Noche,2470.0,No,R?Walpindi
+2016-10-13 11:20:00,2016-10-13 11:58:00,Business,Unknown Location,Islamabad,9.8,,38.0,2016,10,13,10-2016,Thursday,Mañana,959.0,No,Unknown Location
+2016-10-13 12:08:00,2016-10-13 12:14:00,Business,Islamabad,Islamabad,1.0,,6.0,2016,10,13,10-2016,Thursday,Tarde,10.0,Sí,Islamabad
+2016-10-13 13:37:00,2016-10-13 13:46:00,Business,Islamabad,Islamabad,2.3,,9.0,2016,10,13,10-2016,Thursday,Tarde,83.0,No,Islamabad
+2016-10-13 16:08:00,2016-10-13 16:53:00,Business,Islamabad,Unknown Location,10.9,,45.0,2016,10,13,10-2016,Thursday,Tarde,142.0,No,Islamabad
+2016-10-14 08:50:00,2016-10-14 09:44:00,Business,Unknown Location,R?Walpindi,12.7,,54.0,2016,10,14,10-2016,Friday,Mañana,957.0,No,Unknown Location
+2016-10-14 10:16:00,2016-10-14 10:52:00,Business,R?Walpindi,Unknown Location,12.4,,36.0,2016,10,14,10-2016,Friday,Mañana,32.0,No,R?Walpindi
+2016-10-14 15:56:00,2016-10-14 16:20:00,Business,Unknown Location,Unknown Location,3.8,,24.0,2016,10,14,10-2016,Friday,Tarde,304.0,No,Unknown Location
+2016-10-14 23:54:00,2016-10-15 02:06:00,Business,Unknown Location,R?Walpindi,17.0,Meeting,132.0,2016,10,14,10-2016,Friday,Madrugada,454.0,No,Unknown Location
+2016-10-15 22:28:00,2016-10-15 22:48:00,Business,Morrisville,Morrisville,6.2,,20.0,2016,10,15,10-2016,Saturday,Noche,1222.0,No,R?Walpindi
+2016-10-16 00:01:00,2016-10-16 00:14:00,Business,Morrisville,Cary,3.1,,13.0,2016,10,16,10-2016,Sunday,Madrugada,73.0,No,Morrisville
+2016-10-16 12:52:00,2016-10-16 13:11:00,Business,Cary,Durham,10.5,Meeting,19.0,2016,10,16,10-2016,Sunday,Tarde,758.0,No,Cary
+2016-10-16 14:40:00,2016-10-16 15:01:00,Business,Durham,Morrisville,8.1,,21.0,2016,10,16,10-2016,Sunday,Tarde,89.0,No,Durham
+2016-10-16 15:10:00,2016-10-16 15:19:00,Business,Morrisville,Cary,3.1,,9.0,2016,10,16,10-2016,Sunday,Tarde,9.0,Sí,Morrisville
+2016-10-16 19:27:00,2016-10-16 19:33:00,Business,Whitebridge,Parkway,2.1,Meeting,6.0,2016,10,16,10-2016,Sunday,Noche,248.0,No,Cary
+2016-10-16 20:30:00,2016-10-16 20:39:00,Business,Cary,Morrisville,4.3,,9.0,2016,10,16,10-2016,Sunday,Noche,57.0,No,Parkway
+2016-10-16 21:34:00,2016-10-16 21:41:00,Business,Morrisville,Cary,2.5,Meal/Entertain,7.0,2016,10,16,10-2016,Sunday,Noche,55.0,No,Morrisville
+2016-10-17 15:19:00,2016-10-17 15:57:00,Business,Cary,Raleigh,20.6,,38.0,2016,10,17,10-2016,Monday,Tarde,1058.0,No,Cary
+2016-10-17 16:29:00,2016-10-17 17:11:00,Business,Raleigh,Cary,17.6,,42.0,2016,10,17,10-2016,Monday,Tarde,32.0,No,Raleigh
+2016-10-17 18:02:00,2016-10-17 18:16:00,Business,Cary,Apex,5.6,,14.0,2016,10,17,10-2016,Monday,Noche,51.0,No,Cary
+2016-10-17 18:31:00,2016-10-17 18:45:00,Business,Apex,Apex,3.3,,14.0,2016,10,17,10-2016,Monday,Noche,15.0,Sí,Apex
+2016-10-17 19:08:00,2016-10-17 19:25:00,Business,Apex,Cary,5.3,,17.0,2016,10,17,10-2016,Monday,Noche,23.0,Sí,Apex
+2016-10-18 08:12:00,2016-10-18 08:22:00,Business,Whitebridge,Edgehill Farms,3.3,,10.0,2016,10,18,10-2016,Tuesday,Mañana,767.0,No,Cary
+2016-10-18 08:53:00,2016-10-18 09:02:00,Business,Edgehill Farms,Whitebridge,3.3,,9.0,2016,10,18,10-2016,Tuesday,Mañana,31.0,No,Edgehill Farms
+2016-10-18 10:41:00,2016-10-18 11:09:00,Business,Cary,Morrisville,7.9,Temporary Site,28.0,2016,10,18,10-2016,Tuesday,Mañana,99.0,No,Whitebridge
+2016-10-18 18:12:00,2016-10-18 18:33:00,Business,Oakland,Emeryville,13.0,,21.0,2016,10,18,10-2016,Tuesday,Noche,423.0,No,Morrisville
+2016-10-18 19:03:00,2016-10-18 19:13:00,Business,Emeryville,Berkeley,3.0,,10.0,2016,10,18,10-2016,Tuesday,Noche,30.0,Sí,Emeryville
+2016-10-18 20:31:00,2016-10-18 20:37:00,Business,Berkeley,Emeryville,3.0,,6.0,2016,10,18,10-2016,Tuesday,Noche,78.0,No,Berkeley
+2016-10-19 09:33:00,2016-10-19 09:47:00,Business,Emeryville,Oakland,3.8,,14.0,2016,10,19,10-2016,Wednesday,Mañana,776.0,No,Emeryville
+2016-10-19 09:54:00,2016-10-19 10:21:00,Business,Oakland,San Francisco,9.5,,27.0,2016,10,19,10-2016,Wednesday,Mañana,7.0,Sí,Oakland
+2016-10-19 13:45:00,2016-10-19 13:56:00,Business,Somisspo,French Quarter,1.7,,11.0,2016,10,19,10-2016,Wednesday,Tarde,204.0,No,San Francisco
+2016-10-19 14:02:00,2016-10-19 14:31:00,Business,San Francisco,Berkeley,10.8,,29.0,2016,10,19,10-2016,Wednesday,Tarde,6.0,No,French Quarter
+2016-10-19 15:44:00,2016-10-19 16:02:00,Business,West Berkeley,North Berkeley Hills,4.1,,18.0,2016,10,19,10-2016,Wednesday,Tarde,73.0,No,Berkeley
+2016-10-19 16:06:00,2016-10-19 16:19:00,Business,North Berkeley Hills,Southside,2.2,,13.0,2016,10,19,10-2016,Wednesday,Tarde,4.0,Sí,North Berkeley Hills
+2016-10-19 16:33:00,2016-10-19 17:01:00,Business,Berkeley,Emeryville,4.6,,28.0,2016,10,19,10-2016,Wednesday,Tarde,14.0,No,Southside
+2016-10-20 11:26:00,2016-10-20 11:34:00,Business,Emeryville,Berkeley,3.1,,8.0,2016,10,20,10-2016,Thursday,Mañana,1105.0,No,Emeryville
+2016-10-20 12:19:00,2016-10-20 13:17:00,Business,Berkeley,San Jose,47.7,,58.0,2016,10,20,10-2016,Thursday,Tarde,45.0,No,Berkeley
+2016-10-20 20:44:00,2016-10-20 21:37:00,Business,San Jose,Emeryville,44.6,,53.0,2016,10,20,10-2016,Thursday,Noche,447.0,No,San Jose
+2016-10-21 10:06:00,2016-10-21 10:21:00,Business,Emeryville,Oakland,13.2,,15.0,2016,10,21,10-2016,Friday,Mañana,749.0,No,Emeryville
+2016-10-22 00:54:00,2016-10-22 01:09:00,Business,Morrisville,Cary,8.7,,15.0,2016,10,22,10-2016,Saturday,Madrugada,873.0,No,Oakland
+2016-10-22 13:26:00,2016-10-22 14:03:00,Business,Cary,Raleigh,17.2,,37.0,2016,10,22,10-2016,Saturday,Tarde,737.0,No,Cary
+2016-10-22 17:08:00,2016-10-22 17:55:00,Business,Raleigh,Cary,14.0,,47.0,2016,10,22,10-2016,Saturday,Tarde,185.0,No,Raleigh
+2016-10-23 09:24:00,2016-10-23 10:05:00,Business,Cary,Raleigh,28.1,,41.0,2016,10,23,10-2016,Sunday,Mañana,929.0,No,Cary
+2016-10-23 12:17:00,2016-10-23 12:59:00,Business,Raleigh,Cary,28.2,,42.0,2016,10,23,10-2016,Sunday,Tarde,132.0,No,Raleigh
+2016-10-23 19:04:00,2016-10-23 19:14:00,Business,Cary,Morrisville,3.1,Meal/Entertain,10.0,2016,10,23,10-2016,Sunday,Noche,365.0,No,Cary
+2016-10-23 21:10:00,2016-10-23 21:25:00,Business,Morrisville,Cary,3.1,Customer Visit,15.0,2016,10,23,10-2016,Sunday,Noche,116.0,No,Morrisville
+2016-10-24 14:57:00,2016-10-24 15:26:00,Business,Cary,Durham,16.4,,29.0,2016,10,24,10-2016,Monday,Tarde,1052.0,No,Cary
+2016-10-24 15:33:00,2016-10-24 16:13:00,Business,Durham,Morrisville,15.4,,40.0,2016,10,24,10-2016,Monday,Tarde,7.0,Sí,Durham
+2016-10-24 16:34:00,2016-10-24 16:41:00,Business,Morrisville,Cary,2.2,,7.0,2016,10,24,10-2016,Monday,Tarde,21.0,Sí,Morrisville
+2016-10-25 13:27:00,2016-10-25 14:08:00,Business,Cary,Apex,11.2,,41.0,2016,10,25,10-2016,Tuesday,Tarde,1246.0,No,Cary
+2016-10-25 15:04:00,2016-10-25 15:11:00,Business,Apex,Eagle Rock,2.2,,7.0,2016,10,25,10-2016,Tuesday,Tarde,56.0,No,Apex
+2016-10-25 15:16:00,2016-10-25 15:33:00,Business,Eagle Rock,Cary,3.6,,17.0,2016,10,25,10-2016,Tuesday,Tarde,5.0,Sí,Eagle Rock
+2016-10-25 20:00:00,2016-10-25 20:11:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,11.0,2016,10,25,10-2016,Tuesday,Noche,267.0,No,Cary
+2016-10-25 20:54:00,2016-10-25 21:03:00,Business,Savon Height,Parkway,4.9,,9.0,2016,10,25,10-2016,Tuesday,Noche,43.0,No,Savon Height
+2016-10-25 22:24:00,2016-10-25 22:45:00,Business,Parkway,Whitebridge,8.7,Errand/Supplies,21.0,2016,10,25,10-2016,Tuesday,Noche,81.0,No,Parkway
+2016-10-26 19:25:00,2016-10-26 19:31:00,Business,Whitebridge,Parkway,2.1,Meeting,6.0,2016,10,26,10-2016,Wednesday,Noche,1240.0,No,Whitebridge
+2016-10-26 20:53:00,2016-10-26 21:03:00,Business,Parkway,Whitebridge,2.1,,10.0,2016,10,26,10-2016,Wednesday,Noche,82.0,No,Parkway
+2016-10-27 18:51:00,2016-10-27 19:16:00,Business,Cary,Morrisville,8.4,Meeting,25.0,2016,10,27,10-2016,Thursday,Noche,1308.0,No,Whitebridge
+2016-10-27 19:20:00,2016-10-27 19:35:00,Business,Morrisville,Morrisville,5.9,,15.0,2016,10,27,10-2016,Thursday,Noche,4.0,Sí,Morrisville
+2016-10-27 19:52:00,2016-10-27 20:21:00,Business,Huntington Woods,Huntington Woods,12.1,,29.0,2016,10,27,10-2016,Thursday,Noche,17.0,No,Morrisville
+2016-10-27 20:47:00,2016-10-27 20:54:00,Business,Huntington Woods,Weston,3.9,,7.0,2016,10,27,10-2016,Thursday,Noche,26.0,Sí,Huntington Woods
+2016-10-27 21:26:00,2016-10-27 21:48:00,Business,Morrisville,Cary,6.2,,22.0,2016,10,27,10-2016,Thursday,Noche,32.0,No,Weston
+2016-10-28 11:34:00,2016-10-28 11:52:00,Business,Cary,Durham,10.4,Meeting,18.0,2016,10,28,10-2016,Friday,Mañana,826.0,No,Cary
+2016-10-28 13:06:00,2016-10-28 13:36:00,Business,Durham,Cary,9.9,Meeting,30.0,2016,10,28,10-2016,Friday,Tarde,74.0,No,Durham
+2016-10-28 15:53:00,2016-10-28 17:59:00,Business,Cary,Winston Salem,107.0,Meeting,126.0,2016,10,28,10-2016,Friday,Tarde,137.0,No,Cary
+2016-10-28 18:13:00,2016-10-28 20:07:00,Business,Winston Salem,Asheville,133.6,Meeting,114.0,2016,10,28,10-2016,Friday,Noche,14.0,Sí,Winston Salem
+2016-10-28 20:13:00,2016-10-28 22:00:00,Business,Asheville,Topton,91.8,Meeting,107.0,2016,10,28,10-2016,Friday,Noche,6.0,Sí,Asheville
+2016-10-29 15:22:00,2016-10-29 17:05:00,Business,Topton,Hayesville,40.7,Meeting,103.0,2016,10,29,10-2016,Saturday,Tarde,1042.0,No,Topton
+2016-10-29 17:13:00,2016-10-29 19:19:00,Business,Hayesville,Topton,75.7,,126.0,2016,10,29,10-2016,Saturday,Tarde,8.0,Sí,Hayesville
+2016-10-30 07:49:00,2016-10-30 08:30:00,Business,Topton,Bryson City,29.8,,41.0,2016,10,30,10-2016,Sunday,Mañana,750.0,No,Topton
+2016-10-30 09:07:00,2016-10-30 10:09:00,Business,Bryson City,Bryson City,16.3,,62.0,2016,10,30,10-2016,Sunday,Mañana,37.0,No,Bryson City
+2016-10-30 10:11:00,2016-10-30 10:38:00,Business,Bryson City,Bryson City,6.5,,27.0,2016,10,30,10-2016,Sunday,Mañana,2.0,Sí,Bryson City
+2016-10-30 10:51:00,2016-10-30 11:21:00,Business,Bryson City,Bryson City,6.3,,30.0,2016,10,30,10-2016,Sunday,Mañana,13.0,Sí,Bryson City
+2016-10-30 12:24:00,2016-10-30 12:35:00,Business,Bryson City,Almond,6.6,,11.0,2016,10,30,10-2016,Sunday,Tarde,63.0,No,Bryson City
+2016-10-30 12:58:00,2016-10-30 13:18:00,Business,Almond,Bryson City,15.2,,20.0,2016,10,30,10-2016,Sunday,Tarde,23.0,Sí,Almond
+2016-10-30 13:24:00,2016-10-30 14:37:00,Business,Bryson City,Asheville,68.4,,73.0,2016,10,30,10-2016,Sunday,Tarde,6.0,Sí,Bryson City
+2016-10-30 15:22:00,2016-10-30 18:23:00,Business,Asheville,Mebane,195.9,,181.0,2016,10,30,10-2016,Sunday,Tarde,45.0,No,Asheville
+2016-10-30 18:26:00,2016-10-30 19:39:00,Business,Mebane,Cary,45.2,,73.0,2016,10,30,10-2016,Sunday,Noche,3.0,Sí,Mebane
+2016-10-31 18:11:00,2016-10-31 18:20:00,Business,Cary,Morrisville,3.2,,9.0,2016,10,31,10-2016,Monday,Noche,1352.0,No,Cary
+2016-10-31 18:47:00,2016-10-31 19:16:00,Business,Morrisville,Raleigh,10.3,,29.0,2016,10,31,10-2016,Monday,Noche,27.0,Sí,Morrisville
+2016-10-31 20:18:00,2016-10-31 20:44:00,Business,Raleigh,Cary,13.1,,26.0,2016,10,31,10-2016,Monday,Noche,62.0,No,Raleigh
+2016-10-31 21:45:00,2016-10-31 22:10:00,Business,Savon Height,Whitebridge,9.6,Errand/Supplies,25.0,2016,10,31,10-2016,Monday,Noche,61.0,No,Cary
+2016-11-01 11:50:00,2016-11-01 12:27:00,Business,Cary,Durham,16.5,,37.0,2016,11,1,11-2016,Tuesday,Mañana,820.0,No,Whitebridge
+2016-11-01 16:29:00,2016-11-01 17:02:00,Business,Durham,Cary,12.8,,33.0,2016,11,1,11-2016,Tuesday,Tarde,242.0,No,Durham
+2016-11-01 17:35:00,2016-11-01 17:42:00,Business,Whitebridge,Whitebridge,1.2,,7.0,2016,11,1,11-2016,Tuesday,Tarde,33.0,No,Cary
+2016-11-01 19:14:00,2016-11-01 19:20:00,Business,Whitebridge,Whitebridge,1.0,,6.0,2016,11,1,11-2016,Tuesday,Noche,92.0,No,Whitebridge
+2016-11-01 19:59:00,2016-11-01 20:12:00,Business,Whitebridge,Whitebridge,4.1,,13.0,2016,11,1,11-2016,Tuesday,Noche,39.0,No,Whitebridge
+2016-11-01 20:41:00,2016-11-01 20:55:00,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain,14.0,2016,11,1,11-2016,Tuesday,Noche,29.0,Sí,Whitebridge
+2016-11-02 15:10:00,2016-11-02 15:18:00,Business,Whitebridge,Westpark Place,1.4,,8.0,2016,11,2,11-2016,Wednesday,Tarde,1095.0,No,Whitebridge
+2016-11-02 15:45:00,2016-11-02 15:52:00,Business,Westpark Place,Whitebridge,1.8,,7.0,2016,11,2,11-2016,Wednesday,Tarde,27.0,Sí,Westpark Place
+2016-11-02 16:46:00,2016-11-02 17:11:00,Business,Cary,Morrisville,8.5,Meeting,25.0,2016,11,2,11-2016,Wednesday,Tarde,54.0,No,Whitebridge
+2016-11-02 17:34:00,2016-11-02 17:49:00,Business,Morrisville,Morrisville,5.0,,15.0,2016,11,2,11-2016,Wednesday,Tarde,23.0,Sí,Morrisville
+2016-11-02 17:53:00,2016-11-02 18:00:00,Business,Morrisville,Cary,3.8,,7.0,2016,11,2,11-2016,Wednesday,Tarde,4.0,Sí,Morrisville
+2016-11-03 11:28:00,2016-11-03 11:34:00,Business,Whitebridge,Hazelwood,2.5,,6.0,2016,11,3,11-2016,Thursday,Mañana,1048.0,No,Cary
+2016-11-03 12:43:00,2016-11-03 12:49:00,Business,Hazelwood,Whitebridge,2.4,,6.0,2016,11,3,11-2016,Thursday,Tarde,69.0,No,Hazelwood
+2016-11-03 13:42:00,2016-11-03 13:47:00,Business,Whitebridge,Westpark Place,1.4,,5.0,2016,11,3,11-2016,Thursday,Tarde,53.0,No,Whitebridge
+2016-11-03 14:13:00,2016-11-03 14:26:00,Business,Westpark Place,Whitebridge,1.8,,13.0,2016,11,3,11-2016,Thursday,Tarde,26.0,Sí,Westpark Place
+2016-11-03 18:51:00,2016-11-03 19:08:00,Business,Cary,Morrisville,3.1,Meal/Entertain,17.0,2016,11,3,11-2016,Thursday,Noche,265.0,No,Whitebridge
+2016-11-03 22:46:00,2016-11-03 22:58:00,Business,Morrisville,Cary,3.1,Customer Visit,12.0,2016,11,3,11-2016,Thursday,Noche,218.0,No,Morrisville
+2016-11-04 10:02:00,2016-11-04 10:18:00,Business,Cary,Morrisville,7.9,Temporary Site,16.0,2016,11,4,11-2016,Friday,Mañana,664.0,No,Cary
+2016-11-04 18:14:00,2016-11-04 18:21:00,Business,San Jose,Santa Clara,3.8,,7.0,2016,11,4,11-2016,Friday,Noche,476.0,No,Morrisville
+2016-11-04 21:04:00,2016-11-04 21:20:00,Business,Agnew,Cory,4.3,,16.0,2016,11,4,11-2016,Friday,Noche,163.0,No,Santa Clara
+2016-11-04 22:12:00,2016-11-04 22:25:00,Business,Cory,Agnew,3.9,,13.0,2016,11,4,11-2016,Friday,Noche,52.0,No,Cory
+2016-11-05 08:34:00,2016-11-05 08:43:00,Business,Agnew,Renaissance,2.2,,9.0,2016,11,5,11-2016,Saturday,Mañana,609.0,No,Agnew
+2016-11-05 17:29:00,2016-11-05 17:40:00,Business,Renaissance,Agnew,2.8,,11.0,2016,11,5,11-2016,Saturday,Tarde,526.0,No,Renaissance
+2016-11-05 19:20:00,2016-11-05 19:28:00,Business,Agnew,Agnew,2.2,,8.0,2016,11,5,11-2016,Saturday,Noche,100.0,No,Agnew
+2016-11-06 10:50:00,2016-11-06 11:04:00,Business,Agnew,Renaissance,2.4,,14.0,2016,11,6,11-2016,Sunday,Mañana,922.0,No,Agnew
+2016-11-06 16:05:00,2016-11-06 16:22:00,Business,Renaissance,Agnew,2.8,Meeting,17.0,2016,11,6,11-2016,Sunday,Tarde,301.0,No,Renaissance
+2016-11-06 16:27:00,2016-11-06 17:28:00,Business,Santa Clara,Berkeley,43.9,Customer Visit,61.0,2016,11,6,11-2016,Sunday,Tarde,5.0,No,Agnew
+2016-11-06 19:04:00,2016-11-06 19:12:00,Business,Downtown,West Berkeley,1.8,,8.0,2016,11,6,11-2016,Sunday,Noche,96.0,No,Berkeley
+2016-11-06 20:06:00,2016-11-06 20:21:00,Business,West Berkeley,Central,3.3,,15.0,2016,11,6,11-2016,Sunday,Noche,54.0,No,West Berkeley
+2016-11-07 12:28:00,2016-11-07 12:57:00,Business,Berkeley,San Francisco,11.8,Between Offices,29.0,2016,11,7,11-2016,Monday,Tarde,967.0,No,Central
+2016-11-07 19:17:00,2016-11-07 19:57:00,Business,San Francisco,Berkeley,13.2,Between Offices,40.0,2016,11,7,11-2016,Monday,Noche,380.0,No,San Francisco
+2016-11-08 10:29:00,2016-11-08 10:57:00,Business,Berkeley,San Francisco,12.2,Between Offices,28.0,2016,11,8,11-2016,Tuesday,Mañana,872.0,No,Berkeley
+2016-11-08 12:16:00,2016-11-08 12:49:00,Business,San Francisco,Berkeley,11.3,Meeting,33.0,2016,11,8,11-2016,Tuesday,Tarde,79.0,No,San Francisco
+2016-11-08 13:41:00,2016-11-08 14:01:00,Business,Berkeley,Emeryville,3.6,,20.0,2016,11,8,11-2016,Tuesday,Tarde,52.0,No,Berkeley
+2016-11-08 16:21:00,2016-11-08 16:34:00,Business,Emeryville,Berkeley,3.0,,13.0,2016,11,8,11-2016,Tuesday,Tarde,140.0,No,Emeryville
+2016-11-09 13:08:00,2016-11-09 13:41:00,Business,Berkeley,San Francisco,11.4,,33.0,2016,11,9,11-2016,Wednesday,Tarde,1234.0,No,Berkeley
+2016-11-09 15:58:00,2016-11-09 16:04:00,Business,Noma,Downtown,0.9,,6.0,2016,11,9,11-2016,Wednesday,Tarde,137.0,No,San Francisco
+2016-11-09 17:31:00,2016-11-09 18:03:00,Business,Downtown,Sunnyside,6.2,,32.0,2016,11,9,11-2016,Wednesday,Tarde,87.0,No,Downtown
+2016-11-09 18:09:00,2016-11-09 18:14:00,Business,Sunnyside,Ingleside,0.7,,5.0,2016,11,9,11-2016,Wednesday,Noche,6.0,Sí,Sunnyside
+2016-11-09 18:21:00,2016-11-09 18:35:00,Business,Ingleside,Potrero Flats,5.5,Meeting,14.0,2016,11,9,11-2016,Wednesday,Noche,7.0,Sí,Ingleside
+2016-11-09 18:40:00,2016-11-09 19:17:00,Business,San Francisco,Oakland,12.7,Customer Visit,37.0,2016,11,9,11-2016,Wednesday,Noche,5.0,No,Potrero Flats
+2016-11-09 20:52:00,2016-11-09 21:02:00,Business,Oakland,Berkeley,2.6,,10.0,2016,11,9,11-2016,Wednesday,Noche,95.0,No,Oakland
+2016-11-09 21:56:00,2016-11-09 22:02:00,Business,Central,Central,1.1,,6.0,2016,11,9,11-2016,Wednesday,Noche,54.0,No,Berkeley
+2016-11-10 09:46:00,2016-11-10 10:15:00,Business,Berkeley,San Francisco,12.6,Temporary Site,29.0,2016,11,10,11-2016,Thursday,Mañana,704.0,No,Central
+2016-11-10 10:20:00,2016-11-10 10:31:00,Business,Tenderloin,Somisspo,1.2,,11.0,2016,11,10,11-2016,Thursday,Mañana,5.0,No,San Francisco
+2016-11-10 14:57:00,2016-11-10 15:07:00,Business,Somisspo,Tenderloin,1.1,,10.0,2016,11,10,11-2016,Thursday,Tarde,266.0,No,Somisspo
+2016-11-10 15:17:00,2016-11-10 15:22:00,Business,San Francisco,Oakland,9.9,Temporary Site,5.0,2016,11,10,11-2016,Thursday,Tarde,10.0,No,Tenderloin
+2016-11-10 15:30:00,2016-11-10 15:53:00,Business,Oakland,Berkeley,6.0,Meeting,23.0,2016,11,10,11-2016,Thursday,Tarde,8.0,Sí,Oakland
+2016-11-10 19:18:00,2016-11-10 19:21:00,Business,West Berkeley,Central,0.8,,3.0,2016,11,10,11-2016,Thursday,Noche,205.0,No,Berkeley
+2016-11-11 09:35:00,2016-11-11 10:23:00,Business,Berkeley,Menlo Park,45.9,Customer Visit,48.0,2016,11,11,11-2016,Friday,Mañana,854.0,No,Central
+2016-11-11 12:58:00,2016-11-11 13:13:00,Business,Menlo Park,Palo Alto,4.0,,15.0,2016,11,11,11-2016,Friday,Tarde,155.0,No,Menlo Park
+2016-11-11 14:20:00,2016-11-11 14:32:00,Business,Palo Alto,Menlo Park,2.5,,12.0,2016,11,11,11-2016,Friday,Tarde,67.0,No,Palo Alto
+2016-11-11 14:39:00,2016-11-11 15:46:00,Business,Menlo Park,Berkeley,36.6,Customer Visit,67.0,2016,11,11,11-2016,Friday,Tarde,7.0,Sí,Menlo Park
+2016-11-11 18:30:00,2016-11-11 18:43:00,Business,Central,College Avenue,2.9,,13.0,2016,11,11,11-2016,Friday,Noche,164.0,No,Berkeley
+2016-11-11 21:08:00,2016-11-11 21:18:00,Business,College Avenue,Central,2.6,,10.0,2016,11,11,11-2016,Friday,Noche,145.0,No,College Avenue
+2016-11-12 10:32:00,2016-11-12 10:52:00,Business,Central,South,2.3,,20.0,2016,11,12,11-2016,Saturday,Mañana,794.0,No,Central
+2016-11-12 10:55:00,2016-11-12 11:25:00,Business,South,Downtown,6.4,,30.0,2016,11,12,11-2016,Saturday,Mañana,3.0,Sí,South
+2016-11-12 13:07:00,2016-11-12 13:15:00,Business,Downtown,Central,1.4,,8.0,2016,11,12,11-2016,Saturday,Tarde,102.0,No,Downtown
+2016-11-12 13:46:00,2016-11-12 13:50:00,Business,Central,West Berkeley,0.6,,4.0,2016,11,12,11-2016,Saturday,Tarde,31.0,No,Central
+2016-11-12 14:22:00,2016-11-12 14:53:00,Business,West Berkeley,South,5.9,Meeting,31.0,2016,11,12,11-2016,Saturday,Tarde,32.0,No,West Berkeley
+2016-11-12 15:14:00,2016-11-12 15:21:00,Business,South,Southwest Berkeley,0.8,,7.0,2016,11,12,11-2016,Saturday,Tarde,21.0,Sí,South
+2016-11-12 15:25:00,2016-11-12 15:36:00,Business,Berkeley,Emeryville,1.3,,11.0,2016,11,12,11-2016,Saturday,Tarde,4.0,No,Southwest Berkeley
+2016-11-12 15:40:00,2016-11-12 15:59:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,19.0,2016,11,12,11-2016,Saturday,Tarde,4.0,Sí,Emeryville
+2016-11-13 08:54:00,2016-11-13 09:02:00,Business,Central,Central,2.3,,8.0,2016,11,13,11-2016,Sunday,Mañana,1015.0,No,Berkeley
+2016-11-13 09:27:00,2016-11-13 09:53:00,Business,Central,Central,2.6,,26.0,2016,11,13,11-2016,Sunday,Mañana,25.0,Sí,Central
+2016-11-13 10:31:00,2016-11-13 10:37:00,Business,Central,Southside,1.9,,6.0,2016,11,13,11-2016,Sunday,Mañana,38.0,No,Central
+2016-11-13 11:04:00,2016-11-13 11:16:00,Business,Southside,West Berkeley,2.1,,12.0,2016,11,13,11-2016,Sunday,Mañana,27.0,Sí,Southside
+2016-11-13 12:22:00,2016-11-13 12:51:00,Business,West Berkeley,Southside,4.0,Meeting,29.0,2016,11,13,11-2016,Sunday,Tarde,66.0,No,West Berkeley
+2016-11-13 13:05:00,2016-11-13 13:11:00,Business,Southside,South Berkeley,0.9,,6.0,2016,11,13,11-2016,Sunday,Tarde,14.0,Sí,Southside
+2016-11-13 13:14:00,2016-11-13 13:18:00,Business,South Berkeley,Southside,0.9,,4.0,2016,11,13,11-2016,Sunday,Tarde,3.0,Sí,South Berkeley
+2016-11-13 14:35:00,2016-11-13 14:46:00,Business,Southside,Central,2.4,,11.0,2016,11,13,11-2016,Sunday,Tarde,77.0,No,Southside
+2016-11-13 15:14:00,2016-11-13 15:24:00,Business,Central,Southside,1.9,,10.0,2016,11,13,11-2016,Sunday,Tarde,28.0,Sí,Central
+2016-11-13 15:47:00,2016-11-13 15:59:00,Business,Southside,Central,1.9,,12.0,2016,11,13,11-2016,Sunday,Tarde,23.0,Sí,Southside
+2016-11-14 11:24:00,2016-11-14 12:13:00,Business,Berkeley,Mountain View,44.6,Customer Visit,49.0,2016,11,14,11-2016,Monday,Mañana,1165.0,No,Central
+2016-11-14 13:40:00,2016-11-14 14:33:00,Business,Mountain View,Berkeley,43.6,Customer Visit,53.0,2016,11,14,11-2016,Monday,Tarde,87.0,No,Mountain View
+2016-11-14 15:27:00,2016-11-14 15:36:00,Business,Berkeley,Emeryville,2.5,,9.0,2016,11,14,11-2016,Monday,Tarde,54.0,No,Berkeley
+2016-11-14 20:19:00,2016-11-14 20:30:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,11.0,2016,11,14,11-2016,Monday,Noche,283.0,No,Emeryville
+2016-11-15 13:59:00,2016-11-15 14:06:00,Business,Berkeley,Oakland,5.1,,7.0,2016,11,15,11-2016,Tuesday,Tarde,1049.0,No,Berkeley
+2016-11-15 14:09:00,2016-11-15 14:26:00,Business,Oakland,San Francisco,9.7,Temporary Site,17.0,2016,11,15,11-2016,Tuesday,Tarde,3.0,Sí,Oakland
+2016-11-15 20:44:00,2016-11-15 21:00:00,Business,San Francisco,Berkeley,11.8,Temporary Site,16.0,2016,11,15,11-2016,Tuesday,Noche,378.0,No,San Francisco
+2016-11-16 20:21:00,2016-11-16 20:27:00,Business,Berkeley,El Cerrito,2.3,Temporary Site,6.0,2016,11,16,11-2016,Wednesday,Noche,1401.0,No,Berkeley
+2016-11-16 22:52:00,2016-11-16 23:02:00,Business,El Cerrito,Berkeley,3.1,Meal/Entertain,10.0,2016,11,16,11-2016,Wednesday,Noche,145.0,No,El Cerrito
+2016-11-17 10:13:00,2016-11-17 10:44:00,Business,Berkeley,Oakland,16.3,Customer Visit,31.0,2016,11,17,11-2016,Thursday,Mañana,671.0,No,Berkeley
+2016-11-18 20:09:00,2016-11-18 20:19:00,Business,Cary,Morrisville,3.1,Meal/Entertain,10.0,2016,11,18,11-2016,Friday,Noche,2005.0,No,Oakland
+2016-11-18 21:23:00,2016-11-18 21:34:00,Business,Morrisville,Cary,5.2,Meal/Entertain,11.0,2016,11,18,11-2016,Friday,Noche,64.0,No,Morrisville
+2016-11-18 21:56:00,2016-11-18 22:21:00,Business,Krendle Woods,Whitebridge,6.1,Meeting,25.0,2016,11,18,11-2016,Friday,Noche,22.0,No,Cary
+2016-11-19 13:51:00,2016-11-19 14:10:00,Business,Cary,Durham,10.3,Meeting,19.0,2016,11,19,11-2016,Saturday,Tarde,930.0,No,Whitebridge
+2016-11-19 14:30:00,2016-11-19 14:51:00,Business,Durham,Cary,10.5,Meeting,21.0,2016,11,19,11-2016,Saturday,Tarde,20.0,Sí,Durham
+2016-11-19 16:01:00,2016-11-19 16:06:00,Business,Cary,Cary,1.5,,5.0,2016,11,19,11-2016,Saturday,Tarde,70.0,No,Cary
+2016-11-19 16:27:00,2016-11-19 16:41:00,Business,Cary,Cary,1.8,,14.0,2016,11,19,11-2016,Saturday,Tarde,21.0,Sí,Cary
+2016-11-19 17:41:00,2016-11-19 17:54:00,Business,Cary,Apex,5.4,Errand/Supplies,13.0,2016,11,19,11-2016,Saturday,Tarde,60.0,No,Cary
+2016-11-19 21:14:00,2016-11-19 21:35:00,Business,Apex,Cary,5.4,Customer Visit,21.0,2016,11,19,11-2016,Saturday,Noche,200.0,No,Apex
+2016-11-20 10:27:00,2016-11-20 11:32:00,Business,Cary,Cary,39.2,Between Offices,65.0,2016,11,20,11-2016,Sunday,Mañana,772.0,No,Cary
+2016-11-20 11:58:00,2016-11-20 12:28:00,Business,Cary,Cary,6.4,Customer Visit,30.0,2016,11,20,11-2016,Sunday,Mañana,26.0,Sí,Cary
+2016-11-20 14:58:00,2016-11-20 15:07:00,Business,Cary,Cary,2.7,Meeting,9.0,2016,11,20,11-2016,Sunday,Tarde,150.0,No,Cary
+2016-11-20 17:45:00,2016-11-20 18:37:00,Business,Cary,Cary,18.5,Errand/Supplies,52.0,2016,11,20,11-2016,Sunday,Tarde,158.0,No,Cary
+2016-11-21 13:37:00,2016-11-21 13:49:00,Business,Cary,Cary,2.5,Meal/Entertain,12.0,2016,11,21,11-2016,Monday,Tarde,1140.0,No,Cary
+2016-11-21 14:34:00,2016-11-21 14:44:00,Business,Cary,Cary,2.1,Meal/Entertain,10.0,2016,11,21,11-2016,Monday,Tarde,45.0,No,Cary
+2016-11-21 17:50:00,2016-11-21 18:04:00,Business,Cary,Unknown Location,6.7,Errand/Supplies,14.0,2016,11,21,11-2016,Monday,Tarde,186.0,No,Cary
+2016-11-21 18:18:00,2016-11-21 18:27:00,Business,Unknown Location,Morrisville,3.5,Meal/Entertain,9.0,2016,11,21,11-2016,Monday,Noche,14.0,Sí,Unknown Location
+2016-11-21 18:43:00,2016-11-21 18:51:00,Business,Morrisville,Cary,3.4,Errand/Supplies,8.0,2016,11,21,11-2016,Monday,Noche,16.0,Sí,Morrisville
+2016-11-22 15:12:00,2016-11-22 15:27:00,Business,Cary,Cary,5.5,Meeting,15.0,2016,11,22,11-2016,Tuesday,Tarde,1221.0,No,Cary
+2016-11-22 15:31:00,2016-11-22 15:44:00,Business,Cary,Cary,4.1,Meeting,13.0,2016,11,22,11-2016,Tuesday,Tarde,4.0,Sí,Cary
+2016-11-22 15:51:00,2016-11-22 16:43:00,Business,Cary,Cary,12.7,Customer Visit,52.0,2016,11,22,11-2016,Tuesday,Tarde,7.0,Sí,Cary
+2016-11-22 18:18:00,2016-11-22 18:28:00,Business,Cary,Morrisville,3.0,Meal/Entertain,10.0,2016,11,22,11-2016,Tuesday,Noche,95.0,No,Cary
+2016-11-22 21:02:00,2016-11-22 21:14:00,Business,Morrisville,Cary,3.5,Customer Visit,12.0,2016,11,22,11-2016,Tuesday,Noche,154.0,No,Morrisville
+2016-11-23 15:34:00,2016-11-23 15:50:00,Business,Cary,Cary,5.9,Meal/Entertain,16.0,2016,11,23,11-2016,Wednesday,Tarde,1100.0,No,Cary
+2016-11-23 16:18:00,2016-11-23 16:29:00,Business,Cary,Cary,1.9,,11.0,2016,11,23,11-2016,Wednesday,Tarde,28.0,Sí,Cary
+2016-11-23 16:49:00,2016-11-23 17:00:00,Business,Cary,Cary,3.3,,11.0,2016,11,23,11-2016,Wednesday,Tarde,20.0,Sí,Cary
+2016-11-23 18:37:00,2016-11-23 18:47:00,Business,Cary,Cary,1.3,,10.0,2016,11,23,11-2016,Wednesday,Noche,97.0,No,Cary
+2016-11-25 11:47:00,2016-11-25 12:04:00,Business,Cary,Durham,10.3,Meeting,17.0,2016,11,25,11-2016,Friday,Mañana,2460.0,No,Cary
+2016-11-25 13:13:00,2016-11-25 13:31:00,Business,Durham,Cary,11.1,Meeting,18.0,2016,11,25,11-2016,Friday,Tarde,69.0,No,Durham
+2016-11-26 15:54:00,2016-11-26 15:59:00,Business,Cary,Cary,1.4,,5.0,2016,11,26,11-2016,Saturday,Tarde,1583.0,No,Cary
+2016-11-26 17:00:00,2016-11-26 17:12:00,Business,Cary,Apex,5.1,Meeting,12.0,2016,11,26,11-2016,Saturday,Tarde,61.0,No,Cary
+2016-11-26 17:36:00,2016-11-26 17:56:00,Business,Apex,Holly Springs,9.0,Meeting,20.0,2016,11,26,11-2016,Saturday,Tarde,24.0,Sí,Apex
+2016-11-26 18:29:00,2016-11-26 19:04:00,Business,Holly Springs,Cary,13.3,Between Offices,35.0,2016,11,26,11-2016,Saturday,Noche,33.0,No,Holly Springs
+2016-11-26 19:47:00,2016-11-26 19:54:00,Business,Cary,Cary,2.5,Errand/Supplies,7.0,2016,11,26,11-2016,Saturday,Noche,43.0,No,Cary
+2016-11-27 15:59:00,2016-11-27 16:06:00,Business,Cary,Morrisville,3.3,Meal/Entertain,7.0,2016,11,27,11-2016,Sunday,Tarde,1205.0,No,Cary
+2016-11-27 18:55:00,2016-11-27 19:09:00,Business,Morrisville,Cary,2.9,,14.0,2016,11,27,11-2016,Sunday,Noche,169.0,No,Morrisville
+2016-11-30 11:03:00,2016-11-30 11:34:00,Business,Cary,Raleigh,8.5,Customer Visit,31.0,2016,11,30,11-2016,Wednesday,Mañana,3834.0,No,Cary
+2016-11-30 11:53:00,2016-11-30 12:35:00,Business,Raleigh,Morrisville,6.7,Temporary Site,42.0,2016,11,30,11-2016,Wednesday,Mañana,19.0,Sí,Raleigh
+2016-11-30 12:43:00,2016-11-30 12:53:00,Business,Morrisville,Cary,3.1,,10.0,2016,11,30,11-2016,Wednesday,Tarde,8.0,Sí,Morrisville
+2016-12-01 07:44:00,2016-12-01 07:59:00,Business,Cary,Cary,5.5,Meeting,15.0,2016,12,1,12-2016,Thursday,Mañana,1131.0,No,Cary
+2016-12-01 08:37:00,2016-12-01 08:53:00,Business,Cary,Cary,5.5,Errand/Supplies,16.0,2016,12,1,12-2016,Thursday,Mañana,38.0,No,Cary
+2016-12-01 18:00:00,2016-12-01 18:12:00,Business,Cary,Morrisville,2.9,Meal/Entertain,12.0,2016,12,1,12-2016,Thursday,Noche,547.0,No,Cary
+2016-12-01 20:36:00,2016-12-01 20:46:00,Business,Morrisville,Cary,2.9,Customer Visit,10.0,2016,12,1,12-2016,Thursday,Noche,144.0,No,Morrisville
+2016-12-02 12:12:00,2016-12-02 12:23:00,Business,Cary,Apex,5.1,Meal/Entertain,11.0,2016,12,2,12-2016,Friday,Tarde,926.0,No,Cary
+2016-12-02 13:07:00,2016-12-02 13:22:00,Business,Apex,Cary,5.3,Customer Visit,15.0,2016,12,2,12-2016,Friday,Tarde,44.0,No,Apex
+2016-12-02 20:41:00,2016-12-02 20:48:00,Business,Cary,Morrisville,3.3,Meal/Entertain,7.0,2016,12,2,12-2016,Friday,Noche,439.0,No,Cary
+2016-12-02 22:59:00,2016-12-02 23:07:00,Business,Morrisville,Cary,3.0,Customer Visit,8.0,2016,12,2,12-2016,Friday,Noche,131.0,No,Morrisville
+2016-12-03 18:35:00,2016-12-03 18:56:00,Business,Cary,Wake Co.,6.6,Errand/Supplies,21.0,2016,12,3,12-2016,Saturday,Noche,1168.0,No,Cary
+2016-12-03 19:08:00,2016-12-03 19:15:00,Business,Wake Co.,Morrisville,1.8,,7.0,2016,12,3,12-2016,Saturday,Noche,12.0,Sí,Wake Co.
+2016-12-03 20:31:00,2016-12-03 20:41:00,Business,Morrisville,Cary,3.0,Customer Visit,10.0,2016,12,3,12-2016,Saturday,Noche,76.0,No,Morrisville
+2016-12-04 18:56:00,2016-12-04 19:03:00,Business,Cary,Morrisville,2.9,Meal/Entertain,7.0,2016,12,4,12-2016,Sunday,Noche,1335.0,No,Cary
+2016-12-04 20:23:00,2016-12-04 20:34:00,Business,Morrisville,Cary,3.4,Customer Visit,11.0,2016,12,4,12-2016,Sunday,Noche,80.0,No,Morrisville
+2016-12-05 18:04:00,2016-12-05 18:17:00,Business,Cary,Cary,4.1,,13.0,2016,12,5,12-2016,Monday,Noche,1290.0,No,Cary
+2016-12-05 19:22:00,2016-12-05 19:37:00,Business,Cary,Cary,3.8,Meal/Entertain,15.0,2016,12,5,12-2016,Monday,Noche,65.0,No,Cary
+2016-12-07 12:03:00,2016-12-07 12:32:00,Business,Cary,Cary,6.6,Meeting,29.0,2016,12,7,12-2016,Wednesday,Tarde,2426.0,No,Cary
+2016-12-07 12:35:00,2016-12-07 12:46:00,Business,Cary,Cary,4.0,Meeting,11.0,2016,12,7,12-2016,Wednesday,Tarde,3.0,Sí,Cary
+2016-12-07 19:53:00,2016-12-07 20:13:00,Business,Cary,Cary,7.0,Customer Visit,20.0,2016,12,7,12-2016,Wednesday,Noche,427.0,No,Cary
+2016-12-07 21:13:00,2016-12-07 21:50:00,Business,Cary,Cary,6.9,Meal/Entertain,37.0,2016,12,7,12-2016,Wednesday,Noche,60.0,No,Cary
+2016-12-08 14:19:00,2016-12-08 14:32:00,Business,Cary,Cary,3.4,Errand/Supplies,13.0,2016,12,8,12-2016,Thursday,Tarde,989.0,No,Cary
+2016-12-08 14:53:00,2016-12-08 15:02:00,Business,Cary,Cary,3.4,Errand/Supplies,9.0,2016,12,8,12-2016,Thursday,Tarde,21.0,Sí,Cary
+2016-12-08 19:22:00,2016-12-08 19:27:00,Business,Cary,Cary,2.0,Meeting,5.0,2016,12,8,12-2016,Thursday,Noche,260.0,No,Cary
+2016-12-08 21:26:00,2016-12-08 21:31:00,Business,Cary,Cary,2.0,Errand/Supplies,5.0,2016,12,8,12-2016,Thursday,Noche,119.0,No,Cary
+2016-12-09 12:09:00,2016-12-09 12:24:00,Business,Cary,Apex,5.1,Errand/Supplies,15.0,2016,12,9,12-2016,Friday,Tarde,878.0,No,Cary
+2016-12-09 13:15:00,2016-12-09 13:43:00,Business,Apex,Cary,8.8,Temporary Site,28.0,2016,12,9,12-2016,Friday,Tarde,51.0,No,Apex
+2016-12-09 20:11:00,2016-12-09 20:34:00,Business,Cary,Cary,5.6,Meeting,23.0,2016,12,9,12-2016,Friday,Noche,388.0,No,Cary
+2016-12-09 22:03:00,2016-12-09 22:57:00,Business,Cary,Cary,18.9,Customer Visit,54.0,2016,12,9,12-2016,Friday,Noche,89.0,No,Cary
+2016-12-10 12:43:00,2016-12-10 13:16:00,Business,Cary,Fuquay-Varina,15.6,Meeting,33.0,2016,12,10,12-2016,Saturday,Tarde,826.0,No,Cary
+2016-12-10 14:42:00,2016-12-10 15:18:00,Business,Fuquay-Varina,Cary,15.6,Errand/Supplies,36.0,2016,12,10,12-2016,Saturday,Tarde,86.0,No,Fuquay-Varina
+2016-12-10 18:17:00,2016-12-10 18:27:00,Business,Cary,Morrisville,3.0,Meal/Entertain,10.0,2016,12,10,12-2016,Saturday,Noche,179.0,No,Cary
+2016-12-10 22:09:00,2016-12-10 22:21:00,Business,Morrisville,Cary,3.1,Customer Visit,12.0,2016,12,10,12-2016,Saturday,Noche,222.0,No,Morrisville
+2016-12-11 16:06:00,2016-12-11 16:16:00,Business,Cary,Morrisville,3.0,Meal/Entertain,10.0,2016,12,11,12-2016,Sunday,Tarde,1065.0,No,Cary
+2016-12-11 19:05:00,2016-12-11 19:15:00,Business,Morrisville,Cary,4.8,Errand/Supplies,10.0,2016,12,11,12-2016,Sunday,Noche,169.0,No,Morrisville
+2016-12-11 21:48:00,2016-12-11 21:56:00,Business,Cary,Cary,2.1,Errand/Supplies,8.0,2016,12,11,12-2016,Sunday,Noche,153.0,No,Cary
+2016-12-12 13:22:00,2016-12-12 13:32:00,Business,Cary,Cary,3.1,Errand/Supplies,10.0,2016,12,12,12-2016,Monday,Tarde,926.0,No,Cary
+2016-12-12 13:36:00,2016-12-12 13:51:00,Business,Cary,Apex,4.4,Meal/Entertain,15.0,2016,12,12,12-2016,Monday,Tarde,4.0,Sí,Cary
+2016-12-12 14:26:00,2016-12-12 14:39:00,Business,Apex,Cary,4.7,Customer Visit,13.0,2016,12,12,12-2016,Monday,Tarde,35.0,No,Apex
+2016-12-12 17:51:00,2016-12-12 18:01:00,Business,Cary,Morrisville,3.0,Meal/Entertain,10.0,2016,12,12,12-2016,Monday,Tarde,192.0,No,Cary
+2016-12-12 20:48:00,2016-12-12 20:57:00,Business,Morrisville,Cary,3.0,Customer Visit,9.0,2016,12,12,12-2016,Monday,Noche,167.0,No,Morrisville
+2016-12-13 18:19:00,2016-12-13 18:29:00,Business,Cary,Cary,4.2,Errand/Supplies,10.0,2016,12,13,12-2016,Tuesday,Noche,1282.0,No,Cary
+2016-12-13 20:20:00,2016-12-13 20:29:00,Business,Cary,Cary,4.1,Meal/Entertain,9.0,2016,12,13,12-2016,Tuesday,Noche,111.0,No,Cary
+2016-12-14 16:52:00,2016-12-14 17:10:00,Business,Cary,Cary,3.4,,18.0,2016,12,14,12-2016,Wednesday,Tarde,1223.0,No,Cary
+2016-12-14 17:22:00,2016-12-14 17:34:00,Business,Cary,Cary,3.3,,12.0,2016,12,14,12-2016,Wednesday,Tarde,12.0,Sí,Cary
+2016-12-14 17:50:00,2016-12-14 18:00:00,Business,Cary,Morrisville,3.0,Meal/Entertain,10.0,2016,12,14,12-2016,Wednesday,Tarde,16.0,Sí,Cary
+2016-12-14 20:24:00,2016-12-14 20:40:00,Business,Morrisville,Cary,3.1,Customer Visit,16.0,2016,12,14,12-2016,Wednesday,Noche,144.0,No,Morrisville
+2016-12-15 14:20:00,2016-12-15 14:54:00,Business,Cary,Morrisville,10.6,Meeting,34.0,2016,12,15,12-2016,Thursday,Tarde,1060.0,No,Cary
+2016-12-17 15:38:00,2016-12-17 16:12:00,Business,Unknown Location,Unknown Location,4.8,Airport/Travel,34.0,2016,12,17,12-2016,Saturday,Tarde,2924.0,No,Morrisville
+2016-12-17 17:19:00,2016-12-17 17:59:00,Business,Unknown Location,Unknown Location,5.3,Temporary Site,40.0,2016,12,17,12-2016,Saturday,Tarde,67.0,No,Unknown Location
+2016-12-18 13:03:00,2016-12-18 13:41:00,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies,38.0,2016,12,18,12-2016,Sunday,Tarde,1144.0,No,Unknown Location
+2016-12-18 16:38:00,2016-12-18 17:25:00,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies,47.0,2016,12,18,12-2016,Sunday,Tarde,177.0,No,Unknown Location
+2016-12-18 20:35:00,2016-12-18 21:04:00,Business,Unknown Location,Unknown Location,9.2,,29.0,2016,12,18,12-2016,Sunday,Noche,190.0,No,Unknown Location
+2016-12-19 09:08:00,2016-12-19 09:36:00,Business,Unknown Location,Islamabad,7.7,Errand/Supplies,28.0,2016,12,19,12-2016,Monday,Mañana,724.0,No,Unknown Location
+2016-12-19 10:15:00,2016-12-19 10:34:00,Business,Islamabad,Rawalpindi,5.9,Temporary Site,19.0,2016,12,19,12-2016,Monday,Mañana,39.0,No,Islamabad
+2016-12-19 13:04:00,2016-12-19 13:08:00,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies,4.0,2016,12,19,12-2016,Monday,Tarde,150.0,No,Rawalpindi
+2016-12-19 13:24:00,2016-12-19 13:35:00,Business,Unknown Location,Unknown Location,1.3,,11.0,2016,12,19,12-2016,Monday,Tarde,16.0,Sí,Unknown Location
+2016-12-19 14:07:00,2016-12-19 14:15:00,Business,Unknown Location,Unknown Location,2.5,,8.0,2016,12,19,12-2016,Monday,Tarde,32.0,No,Unknown Location
+2016-12-19 14:18:00,2016-12-19 14:32:00,Business,Unknown Location,Unknown Location,5.3,,14.0,2016,12,19,12-2016,Monday,Tarde,3.0,Sí,Unknown Location
+2016-12-19 14:37:00,2016-12-19 14:50:00,Business,Unknown Location,Unknown Location,5.4,,13.0,2016,12,19,12-2016,Monday,Tarde,5.0,Sí,Unknown Location
+2016-12-19 15:09:00,2016-12-19 15:38:00,Business,Unknown Location,Rawalpindi,10.2,Customer Visit,29.0,2016,12,19,12-2016,Monday,Tarde,19.0,Sí,Unknown Location
+2016-12-19 16:50:00,2016-12-19 17:09:00,Business,Rawalpindi,Islamabad,7.2,Customer Visit,19.0,2016,12,19,12-2016,Monday,Tarde,72.0,No,Rawalpindi
+2016-12-19 19:05:00,2016-12-19 19:17:00,Business,Islamabad,Unknown Location,2.2,,12.0,2016,12,19,12-2016,Monday,Noche,116.0,No,Islamabad
+2016-12-19 19:55:00,2016-12-19 20:30:00,Business,Unknown Location,Unknown Location,11.0,Meeting,35.0,2016,12,19,12-2016,Monday,Noche,38.0,No,Unknown Location
+2016-12-20 08:49:00,2016-12-20 09:24:00,Business,Unknown Location,Rawalpindi,12.0,,35.0,2016,12,20,12-2016,Tuesday,Mañana,739.0,No,Unknown Location
+2016-12-20 10:30:00,2016-12-20 10:48:00,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies,18.0,2016,12,20,12-2016,Tuesday,Mañana,66.0,No,Rawalpindi
+2016-12-20 11:30:00,2016-12-20 12:17:00,Business,Rawalpindi,Unknown Location,19.4,Meeting,47.0,2016,12,20,12-2016,Tuesday,Mañana,42.0,No,Rawalpindi
+2016-12-20 13:14:00,2016-12-20 13:20:00,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies,6.0,2016,12,20,12-2016,Tuesday,Tarde,57.0,No,Unknown Location
+2016-12-20 13:54:00,2016-12-20 14:17:00,Business,Unknown Location,Islamabad,5.7,Temporary Site,23.0,2016,12,20,12-2016,Tuesday,Tarde,34.0,No,Unknown Location
+2016-12-20 16:14:00,2016-12-20 16:24:00,Business,Islamabad,Islamabad,1.8,Errand/Supplies,10.0,2016,12,20,12-2016,Tuesday,Tarde,117.0,No,Islamabad
+2016-12-20 16:56:00,2016-12-20 17:07:00,Business,Islamabad,Islamabad,1.4,Errand/Supplies,11.0,2016,12,20,12-2016,Tuesday,Tarde,32.0,No,Islamabad
+2016-12-20 18:47:00,2016-12-20 19:21:00,Business,Islamabad,Unknown Location,10.3,Customer Visit,34.0,2016,12,20,12-2016,Tuesday,Noche,100.0,No,Islamabad
+2016-12-21 07:42:00,2016-12-21 08:10:00,Business,Unknown Location,Unknown Location,11.5,Meeting,28.0,2016,12,21,12-2016,Wednesday,Mañana,741.0,No,Unknown Location
+2016-12-21 10:14:00,2016-12-21 10:30:00,Business,Unknown Location,Islamabad,4.9,Errand/Supplies,16.0,2016,12,21,12-2016,Wednesday,Mañana,124.0,No,Unknown Location
+2016-12-21 11:35:00,2016-12-21 11:49:00,Business,Islamabad,Unknown Location,3.5,Meal/Entertain,14.0,2016,12,21,12-2016,Wednesday,Mañana,65.0,No,Islamabad
+2016-12-21 12:51:00,2016-12-21 13:33:00,Business,Unknown Location,Unknown Location,16.2,Meeting,42.0,2016,12,21,12-2016,Wednesday,Tarde,62.0,No,Unknown Location
+2016-12-21 15:38:00,2016-12-21 15:49:00,Business,Unknown Location,Unknown Location,2.0,Errand/Supplies,11.0,2016,12,21,12-2016,Wednesday,Tarde,125.0,No,Unknown Location
+2016-12-21 15:55:00,2016-12-21 16:05:00,Business,Unknown Location,Islamabad,2.1,Errand/Supplies,10.0,2016,12,21,12-2016,Wednesday,Tarde,6.0,Sí,Unknown Location
+2016-12-21 17:45:00,2016-12-21 17:54:00,Business,Islamabad,Islamabad,2.1,Meeting,9.0,2016,12,21,12-2016,Wednesday,Tarde,100.0,No,Islamabad
+2016-12-21 17:59:00,2016-12-21 18:31:00,Business,Islamabad,Unknown Location,7.2,Customer Visit,32.0,2016,12,21,12-2016,Wednesday,Tarde,5.0,Sí,Islamabad
+2016-12-21 19:49:00,2016-12-21 20:35:00,Business,Unknown Location,Rawalpindi,12.0,Meeting,46.0,2016,12,21,12-2016,Wednesday,Noche,78.0,No,Unknown Location
+2016-12-21 20:56:00,2016-12-21 23:42:00,Business,Rawalpindi,Unknown Location,103.0,Meeting,166.0,2016,12,21,12-2016,Wednesday,Noche,21.0,Sí,Rawalpindi
+2016-12-22 15:40:00,2016-12-22 16:38:00,Business,Unknown Location,Unknown Location,32.3,Meeting,58.0,2016,12,22,12-2016,Thursday,Tarde,958.0,No,Unknown Location
+2016-12-22 17:04:00,2016-12-22 17:20:00,Business,Unknown Location,Unknown Location,5.3,Customer Visit,16.0,2016,12,22,12-2016,Thursday,Tarde,26.0,Sí,Unknown Location
+2016-12-22 17:27:00,2016-12-22 17:53:00,Business,Unknown Location,Unknown Location,11.6,Meeting,26.0,2016,12,22,12-2016,Thursday,Tarde,7.0,Sí,Unknown Location
+2016-12-22 17:56:00,2016-12-22 18:29:00,Business,Unknown Location,Unknown Location,23.2,Meeting,33.0,2016,12,22,12-2016,Thursday,Tarde,3.0,Sí,Unknown Location
+2016-12-22 18:31:00,2016-12-22 18:37:00,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,6.0,2016,12,22,12-2016,Thursday,Noche,2.0,Sí,Unknown Location
+2016-12-22 18:38:00,2016-12-22 18:47:00,Business,Unknown Location,Unknown Location,12.3,Temporary Site,9.0,2016,12,22,12-2016,Thursday,Noche,1.0,Sí,Unknown Location
+2016-12-22 19:04:00,2016-12-22 19:50:00,Business,Unknown Location,Lahore,14.0,Meeting,46.0,2016,12,22,12-2016,Thursday,Noche,17.0,Sí,Unknown Location
+2016-12-22 21:41:00,2016-12-22 21:53:00,Business,Lahore,Lahore,2.1,Meal/Entertain,12.0,2016,12,22,12-2016,Thursday,Noche,111.0,No,Lahore
+2016-12-22 23:27:00,2016-12-22 23:32:00,Business,Lahore,Lahore,2.1,Customer Visit,5.0,2016,12,22,12-2016,Thursday,Madrugada,94.0,No,Lahore
+2016-12-23 09:21:00,2016-12-23 09:41:00,Business,Lahore,Lahore,3.0,Meeting,20.0,2016,12,23,12-2016,Friday,Mañana,589.0,No,Lahore
+2016-12-23 11:33:00,2016-12-23 11:58:00,Business,Lahore,Unknown Location,6.2,Meeting,25.0,2016,12,23,12-2016,Friday,Mañana,112.0,No,Lahore
+2016-12-23 14:15:00,2016-12-23 15:25:00,Business,Unknown Location,Unknown Location,9.6,Meeting,70.0,2016,12,23,12-2016,Friday,Tarde,137.0,No,Unknown Location
+2016-12-23 16:23:00,2016-12-23 16:34:00,Business,Unknown Location,Unknown Location,1.3,Errand/Supplies,11.0,2016,12,23,12-2016,Friday,Tarde,58.0,No,Unknown Location
+2016-12-23 17:34:00,2016-12-23 18:27:00,Business,Unknown Location,Lahore,7.1,Meal/Entertain,53.0,2016,12,23,12-2016,Friday,Tarde,60.0,No,Unknown Location
+2016-12-24 07:43:00,2016-12-24 08:04:00,Business,Lahore,Unknown Location,6.3,Meal/Entertain,21.0,2016,12,24,12-2016,Saturday,Mañana,796.0,No,Lahore
+2016-12-24 09:19:00,2016-12-24 09:55:00,Business,Unknown Location,Lahore,10.7,Meal/Entertain,36.0,2016,12,24,12-2016,Saturday,Mañana,75.0,No,Unknown Location
+2016-12-24 10:34:00,2016-12-24 10:53:00,Business,Lahore,Lahore,5.3,Meal/Entertain,19.0,2016,12,24,12-2016,Saturday,Mañana,39.0,No,Lahore
+2016-12-24 12:51:00,2016-12-24 12:53:00,Business,Lahore,Lahore,1.6,Errand/Supplies,2.0,2016,12,24,12-2016,Saturday,Tarde,118.0,No,Lahore
+2016-12-24 13:08:00,2016-12-24 13:29:00,Business,Lahore,Lahore,3.6,Errand/Supplies,21.0,2016,12,24,12-2016,Saturday,Tarde,15.0,Sí,Lahore
+2016-12-24 17:12:00,2016-12-24 17:27:00,Business,Lahore,Lahore,1.7,Errand/Supplies,15.0,2016,12,24,12-2016,Saturday,Tarde,223.0,No,Lahore
+2016-12-24 19:12:00,2016-12-24 19:27:00,Business,Lahore,Lahore,2.9,Meal/Entertain,15.0,2016,12,24,12-2016,Saturday,Noche,105.0,No,Lahore
+2016-12-24 22:04:00,2016-12-24 22:09:00,Business,Lahore,Lahore,0.6,Errand/Supplies,5.0,2016,12,24,12-2016,Saturday,Noche,157.0,No,Lahore
+2016-12-25 00:10:00,2016-12-25 00:14:00,Business,Lahore,Lahore,0.6,Errand/Supplies,4.0,2016,12,25,12-2016,Sunday,Madrugada,121.0,No,Lahore
+2016-12-25 19:15:00,2016-12-25 19:26:00,Business,Lahore,Lahore,2.3,Meal/Entertain,11.0,2016,12,25,12-2016,Sunday,Noche,1141.0,No,Lahore
+2016-12-25 21:58:00,2016-12-25 22:04:00,Business,Lahore,Lahore,2.3,Meal/Entertain,6.0,2016,12,25,12-2016,Sunday,Noche,152.0,No,Lahore
+2016-12-26 08:30:00,2016-12-26 08:41:00,Business,Lahore,Lahore,3.2,Meal/Entertain,11.0,2016,12,26,12-2016,Monday,Mañana,626.0,No,Lahore
+2016-12-26 09:05:00,2016-12-26 09:19:00,Business,Lahore,Lahore,6.2,Customer Visit,14.0,2016,12,26,12-2016,Monday,Mañana,24.0,Sí,Lahore
+2016-12-26 10:15:00,2016-12-26 10:36:00,Business,Lahore,Lahore,7.7,Customer Visit,21.0,2016,12,26,12-2016,Monday,Mañana,56.0,No,Lahore
+2016-12-26 11:29:00,2016-12-26 11:42:00,Business,Lahore,Lahore,3.8,Customer Visit,13.0,2016,12,26,12-2016,Monday,Mañana,53.0,No,Lahore
+2016-12-26 13:09:00,2016-12-26 13:43:00,Business,Lahore,Unknown Location,7.9,Meeting,34.0,2016,12,26,12-2016,Monday,Tarde,87.0,No,Lahore
+2016-12-27 07:02:00,2016-12-27 07:14:00,Business,Kar?Chi,Kar?Chi,4.9,Temporary Site,12.0,2016,12,27,12-2016,Tuesday,Mañana,1039.0,No,Unknown Location
+2016-12-27 08:37:00,2016-12-27 08:59:00,Business,Kar?Chi,Kar?Chi,5.0,Meal/Entertain,22.0,2016,12,27,12-2016,Tuesday,Mañana,83.0,No,Kar?Chi
+2016-12-27 12:53:00,2016-12-27 12:57:00,Business,Kar?Chi,Kar?Chi,0.6,Meal/Entertain,4.0,2016,12,27,12-2016,Tuesday,Tarde,234.0,No,Kar?Chi
+2016-12-27 14:49:00,2016-12-27 15:03:00,Business,Kar?Chi,Unknown Location,3.1,Customer Visit,14.0,2016,12,27,12-2016,Tuesday,Tarde,112.0,No,Kar?Chi
+2016-12-27 16:34:00,2016-12-27 16:58:00,Business,Unknown Location,Kar?Chi,7.9,Meeting,24.0,2016,12,27,12-2016,Tuesday,Tarde,91.0,No,Unknown Location
+2016-12-27 19:19:00,2016-12-27 19:50:00,Business,Kar?Chi,Kar?Chi,5.5,Customer Visit,31.0,2016,12,27,12-2016,Tuesday,Noche,141.0,No,Kar?Chi
+2016-12-28 08:34:00,2016-12-28 09:06:00,Business,Kar?Chi,Unknown Location,10.3,Meal/Entertain,32.0,2016,12,28,12-2016,Wednesday,Mañana,764.0,No,Kar?Chi
+2016-12-28 11:42:00,2016-12-28 12:12:00,Business,Unknown Location,Kar?Chi,10.4,Errand/Supplies,30.0,2016,12,28,12-2016,Wednesday,Mañana,156.0,No,Unknown Location
+2016-12-28 13:53:00,2016-12-28 14:01:00,Business,Kar?Chi,Kar?Chi,2.0,Errand/Supplies,8.0,2016,12,28,12-2016,Wednesday,Tarde,101.0,No,Kar?Chi
+2016-12-28 15:04:00,2016-12-28 15:39:00,Business,Kar?Chi,Unknown Location,8.5,Meal/Entertain,35.0,2016,12,28,12-2016,Wednesday,Tarde,63.0,No,Kar?Chi
+2016-12-28 17:02:00,2016-12-28 17:16:00,Business,Unknown Location,Kar?Chi,4.4,Errand/Supplies,14.0,2016,12,28,12-2016,Wednesday,Tarde,83.0,No,Unknown Location
+2016-12-28 18:33:00,2016-12-28 18:56:00,Business,Kar?Chi,Kar?Chi,3.8,Errand/Supplies,23.0,2016,12,28,12-2016,Wednesday,Noche,77.0,No,Kar?Chi
+2016-12-28 22:44:00,2016-12-28 23:18:00,Business,Kar?Chi,Kar?Chi,5.1,Errand/Supplies,34.0,2016,12,28,12-2016,Wednesday,Noche,228.0,No,Kar?Chi
+2016-12-29 00:49:00,2016-12-29 01:06:00,Business,Kar?Chi,Kar?Chi,3.8,Errand/Supplies,17.0,2016,12,29,12-2016,Thursday,Madrugada,91.0,No,Kar?Chi
+2016-12-29 09:44:00,2016-12-29 10:07:00,Business,Kar?Chi,Unknown Location,11.6,Meal/Entertain,23.0,2016,12,29,12-2016,Thursday,Mañana,518.0,No,Kar?Chi
+2016-12-29 11:28:00,2016-12-29 12:00:00,Business,Unknown Location,Kar?Chi,11.9,Meal/Entertain,32.0,2016,12,29,12-2016,Thursday,Mañana,81.0,No,Unknown Location
+2016-12-29 12:25:00,2016-12-29 12:33:00,Business,Kar?Chi,Kar?Chi,1.4,Errand/Supplies,8.0,2016,12,29,12-2016,Thursday,Tarde,25.0,Sí,Kar?Chi
+2016-12-29 13:17:00,2016-12-29 13:24:00,Business,Kar?Chi,Kar?Chi,1.1,Errand/Supplies,7.0,2016,12,29,12-2016,Thursday,Tarde,44.0,No,Kar?Chi
+2016-12-29 13:56:00,2016-12-29 14:11:00,Business,Kar?Chi,Kar?Chi,4.1,Airport/Travel,15.0,2016,12,29,12-2016,Thursday,Tarde,32.0,No,Kar?Chi
+2016-12-29 14:42:00,2016-12-29 14:58:00,Business,Kar?Chi,Kar?Chi,6.1,Between Offices,16.0,2016,12,29,12-2016,Thursday,Tarde,31.0,No,Kar?Chi
+2016-12-29 15:05:00,2016-12-29 15:16:00,Business,Kar?Chi,Kar?Chi,1.3,Errand/Supplies,11.0,2016,12,29,12-2016,Thursday,Tarde,7.0,Sí,Kar?Chi
+2016-12-29 18:59:00,2016-12-29 19:14:00,Business,Kar?Chi,Unknown Location,3.0,Meal/Entertain,15.0,2016,12,29,12-2016,Thursday,Noche,223.0,No,Kar?Chi
+2016-12-29 19:50:00,2016-12-29 20:10:00,Business,Unknown Location,Kar?Chi,4.1,Customer Visit,20.0,2016,12,29,12-2016,Thursday,Noche,36.0,No,Unknown Location
+2016-12-29 20:15:00,2016-12-29 20:45:00,Business,Kar?Chi,Kar?Chi,7.2,Meeting,30.0,2016,12,29,12-2016,Thursday,Noche,5.0,Sí,Kar?Chi
+2016-12-29 20:53:00,2016-12-29 21:42:00,Business,Kar?Chi,Unknown Location,6.4,,49.0,2016,12,29,12-2016,Thursday,Noche,8.0,Sí,Kar?Chi
+2016-12-29 23:14:00,2016-12-29 23:47:00,Business,Unknown Location,Kar?Chi,12.9,Meeting,33.0,2016,12,29,12-2016,Thursday,Madrugada,92.0,No,Unknown Location
+2016-12-30 10:15:00,2016-12-30 10:33:00,Business,Kar?Chi,Kar?Chi,2.8,Errand/Supplies,18.0,2016,12,30,12-2016,Friday,Mañana,628.0,No,Kar?Chi
+2016-12-30 11:31:00,2016-12-30 11:56:00,Business,Kar?Chi,Kar?Chi,2.9,Errand/Supplies,25.0,2016,12,30,12-2016,Friday,Mañana,58.0,No,Kar?Chi
+2016-12-30 15:41:00,2016-12-30 16:03:00,Business,Kar?Chi,Kar?Chi,4.6,Errand/Supplies,22.0,2016,12,30,12-2016,Friday,Tarde,225.0,No,Kar?Chi
+2016-12-30 16:45:00,2016-12-30 17:08:00,Business,Kar?Chi,Kar?Chi,4.6,Meeting,23.0,2016,12,30,12-2016,Friday,Tarde,42.0,No,Kar?Chi
+2016-12-30 23:06:00,2016-12-30 23:10:00,Business,Kar?Chi,Kar?Chi,0.8,Customer Visit,4.0,2016,12,30,12-2016,Friday,Madrugada,358.0,No,Kar?Chi
+2016-12-31 01:07:00,2016-12-31 01:14:00,Business,Kar?Chi,Kar?Chi,0.7,Meeting,7.0,2016,12,31,12-2016,Saturday,Madrugada,117.0,No,Kar?Chi
+2016-12-31 13:24:00,2016-12-31 13:42:00,Business,Kar?Chi,Unknown Location,3.9,Temporary Site,18.0,2016,12,31,12-2016,Saturday,Tarde,730.0,No,Kar?Chi
+2016-12-31 15:03:00,2016-12-31 15:38:00,Business,Unknown Location,Unknown Location,16.2,Meeting,35.0,2016,12,31,12-2016,Saturday,Tarde,81.0,No,Unknown Location
+2016-12-31 21:32:00,2016-12-31 21:50:00,Business,Katunayake,Gampaha,6.4,Temporary Site,18.0,2016,12,31,12-2016,Saturday,Noche,354.0,No,Unknown Location
+2016-12-31 22:08:00,2016-12-31 23:51:00,Business,Gampaha,Ilukwatta,48.2,Temporary Site,103.0,2016,12,31,12-2016,Saturday,Noche,18.0,Sí,Gampaha
