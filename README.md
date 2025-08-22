@@ -35,5 +35,6 @@
 <h1 align="center">🤝 Contacto</h1>
 
 <!-- Detalle contacto -->
-<p>
+<p align="justify">
 Si te interesa conocer más sobre mi experiencia y explorar cómo puedo aportar valor a tu equipo, estaré encantado de conversar. Puedes contactarme directamente a través de <a href="https://www.linkedin.com/in/vicente-zoccola-057098211">LinkedIn</a>, enviarme un correo a <a href="mailto:v.zoccolad@gmail.com">v.zoccolad@gmail.com</a> o revisar mi <a href="https://drive.google.com/file/d/1e7AZ_F9CU4Waau9ZhMYLO5aU4ercZdAX/view?usp=sharing">CV</a>. Estoy abierto a nuevas oportunidades donde los datos, la tecnología y la estrategia se unan para generar impacto real!
+</p>
